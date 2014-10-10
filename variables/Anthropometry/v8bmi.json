@@ -1,0 +1,7 @@
+{
+  "id": "v8bmi",
+  "display_name": "Body mass index",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meters squared"
+}
