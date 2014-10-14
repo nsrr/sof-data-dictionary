@@ -1,5 +1,4 @@
 require 'test_helper'
-require 'colorize'
 
 class DictionaryTest < Minitest::Test
   # This line includes all default Spout Dictionary tests
