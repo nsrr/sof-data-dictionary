@@ -1,7 +1,7 @@
 {
   "id": "v8trlnum",
-  "display_name": "Trails B last lttr/number correct",
+  "display_name": "Trails B last letter or number correct",
   "description": "",
-  "type": "numeric",
+  "type": "string",
   "units": ""
 }

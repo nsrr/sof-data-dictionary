@@ -1,7 +1,7 @@
 {
   "id": "v8trlbts",
-  "display_name": "Trails B secs to complete (extrapolated)",
+  "display_name": "Trails B time to complete (extrapolated)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

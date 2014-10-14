@@ -1,7 +1,7 @@
 {
   "id": "v8tbsec",
-  "display_name": "Seconds to be complete trails B(0-180)",
+  "display_name": "Time to be complete trails B",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "seconds"
 }

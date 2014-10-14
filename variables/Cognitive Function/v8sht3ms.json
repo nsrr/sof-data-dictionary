@@ -1,7 +1,7 @@
 {
   "id": "v8sht3ms",
-  "display_name": "Short mini-mental status exam (0-26)",
-  "description": "",
+  "display_name": "Short mini-mental status exam",
+  "description": "Valid scores range from 0 to 26",
   "type": "numeric",
   "units": ""
 }
