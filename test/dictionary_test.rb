@@ -8,13 +8,6 @@ class DictionaryTest < Minitest::Test
   # iterators that can be used to write custom tests
   include Spout::Helpers::Iterators
 
-
-  @variables.each do |variable|
-    define_method("test_no_more_than_255_display_name: "+variable.path) do
-      assert_operator 255, :>=, variable.display_name.size
-    end
-  end
-
   # Example 1: Create custom tests to show that `integer` and `numeric` variables have a valid unit type
   VALID_UNITS = ["centimeters", "kilograms", "kilograms per meter squared", "seconds", ""] # Add your own valid units to this array
   @variables.select{|v| v.type == 'numeric' or v.type == 'integer'}.each do |variable|
