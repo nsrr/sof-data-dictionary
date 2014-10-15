@@ -139,12 +139,12 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Pr/Vpoor/Fair",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Good/Excellent",
     "description": ""
   }
 ]

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "No Data That Day",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Poor(Miss,Inconsistent)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fair(Approx Match)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Good(Matches Well)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Exclnt(No Problems)",
+    "description": ""
+  }
+]

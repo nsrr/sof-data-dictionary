@@ -138,13 +138,33 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Aaa",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Aa",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "A",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "B",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "C",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "D",
     "description": ""
   }
 ]

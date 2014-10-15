@@ -138,13 +138,38 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Insufficient quality of Oximetry",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Eeg",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Short Recording",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No Data on Card",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Participant Issue",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Equipment - Unknown",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "1Respiratory",
     "description": ""
   }
 ]

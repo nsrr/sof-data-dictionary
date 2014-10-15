@@ -138,13 +138,23 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Regular Periods",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Irregular Periods",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "No Periods",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Other",
     "description": ""
   }
 ]

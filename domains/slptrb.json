@@ -139,12 +139,22 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Not During Past Month",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "< Once Per Week",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2: 1 -2 A Week",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3+ A Week",
     "description": ""
   }
 ]

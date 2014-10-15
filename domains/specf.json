@@ -136,15 +136,5 @@
     "display_name": "Thiazide",
     "description": "",
     "missing": true
-  },
-  {
-    "value": "0",
-    "display_name": "No",
-    "description": ""
-  },
-  {
-    "value": "1",
-    "display_name": "Yes",
-    "description": ""
   }
 ]

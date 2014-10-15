@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "5x,No Arms",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "5x,Partial Arms",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "5x,Arms Always",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "5x,Unable W/O Help",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Refused",
     "description": ""
   }
 ]

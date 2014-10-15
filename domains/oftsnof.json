@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Do Not Snore Anymore",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Rarely(Lt 1 Night A Week)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometimes (1 Or 2 Nights A Week)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Frequently (3-5 Nights A Week)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Always Or Almost Always (6 Or 7 Nights A Week)",
     "description": ""
   }
 ]

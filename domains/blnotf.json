@@ -138,13 +138,13 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "2",
+    "display_name": "Participant Fatigued",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "4",
+    "display_name": "Did Not Understand",
     "description": ""
   }
 ]

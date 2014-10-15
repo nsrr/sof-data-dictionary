@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Unknown",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Pencil Beam",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "2000 Array",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "2000 Array",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "14500 Fast Array",
     "description": ""
   }
 ]

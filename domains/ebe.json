@@ -1,0 +1,14 @@
+[
+  {
+    "value": ".D",
+    "display_name": "Not In-Bed Epoch",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".N",
+    "display_name": "Not Out-Of-Bed Epoch",
+    "description": "",
+    "missing": true
+  }
+]

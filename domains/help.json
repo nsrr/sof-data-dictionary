@@ -139,12 +139,17 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Personal assistance",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Equpment only",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "No",
     "description": ""
   }
 ]

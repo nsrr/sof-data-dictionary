@@ -139,12 +139,22 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "No Daytime Dysfunction",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Some Daytime Dysfunction",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Moderate Daytime Dysfunction",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Severe Daytime Dysfunction",
     "description": ""
   }
 ]

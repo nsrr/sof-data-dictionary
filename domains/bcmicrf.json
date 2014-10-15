@@ -1,0 +1,82 @@
+[
+  {
+    "value": ".A",
+    "display_name": "Missing",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".J",
+    "display_name": "Bc Var=Smvc",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".M",
+    "display_name": "Not Applicable",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".N",
+    "display_name": "N: No Visit",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".P",
+    "display_name": "Prior Case",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": "1",
+    "display_name": "Pos Histology",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Pos Exf Cytology",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Pos Histology, Dist Meta Only",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Pos Microscopic Confirm",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Pos Lab Test",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Direct Visual W/O Micro Confirm",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Radio & Other Image W/O Micro Conf",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Clinical Dx Only",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Unknown",
+    "description": ""
+  },
+  {
+    "value": "99",
+    "display_name": "9Missing",
+    "description": ""
+  }
+]

@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Lots Better",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Little Better",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Same",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Little Worse",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Lot Worse",
     "description": ""
   }
 ]

@@ -1,0 +1,23 @@
+[
+  {
+    "value": ".A",
+    "display_name": "Missing",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": "0",
+    "display_name": "No Skin Cancer",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Age Of Onset After Visit 1 And At Or Before Visi",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Age Of Onset Before Baseline",
+    "description": ""
+  }
+]

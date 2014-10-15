@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Device malfunctioned",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "No device available",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Participant refused",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Paricipant attempted/not complete",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "5: Corrupt file, no PVT data",
     "description": ""
   }
 ]

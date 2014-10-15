@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Personal Illness",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Family Illness",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Out-Of-State",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Refused",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Busy",
     "description": ""
   }
 ]

@@ -31,13 +31,13 @@
   },
   {
     "value": ".G",
-    "display_name": "Non Released Low Value",
+    "display_name": "Lt 2.5th Percentile",
     "description": "",
     "missing": true
   },
   {
     "value": ".H",
-    "display_name": "Non Released High Value",
+    "display_name": "Gt 97.5th Percentile",
     "description": "",
     "missing": true
   },
@@ -103,7 +103,7 @@
   },
   {
     "value": ".U",
-    "display_name": "Unable",
+    "display_name": "Unknown",
     "description": "",
     "missing": true
   },
@@ -139,12 +139,12 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Natural",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Surgical",
     "description": ""
   }
 ]

@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Don'T Do This Activity",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Yes, Extreme Difficulty",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, Moderate Difficulty",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Yes, A Little Difficulty",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No Difficulty",
     "description": ""
   }
 ]

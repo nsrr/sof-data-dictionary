@@ -138,13 +138,18 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Did Not Use Arms",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Used Arms Part Of The Time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Used Arms All Of The Time",
     "description": ""
   }
 ]

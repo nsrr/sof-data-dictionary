@@ -138,13 +138,19 @@
     "missing": true
   },
   {
+    "value": "-1",
+    "display_name": "-Check",
+    "description": "",
+    "missing": true
+  },
+  {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Not check",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Check",
     "description": ""
   }
 ]

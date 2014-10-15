@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Pending Adjudication",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Normal",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Mci",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Dementia",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Indeterminate",
     "description": ""
   }
 ]

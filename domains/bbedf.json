@@ -139,12 +139,17 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "0 Days",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "1-7 Days",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": ">7 Days",
     "description": ""
   }
 ]

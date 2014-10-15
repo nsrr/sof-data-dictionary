@@ -138,13 +138,33 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Private home or apartment",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Senior complex w/o staff dispensing me",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Senior complex w/ staff dispensing med",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Facility such as nursing home",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Dont know/Refuse",
     "description": ""
   }
 ]

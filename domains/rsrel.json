@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Does not apply",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Complete/almost complete relief",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Moderate relief",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Slight relief",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No relief",
     "description": ""
   }
 ]

@@ -138,13 +138,23 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "<7 Days",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "7 To <30 Days",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "30 To <180 Days",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": ">=180 Days",
     "description": ""
   }
 ]

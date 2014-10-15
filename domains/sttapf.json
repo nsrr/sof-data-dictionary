@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Same Daily",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Same Every Other Day",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Hi Dose, Cut Down, Stop",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Same Daily,Hi Dose,Cut Down",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Same Every Other Day,Hi Dose,Cut Down",
     "description": ""
   }
 ]

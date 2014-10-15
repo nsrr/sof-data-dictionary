@@ -139,12 +139,32 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Saq Only Not Elig",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Not Given Watch",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Site Decision",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Watch Malfunction",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Software/Initial Problem",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Ppt Removed",
     "description": ""
   }
 ]

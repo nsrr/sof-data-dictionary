@@ -144,7 +144,22 @@
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Yes,Difficulty",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Don'T Do,Health",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Don'T Do,Fear Fall",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Don'T Do,Other",
     "description": ""
   }
 ]

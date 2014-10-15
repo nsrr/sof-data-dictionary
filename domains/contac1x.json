@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Live together",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Daily (but do not live together)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3 or more times a week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Less than 3 times a week",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Dont know/Refuse",
     "description": ""
   }
 ]

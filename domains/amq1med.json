@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "0: Do not take medications",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "1: Without help",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2: With some help",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3: Completely unable",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "8: Dont know",
     "description": ""
   }
 ]

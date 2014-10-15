@@ -138,13 +138,48 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Quest-Clin Vis",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Quest-Home Vis",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Quest-Nursing Home Vis",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Min-Clin Vis",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Min-Home Vis",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Min-Quest Only",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Min-Nursing Home Vis",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Home Vis-Clin Vis",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Nursing Home Vis-Clin Vis",
     "description": ""
   }
 ]

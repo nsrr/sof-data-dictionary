@@ -138,13 +138,23 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Right",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Left",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Neither",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Missing On List",
     "description": ""
   }
 ]

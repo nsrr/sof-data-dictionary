@@ -1,0 +1,72 @@
+[
+  {
+    "value": ".A",
+    "display_name": "Missing",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".J",
+    "display_name": "Bc Var=Smvc",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".M",
+    "display_name": "Not Applicable",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".N",
+    "display_name": "N: No Visit",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".P",
+    "display_name": "Prior Case",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": "1",
+    "display_name": "Lobular In-Situ",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Ductal In-Situ",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Invasive, Localized To Breast",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Invasive With Reg Lymph Node",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Adv Breast Cancer",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Unknown",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Missing",
+    "description": ""
+  }
+]

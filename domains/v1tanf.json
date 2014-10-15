@@ -139,12 +139,12 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Able To Hld 10",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Unable 10 Secs",
     "description": ""
   }
 ]

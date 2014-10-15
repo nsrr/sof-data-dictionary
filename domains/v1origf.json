@@ -138,13 +138,53 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Asian",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Csamer",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Neurope",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Ceurope",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Seurope",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Jewish",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Natamer",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Black",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Russian",
+    "description": ""
+  },
+  {
+    "value": "34",
+    "display_name": "3Other",
     "description": ""
   }
 ]

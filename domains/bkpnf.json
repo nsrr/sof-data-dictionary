@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "No Back Pain",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "1 Or 2 Times",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "3-5 Times",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "6+ Times",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "All Times",
     "description": ""
   }
 ]

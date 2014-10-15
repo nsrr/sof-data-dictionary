@@ -139,12 +139,32 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Much improved",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "A bit improved",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Not much changed",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "A bit worse",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Much worse",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Dont know",
     "description": ""
   }
 ]

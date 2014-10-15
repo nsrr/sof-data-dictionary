@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Much Worse Than Usual",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Somewhat Worse Than Usual",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "As Well As Usual",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "A Little Better Than Usual",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Much Better Than Usual",
     "description": ""
   }
 ]

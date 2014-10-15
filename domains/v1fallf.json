@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "00",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "01",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2-3",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "4-5",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "6+",
     "description": ""
   }
 ]

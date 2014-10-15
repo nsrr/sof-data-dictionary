@@ -139,12 +139,22 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "<=4 Hours",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": ">4 To <=6 Hours",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": ">6 To <=8 Hours",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": ">8 Hours",
     "description": ""
   }
 ]

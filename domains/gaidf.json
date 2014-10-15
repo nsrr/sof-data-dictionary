@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "No Aid",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Straight Cane",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Quad Cane",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Walker",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Crutch",
     "description": ""
   }
 ]

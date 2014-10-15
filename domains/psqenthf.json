@@ -139,12 +139,22 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "No Problem At All",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Only A Slight Problem",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat Of A Problem",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "A Very Big Problem",
     "description": ""
   }
 ]

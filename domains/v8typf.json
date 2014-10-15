@@ -138,13 +138,18 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Clinic Visit",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Home Visit",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Quest Only",
     "description": ""
   }
 ]

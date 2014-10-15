@@ -138,13 +138,33 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Daily",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": ">=Twice Wkly",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Once Weekly",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "1-3 Times/Mo",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Never",
     "description": ""
   }
 ]

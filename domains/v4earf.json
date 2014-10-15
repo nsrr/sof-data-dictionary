@@ -139,12 +139,17 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "No (Some Wax)",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Yes-Completely Blocked",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Partial",
     "description": ""
   }
 ]

@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Linoleum",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Hardwood",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Short Carpet",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Long Carpet",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Combination",
     "description": ""
   }
 ]

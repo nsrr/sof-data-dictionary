@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Never",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Rarely 1/Mo",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometimes 2-4/Mo",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Often 5-15/Mo",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Almost Always 16-30/Mo",
     "description": ""
   }
 ]

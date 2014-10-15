@@ -139,12 +139,27 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Not at all",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Only a little",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Very much or greatly",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Donnot know",
     "description": ""
   }
 ]

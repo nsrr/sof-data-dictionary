@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Hispanic",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Asian",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Black",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "White",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
     "description": ""
   }
 ]

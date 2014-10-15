@@ -138,13 +138,53 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "oral tablet or capsule",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "oral liquid",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "topical liquid,lotion,ointment",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "ophthalmic",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "rectal or vaginal",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "inhaled",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "injected",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "transdermal patch",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "powder",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "1nasal",
     "description": ""
   }
 ]

@@ -138,13 +138,38 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Zcm,Pim And Tat",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Zcm Only",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Pim Only",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Tat Only",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Zcm And Pim",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Zcm And Tat",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Pim And Tat",
     "description": ""
   }
 ]

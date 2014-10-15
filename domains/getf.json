@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Several Times/Day",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "About Once/Day",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Several Times/Wk",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "About Once/Wk",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "< Once/Wk",
     "description": ""
   }
 ]

@@ -138,13 +138,18 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Not Frail",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Somewhat Frail",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Very Frail",
     "description": ""
   }
 ]

@@ -144,7 +144,17 @@
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Curr Progestin",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Curr Estrogen",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Curr Est/Prog",
     "description": ""
   }
 ]

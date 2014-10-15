@@ -138,13 +138,33 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Spontaneous recall",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Correct word, incorrect form",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "After it begins with a B",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "After baby,balloon,basket",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Unable to recall/refused",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Not attempted",
     "description": ""
   }
 ]

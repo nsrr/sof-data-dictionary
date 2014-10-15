@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Adjudicator 1",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Adjudicator 2",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Adjudicator 3",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Adjudicator 4",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Multiple Adjudicators",
     "description": ""
   }
 ]

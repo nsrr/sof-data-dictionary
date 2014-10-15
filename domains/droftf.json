@@ -139,12 +139,37 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "None/30 Days",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Once/30 Days",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2-3/30 Days",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "1-2/Week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "3-4/Week",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "5-6/Week",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Every Day",
     "description": ""
   }
 ]

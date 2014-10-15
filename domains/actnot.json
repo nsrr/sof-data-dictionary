@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Cognitive impairment",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Physical/medical problem",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "No watch available/schedule problem",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Refused",
     "description": ""
   }
 ]

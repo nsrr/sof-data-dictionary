@@ -139,12 +139,17 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "No,other hip scanned",
     "description": ""
   },
   {
     "value": "1",
     "display_name": "Yes",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Scan not completed",
     "description": ""
   }
 ]

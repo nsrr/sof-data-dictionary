@@ -138,13 +138,23 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Strongly agree",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Agree",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Disagree",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Stongly Disagree",
     "description": ""
   }
 ]

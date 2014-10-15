@@ -138,13 +138,33 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "When perform physical activities",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "When have the urge to urinate",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Equal as often..physical act..urgency",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "When sleep, nap, doze",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Donnot know",
     "description": ""
   }
 ]

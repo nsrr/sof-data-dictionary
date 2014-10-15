@@ -139,12 +139,42 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "No Back Pain",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Upper",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Middle",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Lower",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Upper,Middle",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Upper,Lower",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Middle,Lower",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Upper,Middle,Lower",
     "description": ""
   }
 ]

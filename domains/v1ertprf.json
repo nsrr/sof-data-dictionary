@@ -139,12 +139,12 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Never Ert/Prog",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Cur Ert/Prog",
     "description": ""
   }
 ]

@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Married or living in a married-like re",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Divorced",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Widowed",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Single, never married",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Separated",
     "description": ""
   }
 ]

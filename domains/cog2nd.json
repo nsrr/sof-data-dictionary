@@ -139,12 +139,57 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Pending Adjudication",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Normal",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Mci Amnestic Single Domain",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Mci Amnestic Multiple Domain",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Mci Nonamnestic Single Domain",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Mci Nonamnestic Multiple Domain",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Vascular Dementia",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Alzheimers",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Mixed",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "1Indeterminate",
     "description": ""
   }
 ]

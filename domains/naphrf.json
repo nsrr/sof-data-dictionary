@@ -139,12 +139,22 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "0 Hours",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "<1 Hour",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "1-2 Hours",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": ">2 Hours",
     "description": ""
   }
 ]

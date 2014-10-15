@@ -1,0 +1,42 @@
+[
+  {
+    "value": ".A",
+    "display_name": "Missing",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".J",
+    "display_name": "Bc Var=Smvc",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".M",
+    "display_name": "Not Applicable",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".N",
+    "display_name": "N: No Visit",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": ".P",
+    "display_name": "Prior Case",
+    "description": "",
+    "missing": true
+  },
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes",
+    "description": ""
+  }
+]

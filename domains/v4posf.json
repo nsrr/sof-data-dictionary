@@ -138,13 +138,18 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Standing Up",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Sitting",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Lying Down",
     "description": ""
   }
 ]

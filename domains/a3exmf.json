@@ -139,12 +139,22 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "Never",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "< Once A Year",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Once A Year",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Once A Month",
     "description": ""
   }
 ]

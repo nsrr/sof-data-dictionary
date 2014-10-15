@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Same Dose Every Day",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Same Dose Every Other Day",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "High Dose Then Cut Down",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Every Day, Sometimes High Dose",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Every Other Day, Sometimes High Dose",
     "description": ""
   }
 ]

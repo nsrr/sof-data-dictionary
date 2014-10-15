@@ -138,13 +138,43 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Broke/Fx Bone",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Hit/Injured Head",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Sprain/Strain",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Bruise/Bleeding",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other Injury",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "No Injuries",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "No Further Injuries",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "No Falls",
     "description": ""
   }
 ]

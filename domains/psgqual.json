@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "<25% of sleep time",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "25-49% of sleep",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "50-74% of sleep",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "75-94% of sleep",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": ">95% of sleep time",
     "description": ""
   }
 ]

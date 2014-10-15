@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "<=7.99ng/ml",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "8ng/ml to 14.99ng/ml",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "15ng/ml to 31.99ng/ml",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": ">=32ng/ml",
+    "description": ""
+  }
+]

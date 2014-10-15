@@ -138,13 +138,33 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Much worse",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "A little worse",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "About the same",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "A littke better",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Much better",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "8: Dont know",
     "description": ""
   }
 ]

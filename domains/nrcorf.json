@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Dont Wear Glasses For Near Correction",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Reading Glasses Only",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Bifocals",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Trifocals",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Progressive, Hidden Bi/Trifocals",
     "description": ""
   }
 ]

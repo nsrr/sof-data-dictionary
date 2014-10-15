@@ -138,13 +138,83 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Chest Pain",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Short Breath",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Pain Arm Jts",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Pain Hip Jts",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Pain In Calves",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Pain In Back",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Stiff Arms",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Weak Right Leg",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Weak Left Leg",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "1Weak Both Legs",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "1Gen Fatigue",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "1Poor Vision",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "1Poor Hearing",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "1Poor Memory",
+    "description": ""
+  },
+  {
+    "value": "15",
+    "display_name": "1Other",
+    "description": ""
+  },
+  {
+    "value": "16",
+    "display_name": "1Dizziness",
     "description": ""
   }
 ]

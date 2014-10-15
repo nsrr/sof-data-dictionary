@@ -138,13 +138,38 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "2nd Opinion",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Felt No Need",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Harmful",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Too Costly",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "New Health",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Side Effects",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Other",
     "description": ""
   }
 ]

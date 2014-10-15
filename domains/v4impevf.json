@@ -139,12 +139,22 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "No Imp Events",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Pos Events",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Neg Events",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Pos & Neg Events",
     "description": ""
   }
 ]

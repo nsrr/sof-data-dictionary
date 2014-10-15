@@ -138,13 +138,83 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Heart Disease",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Stroke",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Lung Disease",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Osteoporosis",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Diabetes",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "High Bld Press",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Arthritis",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Cancer",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Prob Fr Fx Inj",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "1Other Injury",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "1Old Age",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "1Dementia",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "1Mental Illness",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "1Eye Disease",
+    "description": ""
+  },
+  {
+    "value": "15",
+    "display_name": "1Kidney Disease",
+    "description": ""
+  },
+  {
+    "value": "16",
+    "display_name": "1Other",
     "description": ""
   }
 ]

@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "In person",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "By phone",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "In person & by phone",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Dont Know/refuse",
     "description": ""
   }
 ]

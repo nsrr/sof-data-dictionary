@@ -139,12 +139,17 @@
   },
   {
     "value": "0",
-    "display_name": "No",
+    "display_name": "None",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Moderate",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Severe",
     "description": ""
   }
 ]

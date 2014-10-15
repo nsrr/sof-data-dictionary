@@ -144,7 +144,17 @@
   },
   {
     "value": "1",
-    "display_name": "Yes",
+    "display_name": "Knee Replacement",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fracture",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Surgery",
     "description": ""
   }
 ]

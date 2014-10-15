@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Constantly",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Most Of Time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Some Of Time",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Rarely",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Never",
     "description": ""
   }
 ]

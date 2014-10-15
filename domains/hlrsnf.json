@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Refused Radiation",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Refused Makeup",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Amputee",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Unable To Obtain Values",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
     "description": ""
   }
 ]

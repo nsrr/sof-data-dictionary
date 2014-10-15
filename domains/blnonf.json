@@ -138,13 +138,28 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Test Done",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "No TesCount Fingers Only",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "No TesSee Hand Motion Only",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No TesLight Perception Only",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "No TesNo Light Perception",
     "description": ""
   }
 ]

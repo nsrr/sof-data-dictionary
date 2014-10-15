@@ -138,13 +138,38 @@
     "missing": true
   },
   {
-    "value": "0",
-    "display_name": "No",
+    "value": "1",
+    "display_name": "Spouse or partner",
     "description": ""
   },
   {
-    "value": "1",
-    "display_name": "Yes",
+    "value": "2",
+    "display_name": "Child",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other family membe",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Friend",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Health care provider",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Refused",
     "description": ""
   }
 ]
