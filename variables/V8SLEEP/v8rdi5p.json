@@ -3,7 +3,7 @@
   "display_name": "Overall Rdi At 5% Desat",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8SLEEP",
     "Variable Informat": null

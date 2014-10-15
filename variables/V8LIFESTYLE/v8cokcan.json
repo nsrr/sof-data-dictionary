@@ -3,7 +3,7 @@
   "display_name": "How Many Cans Of Cola Do You Drink",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8LIFESTYLE",
     "Variable Informat": null

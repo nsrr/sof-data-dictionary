@@ -3,7 +3,7 @@
   "display_name": "Autoref Best Corrected Snellen, L Eye",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8VISION",
     "Variable Informat": null

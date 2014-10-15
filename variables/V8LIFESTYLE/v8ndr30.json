@@ -3,7 +3,7 @@
   "display_name": "Drinks/Day Past 30 Days",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8LIFESTYLE",
     "Variable Informat": null

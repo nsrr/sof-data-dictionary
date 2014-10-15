@@ -3,7 +3,7 @@
   "display_name": "Baseline Sao2 Per Tech Observation (%)",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8SLEEP",
     "Variable Informat": null

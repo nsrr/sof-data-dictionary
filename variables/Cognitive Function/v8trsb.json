@@ -1,7 +1,7 @@
 {
-  "id": "v8strsb",
+  "id": "v8trsb",
   "display_name": "Was Trail B sample completed?",
   "description": "",
   "type": "choices",
-  "domain": "find"
+  "domain": "trbf"
 }

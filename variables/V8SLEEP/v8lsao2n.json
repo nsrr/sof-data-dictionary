@@ -3,7 +3,7 @@
   "display_name": "Min Sao2 Nrem %",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8SLEEP",
     "Variable Informat": null

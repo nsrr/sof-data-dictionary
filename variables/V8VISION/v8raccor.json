@@ -3,7 +3,7 @@
   "display_name": "Corrected Acuity Score, Right Eye",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8VISION",
     "Variable Informat": null

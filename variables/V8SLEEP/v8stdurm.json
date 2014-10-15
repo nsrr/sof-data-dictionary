@@ -3,7 +3,7 @@
   "display_name": "Study Length (Epoch 1 To Last Epoch) Min",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8SLEEP",
     "Variable Informat": null

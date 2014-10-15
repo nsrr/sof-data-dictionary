@@ -3,7 +3,7 @@
   "display_name": "Current Caffeine Intake (G/Day)",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8LIFESTYLE",
     "Variable Informat": null

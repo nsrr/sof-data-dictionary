@@ -3,7 +3,7 @@
   "display_name": "Vigilance Subscale Fosq(1-4)",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8SLEEP",
     "Variable Informat": null

@@ -3,7 +3,7 @@
   "display_name": "Max. Sao2% In Nrem Sleep",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8SLEEP",
     "Variable Informat": null

@@ -3,7 +3,7 @@
   "display_name": "Intertrochanteric BMD % change since V2",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8DXHP",
     "Variable Informat": null

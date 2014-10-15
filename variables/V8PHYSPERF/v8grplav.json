@@ -3,7 +3,7 @@
   "display_name": "Avg Of Left Grip Strength, Kg",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8PHYSPERF",
     "Variable Informat": null

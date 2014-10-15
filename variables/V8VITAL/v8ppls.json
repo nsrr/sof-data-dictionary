@@ -3,7 +3,7 @@
   "display_name": "Average Pulse Per Minute",
   "description": "",
   "type": "numeric",
-  "units": null,
+  "units": "",
   "other": {
     "Library Member Name": "V8VITAL",
     "Variable Informat": null
