@@ -1,0 +1,11 @@
+{
+  "id": "v8chb",
+  "display_name": "Diff Doing Chores Due To Health?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

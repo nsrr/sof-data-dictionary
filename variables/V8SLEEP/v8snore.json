@@ -1,0 +1,11 @@
+{
+  "id": "v8snore",
+  "display_name": "Snore Presently Or In Past",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8dr2",
+  "display_name": "Degr Of Diff Dressing Yourself?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

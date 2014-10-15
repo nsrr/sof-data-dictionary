@@ -1,0 +1,11 @@
+{
+  "id": "v8bed2",
+  "display_name": "Degr Of Diff Getting In/Out Of Bed?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

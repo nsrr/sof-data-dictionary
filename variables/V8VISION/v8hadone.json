@@ -1,0 +1,11 @@
+{
+  "id": "v8hadone",
+  "display_name": "Ha Visual Acuity Measred",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

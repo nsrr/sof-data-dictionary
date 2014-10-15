@@ -1,0 +1,11 @@
+{
+  "id": "v8fxst52",
+  "display_name": "Functional Status: Total Diff W/(5) Iadl",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

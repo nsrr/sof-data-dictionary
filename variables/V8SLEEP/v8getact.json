@@ -1,0 +1,11 @@
+{
+  "id": "v8getact",
+  "display_name": "Ppt Receives An Actigraph??",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

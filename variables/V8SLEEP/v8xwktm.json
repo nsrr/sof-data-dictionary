@@ -1,0 +1,10 @@
+{
+  "id": "v8xwktm",
+  "display_name": "Time Woke Up Today",
+  "description": "",
+  "type": "time",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

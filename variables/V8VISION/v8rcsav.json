@@ -1,0 +1,11 @@
+{
+  "id": "v8rcsav",
+  "display_name": "Right Average Contrast Sensitivity",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

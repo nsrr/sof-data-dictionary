@@ -1,0 +1,11 @@
+{
+  "id": "v8faua",
+  "display_name": "Any Diff Turning Faucets On/Off?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8sorem",
+  "display_name": "Difficulty Remembering B/C Sleepy",
+  "description": "",
+  "type": "choices",
+  "domain": "fosqf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

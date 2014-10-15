@@ -1,0 +1,11 @@
+{
+  "id": "v8actig",
+  "display_name": "Ppt Has Usable Actigraphy Data?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

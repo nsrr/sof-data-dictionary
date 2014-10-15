@@ -1,0 +1,11 @@
+{
+  "id": "v8unuocc",
+  "display_name": "Unusual Occurences-Physiologic",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

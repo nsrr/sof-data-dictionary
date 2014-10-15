@@ -1,0 +1,11 @@
+{
+  "id": "v8part",
+  "display_name": "Part Of Back Pain Usually Located?",
+  "description": "",
+  "type": "choices",
+  "domain": "backf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8ldrops",
+  "display_name": "Meds: Left Eye Drops Any Reason",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

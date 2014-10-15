@@ -1,0 +1,11 @@
+{
+  "id": "v8ionot",
+  "display_name": "Eye(S) Iop Not Measured",
+  "description": "",
+  "type": "choices",
+  "domain": "viseyef",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

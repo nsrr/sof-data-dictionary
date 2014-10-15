@@ -1,0 +1,11 @@
+{
+  "id": "v8stpr1",
+  "display_name": "Do You Have Diff Walking Down 10 Steps?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

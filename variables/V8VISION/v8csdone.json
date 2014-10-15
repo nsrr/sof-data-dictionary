@@ -1,0 +1,11 @@
+{
+  "id": "v8csdone",
+  "display_name": "Contrast Sensitivity Administered",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

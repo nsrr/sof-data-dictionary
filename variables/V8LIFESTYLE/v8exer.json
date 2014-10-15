@@ -1,0 +1,11 @@
+{
+  "id": "v8exer",
+  "display_name": "Take Walks For Exercise?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

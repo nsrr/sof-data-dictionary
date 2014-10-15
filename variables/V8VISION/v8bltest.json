@@ -1,0 +1,11 @@
+{
+  "id": "v8bltest",
+  "display_name": "Was Bailey-Lovie Test Done",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

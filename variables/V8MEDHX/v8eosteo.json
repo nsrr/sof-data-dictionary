@@ -1,0 +1,11 @@
+{
+  "id": "v8eosteo",
+  "display_name": "Doctor Ever Said You Have Osteoporosis",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

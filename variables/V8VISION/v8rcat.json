@@ -1,0 +1,11 @@
+{
+  "id": "v8rcat",
+  "display_name": "Ocular Hx: Right Eye Cataract",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

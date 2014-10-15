@@ -1,0 +1,11 @@
+{
+  "id": "v8rstplt",
+  "display_name": "Avg Rapid Step Length In Meters",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

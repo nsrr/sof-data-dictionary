@@ -1,0 +1,11 @@
+{
+  "id": "v8rlimp",
+  "display_name": "Lens Implant: Right Eye",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

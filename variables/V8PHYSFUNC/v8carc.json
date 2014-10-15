@@ -1,0 +1,11 @@
+{
+  "id": "v8carc",
+  "display_name": "How Much Diff Getting In/Out Of Car?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

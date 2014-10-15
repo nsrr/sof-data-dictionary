@@ -1,0 +1,11 @@
+{
+  "id": "v8dropnt",
+  "display_name": "#Nights Dropped From Analysis,Bad>2hours",
+  "description": "",
+  "type": "choices",
+  "domain": "actig",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

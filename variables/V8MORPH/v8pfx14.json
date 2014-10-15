@@ -1,0 +1,11 @@
+{
+  "id": "v8pfx14",
+  "display_name": "V8 T4 3SD Prevalent vertebral frx",
+  "description": "",
+  "type": "choices",
+  "domain": "fxf",
+  "other": {
+    "Library Member Name": "V8MORPH",
+    "Variable Informat": null
+  }
+}

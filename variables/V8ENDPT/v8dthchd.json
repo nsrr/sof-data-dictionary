@@ -1,0 +1,11 @@
+{
+  "id": "v8dthchd",
+  "display_name": "Ischemic Heart Disease Death Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "dthfmt",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

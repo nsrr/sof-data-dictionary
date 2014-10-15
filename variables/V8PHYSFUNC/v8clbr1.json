@@ -1,0 +1,11 @@
+{
+  "id": "v8clbr1",
+  "display_name": "Have Diff Climbing 10 Steps?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

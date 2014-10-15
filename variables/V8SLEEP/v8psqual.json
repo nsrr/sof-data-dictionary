@@ -1,0 +1,11 @@
+{
+  "id": "v8psqual",
+  "display_name": "Subjective Sleep Quality-Psqi Component1",
+  "description": "",
+  "type": "choices",
+  "domain": "psqualf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

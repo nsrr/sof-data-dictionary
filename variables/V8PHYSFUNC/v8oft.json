@@ -1,0 +1,11 @@
+{
+  "id": "v8oft",
+  "display_name": "Frequency Back Pain?",
+  "description": "",
+  "type": "choices",
+  "domain": "frqf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

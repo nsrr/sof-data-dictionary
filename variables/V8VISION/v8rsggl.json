@@ -1,0 +1,11 @@
+{
+  "id": "v8rsggl",
+  "display_name": "Right: Any Surgery Glaucoma",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

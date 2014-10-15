@@ -1,0 +1,11 @@
+{
+  "id": "v8stpe",
+  "display_name": "Receive Help Walking Down 10 Steps?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

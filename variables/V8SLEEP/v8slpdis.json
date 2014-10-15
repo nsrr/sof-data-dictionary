@@ -1,0 +1,11 @@
+{
+  "id": "v8slpdis",
+  "display_name": "Dr Ever Told Sleep Disorder(Not Apnea)",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8aids",
+  "display_name": "Do You Use Any Walking Aids?",
+  "description": "",
+  "type": "choices",
+  "domain": "aidv8f",
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

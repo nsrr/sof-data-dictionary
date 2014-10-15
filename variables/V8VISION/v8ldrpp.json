@@ -1,0 +1,11 @@
+{
+  "id": "v8ldrpp",
+  "display_name": "Current Left Eye Drops Lower Pressure",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

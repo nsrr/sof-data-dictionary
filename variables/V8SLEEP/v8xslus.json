@@ -1,0 +1,11 @@
+{
+  "id": "v8xslus",
+  "display_name": "Usual Sleeping Arrangements",
+  "description": "",
+  "type": "choices",
+  "domain": "slparr",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

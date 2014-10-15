@@ -1,0 +1,11 @@
+{
+  "id": "v8ck1",
+  "display_name": "Can You Prepare Meals?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

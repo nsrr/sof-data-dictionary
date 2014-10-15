@@ -1,0 +1,11 @@
+{
+  "id": "v8hpstdr",
+  "display_name": "Right Hip Pain While Standing",
+  "description": "",
+  "type": "choices",
+  "domain": "pnf",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

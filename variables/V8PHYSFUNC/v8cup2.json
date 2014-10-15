@@ -1,0 +1,11 @@
+{
+  "id": "v8cup2",
+  "display_name": "Degr Of Diff Lifting A Cup?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

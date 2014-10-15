@@ -1,0 +1,11 @@
+{
+  "id": "v8pbath",
+  "display_name": "Trb Sleep-Have To Get Up Use Bathroom",
+  "description": "",
+  "type": "choices",
+  "domain": "psqif",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

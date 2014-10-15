@@ -1,0 +1,11 @@
+{
+  "id": "v8sourc",
+  "display_name": "Source Of Take Home Questionnaire",
+  "description": "",
+  "type": "choices",
+  "domain": "sourcf",
+  "other": {
+    "Library Member Name": "V8EXAMBK",
+    "Variable Informat": null
+  }
+}

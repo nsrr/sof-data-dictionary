@@ -1,0 +1,11 @@
+{
+  "id": "v8hro150",
+  "display_name": "Heartrate >150bpm For >2min",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

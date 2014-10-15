@@ -1,0 +1,11 @@
+{
+  "id": "v8slpmd",
+  "display_name": "Reported Taking Any Med For Sleep Yn",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDS",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8clb2",
+  "display_name": "Degr Of Diff Climbing 10 Steps?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

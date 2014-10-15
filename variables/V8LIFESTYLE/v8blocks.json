@@ -1,0 +1,11 @@
+{
+  "id": "v8blocks",
+  "display_name": "# Blocks Walked/Day For Exercise",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8ehypet",
+  "display_name": "Being Currently Treated For Hypertension",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

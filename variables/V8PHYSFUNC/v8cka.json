@@ -1,0 +1,11 @@
+{
+  "id": "v8cka",
+  "display_name": "Any Diff Preparing Meals?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

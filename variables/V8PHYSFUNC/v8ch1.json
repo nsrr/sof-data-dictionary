@@ -1,0 +1,11 @@
+{
+  "id": "v8ch1",
+  "display_name": "Can You Do Chores?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

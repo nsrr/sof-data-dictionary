@@ -1,0 +1,11 @@
+{
+  "id": "v8wlkspd",
+  "display_name": "Walking Speed In Meters/Second",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

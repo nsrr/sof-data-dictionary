@@ -1,0 +1,11 @@
+{
+  "id": "v8blkcal",
+  "display_name": "Kcal/Wk From Blocks Walked",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

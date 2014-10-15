@@ -1,0 +1,11 @@
+{
+  "id": "v8swhip",
+  "display_name": "Which Hip Had Pain",
+  "description": "",
+  "type": "choices",
+  "domain": "v2hipf",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

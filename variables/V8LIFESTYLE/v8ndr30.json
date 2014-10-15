@@ -1,0 +1,11 @@
+{
+  "id": "v8ndr30",
+  "display_name": "Drinks/Day Past 30 Days",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

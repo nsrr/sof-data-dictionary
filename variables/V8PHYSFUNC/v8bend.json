@@ -1,0 +1,11 @@
+{
+  "id": "v8bend",
+  "display_name": "Any Diff Bending To Pick Up Things?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

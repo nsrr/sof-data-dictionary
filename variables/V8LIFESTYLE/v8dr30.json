@@ -1,0 +1,11 @@
+{
+  "id": "v8dr30",
+  "display_name": "Past 30 Days At Least 1 Alcohol Drink",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

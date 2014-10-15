@@ -1,0 +1,11 @@
+{
+  "id": "v8hipn",
+  "display_name": "Number Of Hip Fractures Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "fxspcfx",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

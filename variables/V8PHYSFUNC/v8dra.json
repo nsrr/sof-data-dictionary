@@ -1,0 +1,11 @@
+{
+  "id": "v8dra",
+  "display_name": "Any Diff Dressing Yourself?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

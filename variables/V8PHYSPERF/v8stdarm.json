@@ -1,0 +1,11 @@
+{
+  "id": "v8stdarm",
+  "display_name": "Did Ppt Use Arms During Chair Stands",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

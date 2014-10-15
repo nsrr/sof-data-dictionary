@@ -1,0 +1,11 @@
+{
+  "id": "v8blglct",
+  "display_name": "Wearing Glasses/Contacts Or Both",
+  "description": "",
+  "type": "choices",
+  "domain": "glctf",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

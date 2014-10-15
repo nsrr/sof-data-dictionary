@@ -1,0 +1,11 @@
+{
+  "id": "v8wlke",
+  "display_name": "Receive Help Walking 2-3 Blocks?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

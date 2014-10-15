@@ -1,0 +1,11 @@
+{
+  "id": "v8ctdist",
+  "display_name": "Wears 1 Contact For Near, 1 For Far",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

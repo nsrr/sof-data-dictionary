@@ -1,0 +1,11 @@
+{
+  "id": "v8wlka",
+  "display_name": "Any Diff Walking 2-3 Blocks?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

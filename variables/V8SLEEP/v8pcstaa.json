@@ -1,0 +1,11 @@
+{
+  "id": "v8pcstaa",
+  "display_name": "% Sleep Time In Ap.+Hypop. W/ Arousal",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

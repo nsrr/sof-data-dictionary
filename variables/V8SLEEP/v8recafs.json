@@ -1,0 +1,11 @@
+{
+  "id": "v8recafs",
+  "display_name": "Recording Started After Sleep Onset",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

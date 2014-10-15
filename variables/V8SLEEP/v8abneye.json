@@ -1,0 +1,11 @@
+{
+  "id": "v8abneye",
+  "display_name": "Abnormal Eye Movement",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

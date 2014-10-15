@@ -1,0 +1,11 @@
+{
+  "id": "v8lantch",
+  "display_name": "Left: Anterior Chamber Io Lens Present",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8peffic",
+  "display_name": "Sleep Efficiency 4 Cats-Psqi Component 4",
+  "description": "",
+  "type": "choices",
+  "domain": "pefficf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

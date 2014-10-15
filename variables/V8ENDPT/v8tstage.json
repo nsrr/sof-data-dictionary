@@ -1,0 +1,11 @@
+{
+  "id": "v8tstage",
+  "display_name": "Tumor Stage Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "bcstagf",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

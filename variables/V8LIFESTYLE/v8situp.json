@@ -1,0 +1,11 @@
+{
+  "id": "v8situp",
+  "display_name": "Hours Spent Sitting Upright/Day",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

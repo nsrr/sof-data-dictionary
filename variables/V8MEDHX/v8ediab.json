@@ -1,0 +1,11 @@
+{
+  "id": "v8ediab",
+  "display_name": "Doctor Ever Told You Had Diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

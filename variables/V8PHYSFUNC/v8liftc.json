@@ -1,0 +1,11 @@
+{
+  "id": "v8liftc",
+  "display_name": "Backpain: Degr Diff Lifting 10 Lb Object",
+  "description": "",
+  "type": "choices",
+  "domain": "v7difff",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

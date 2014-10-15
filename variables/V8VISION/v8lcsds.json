@@ -1,0 +1,11 @@
+{
+  "id": "v8lcsds",
+  "display_name": "Left Cont Sensitivity Test Distance",
+  "description": "",
+  "type": "choices",
+  "domain": "distf",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

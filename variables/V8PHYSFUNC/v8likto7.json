@@ -1,0 +1,11 @@
+{
+  "id": "v8likto7",
+  "display_name": "Likert:Total Degr Back Pain (7 Question)",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

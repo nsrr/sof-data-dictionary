@@ -1,0 +1,11 @@
+{
+  "id": "v8shc",
+  "display_name": "How Much Diff Doing Shopping?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

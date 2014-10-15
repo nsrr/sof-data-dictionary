@@ -1,0 +1,11 @@
+{
+  "id": "v8comicr",
+  "display_name": "Diagnostic Confirmation Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "bcmicrf",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8ehyper",
+  "display_name": "Doctor Ever Told You Had Hypertension",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8tnap2t",
+  "display_name": "Tat:Avg Mins Scored Sleep,Out Bed",
+  "description": "",
+  "type": "choices",
+  "domain": "actig",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

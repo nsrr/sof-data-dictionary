@@ -1,0 +1,11 @@
+{
+  "id": "v8hwk",
+  "display_name": "Stroke/Injury Left One Side Weaker",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8slalc",
+  "display_name": "Drink Alcohol To Help Sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

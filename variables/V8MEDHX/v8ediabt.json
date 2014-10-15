@@ -1,0 +1,11 @@
+{
+  "id": "v8ediabt",
+  "display_name": "Currently Being Treated For Diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

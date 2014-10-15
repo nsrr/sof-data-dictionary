@@ -1,0 +1,11 @@
+{
+  "id": "v8ch2",
+  "display_name": "Degr Of Diff Doing Chores?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

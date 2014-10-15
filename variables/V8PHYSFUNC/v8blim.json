@@ -1,0 +1,11 @@
+{
+  "id": "v8blim",
+  "display_name": "Days Limited Activities Due To Backpain?",
+  "description": "",
+  "type": "choices",
+  "domain": "blimf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8stpc",
+  "display_name": "How Much Diff Walking Down 10 Steps?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

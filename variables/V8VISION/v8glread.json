@@ -1,0 +1,11 @@
+{
+  "id": "v8glread",
+  "display_name": "Wears Glasses Reading/Near Only",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

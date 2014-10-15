@@ -1,0 +1,11 @@
+{
+  "id": "v8hpsitr",
+  "display_name": "Right Hip Pain While Sitting/Lying",
+  "description": "",
+  "type": "choices",
+  "domain": "pnf",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

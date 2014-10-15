@@ -1,0 +1,11 @@
+{
+  "id": "v8lref",
+  "display_name": "Left: Refractive Surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

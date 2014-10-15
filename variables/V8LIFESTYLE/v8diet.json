@@ -1,0 +1,11 @@
+{
+  "id": "v8diet",
+  "display_name": "Trying To Lose Wgt By Dieting?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8hipdif",
+  "display_name": "Reason For Scanning Other Hip This Visit",
+  "description": "",
+  "type": "choices",
+  "domain": "scanf",
+  "other": {
+    "Library Member Name": "V8EXAMBK",
+    "Variable Informat": null
+  }
+}

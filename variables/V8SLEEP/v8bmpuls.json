@@ -1,0 +1,11 @@
+{
+  "id": "v8bmpuls",
+  "display_name": "Baseline Manual Pulse Per Tech Obs (Bpm)",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

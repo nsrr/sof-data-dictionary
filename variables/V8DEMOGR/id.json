@@ -1,0 +1,10 @@
+{
+  "id": "id",
+  "display_name": "Public Data Release ID",
+  "description": "",
+  "type": "identifier",
+  "other": {
+    "Library Member Name": "V8DEMOGR",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8wlkc",
+  "display_name": "How Much Diff Walking 2-3 Blocks?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

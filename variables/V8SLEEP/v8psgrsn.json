@@ -1,0 +1,11 @@
+{
+  "id": "v8psgrsn",
+  "display_name": "Pi/Mn: Reason Psg Failed",
+  "description": "",
+  "type": "choices",
+  "domain": "psgfailf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": "BEST"
+  }
+}

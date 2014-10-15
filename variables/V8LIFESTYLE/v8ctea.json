@@ -1,0 +1,11 @@
+{
+  "id": "v8ctea",
+  "display_name": "Currently Drink Regular Tea",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

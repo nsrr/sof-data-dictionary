@@ -1,0 +1,11 @@
+{
+  "id": "v8ehrtt",
+  "display_name": "Currently Treated For Heart Attack",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

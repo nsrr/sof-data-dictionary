@@ -1,0 +1,11 @@
+{
+  "id": "v8naphr",
+  "display_name": "Number Of Hrs Each Nap",
+  "description": "",
+  "type": "choices",
+  "domain": "naphrf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8xusual",
+  "display_name": "Sleep Last Night Compared To Usual",
+  "description": "",
+  "type": "choices",
+  "domain": "xusual",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

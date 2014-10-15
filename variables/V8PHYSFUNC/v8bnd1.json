@@ -1,0 +1,11 @@
+{
+  "id": "v8bnd1",
+  "display_name": "Can You Bend To Pick Up Clothing?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

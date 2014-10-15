@@ -1,0 +1,11 @@
+{
+  "id": "v8r30",
+  "display_name": "Right Iop 30 Mm Hg Or Greater",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

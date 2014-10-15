@@ -1,0 +1,11 @@
+{
+  "id": "v8epwort",
+  "display_name": "Epworth Sleepiness Scale Score (0-24)",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8lbenzo",
+  "display_name": "Long Acting Benzodiazepine Use",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDS",
+    "Variable Informat": null
+  }
+}

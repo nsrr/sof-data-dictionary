@@ -1,0 +1,11 @@
+{
+  "id": "v8sogact",
+  "display_name": "Self-Report General Activity Level",
+  "description": "",
+  "type": "choices",
+  "domain": "sogactf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8child",
+  "display_name": "Do You Live With A Child/Children?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8QOL",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8wlk2",
+  "display_name": "Degr Of Diff Walking 2-3 Blocks?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

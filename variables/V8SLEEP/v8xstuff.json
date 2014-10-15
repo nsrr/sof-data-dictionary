@@ -1,0 +1,11 @@
+{
+  "id": "v8xstuff",
+  "display_name": "Pst Mnth,Trouble Sleeping-Stuffiness",
+  "description": "",
+  "type": "choices",
+  "domain": "slptrb",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

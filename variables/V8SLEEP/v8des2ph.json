@@ -1,0 +1,11 @@
+{
+  "id": "v8des2ph",
+  "display_name": "# of desat.s (>= 2%) during sleep",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

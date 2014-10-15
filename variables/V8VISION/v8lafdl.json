@@ -1,0 +1,11 @@
+{
+  "id": "v8lafdl",
+  "display_name": "Left: Pupil After Dilation Mm",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

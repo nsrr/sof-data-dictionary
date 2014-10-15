@@ -1,0 +1,11 @@
+{
+  "id": "v82pfnd",
+  "display_name": "Femoral Neck BMD % change since V2",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8DXHP",
+    "Variable Informat": null
+  }
+}

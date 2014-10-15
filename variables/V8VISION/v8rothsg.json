@@ -1,0 +1,11 @@
+{
+  "id": "v8rothsg",
+  "display_name": "Right: Other Eye Surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

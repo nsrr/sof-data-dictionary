@@ -1,0 +1,11 @@
+{
+  "id": "v8xslarr",
+  "display_name": "Sleeping Arrangements Last Night",
+  "description": "",
+  "type": "choices",
+  "domain": "slparr",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8wsha",
+  "display_name": "Any Diff Washing Yourself?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

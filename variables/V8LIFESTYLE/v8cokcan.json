@@ -1,0 +1,11 @@
+{
+  "id": "v8cokcan",
+  "display_name": "How Many Cans Of Cola Do You Drink",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

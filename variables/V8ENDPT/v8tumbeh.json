@@ -1,0 +1,11 @@
+{
+  "id": "v8tumbeh",
+  "display_name": "Tumor Behavior Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "bctumf",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

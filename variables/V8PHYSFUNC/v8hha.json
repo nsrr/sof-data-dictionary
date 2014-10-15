@@ -1,0 +1,11 @@
+{
+  "id": "v8hha",
+  "display_name": "Any Diff Doing Heavy Housework?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

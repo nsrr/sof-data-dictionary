@@ -1,0 +1,11 @@
+{
+  "id": "v8lsepmz",
+  "display_name": "Zcm:Mean#Long(>=5min)Slp Episodes,Outbed",
+  "description": "",
+  "type": "choices",
+  "domain": "actig",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

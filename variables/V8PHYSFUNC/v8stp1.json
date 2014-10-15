@@ -1,0 +1,11 @@
+{
+  "id": "v8stp1",
+  "display_name": "Can You Walk Down 10 Steps?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

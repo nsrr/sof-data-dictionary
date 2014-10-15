@@ -1,0 +1,11 @@
+{
+  "id": "v8chair",
+  "display_name": "Any Difficulty Getting Up Out Of Chair?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

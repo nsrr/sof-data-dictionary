@@ -1,0 +1,11 @@
+{
+  "id": "v8bltpct",
+  "display_name": "Type Of Contacts",
+  "description": "",
+  "type": "choices",
+  "domain": "cttypf",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

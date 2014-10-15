@@ -1,0 +1,11 @@
+{
+  "id": "v8tv",
+  "display_name": "Hours Spent Watching Tv/Week",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8che",
+  "display_name": "Receive Help Doing Chores?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

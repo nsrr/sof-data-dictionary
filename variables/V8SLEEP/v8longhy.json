@@ -1,0 +1,11 @@
+{
+  "id": "v8longhy",
+  "display_name": "Longest Hypopnea (Sec)",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

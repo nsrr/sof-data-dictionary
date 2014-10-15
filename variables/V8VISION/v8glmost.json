@@ -1,0 +1,11 @@
+{
+  "id": "v8glmost",
+  "display_name": "Wear Glasses Most Of The Time",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8cteye",
+  "display_name": "Contact In Both Eyes, 1 Near, 1 Far",
+  "description": "",
+  "type": "choices",
+  "domain": "cteyef",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

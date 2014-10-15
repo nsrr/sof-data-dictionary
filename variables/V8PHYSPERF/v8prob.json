@@ -1,0 +1,11 @@
+{
+  "id": "v8prob",
+  "display_name": "Conditions Prevent Standing Up/Quik Walk",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

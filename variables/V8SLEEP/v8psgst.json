@@ -1,0 +1,11 @@
+{
+  "id": "v8psgst",
+  "display_name": "Pi/Mn:Polysomnography? Pass/Fail",
+  "description": "",
+  "type": "choices",
+  "domain": "psgstatf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": "BEST"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8feetc",
+  "display_name": "Backpain: Degr Diff Standing On Feet",
+  "description": "",
+  "type": "choices",
+  "domain": "v7difff",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

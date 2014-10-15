@@ -1,0 +1,11 @@
+{
+  "id": "v8she",
+  "display_name": "Receive Help Doing Shopping?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

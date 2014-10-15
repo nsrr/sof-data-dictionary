@@ -1,0 +1,11 @@
+{
+  "id": "v8rglau",
+  "display_name": "Ocular Hx: Right Eye Glaucoma",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8lhit",
+  "display_name": "Ocular Hx: Left Eye Hit By Fist/Object",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

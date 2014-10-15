@@ -1,0 +1,11 @@
+{
+  "id": "v8lbcax",
+  "display_name": "Autoref: Left Axis Value",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

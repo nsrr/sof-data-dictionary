@@ -1,0 +1,11 @@
+{
+  "id": "v8hipwm",
+  "display_name": "Past 30 Days Pain In Either Hip",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

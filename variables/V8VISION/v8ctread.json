@@ -1,0 +1,11 @@
+{
+  "id": "v8ctread",
+  "display_name": "Wears Glasses Over Lenses To Read",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

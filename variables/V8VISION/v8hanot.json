@@ -1,0 +1,11 @@
+{
+  "id": "v8hanot",
+  "display_name": "Eye(S) Ha Acuity Not Measured",
+  "description": "",
+  "type": "choices",
+  "domain": "viseyef",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8ssri",
+  "display_name": "Ssri Use",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDS",
+    "Variable Informat": null
+  }
+}

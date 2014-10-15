@@ -1,0 +1,11 @@
+{
+  "id": "v8hpstdl",
+  "display_name": "Left Hip Pain While Standing",
+  "description": "",
+  "type": "choices",
+  "domain": "pnf",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

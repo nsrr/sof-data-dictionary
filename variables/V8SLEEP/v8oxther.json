@@ -1,0 +1,11 @@
+{
+  "id": "v8oxther",
+  "display_name": "Use O2 Therapy During Sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

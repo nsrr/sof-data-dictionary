@@ -1,0 +1,11 @@
+{
+  "id": "v8gpain",
+  "display_name": "Recent Worsening Pain/Arthritis In Hands",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

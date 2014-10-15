@@ -1,0 +1,11 @@
+{
+  "id": "v8lcslav",
+  "display_name": "Left Avg Cont Sens Low Spatial Freqs",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

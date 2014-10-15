@@ -1,0 +1,11 @@
+{
+  "id": "v8locbk",
+  "display_name": "If Yes:Pain Located In Buttocks?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

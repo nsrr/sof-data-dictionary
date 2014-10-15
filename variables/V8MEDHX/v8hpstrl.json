@@ -1,0 +1,11 @@
+{
+  "id": "v8hpstrl",
+  "display_name": "Left Hip Pain Up/Down Stairs",
+  "description": "",
+  "type": "choices",
+  "domain": "pnf",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

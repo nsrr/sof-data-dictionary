@@ -1,0 +1,11 @@
+{
+  "id": "v8chr",
+  "display_name": "Use Of Arms To Stand 5 Times",
+  "description": "",
+  "type": "choices",
+  "domain": "chr3f",
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

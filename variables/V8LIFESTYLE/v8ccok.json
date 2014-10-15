@@ -1,0 +1,11 @@
+{
+  "id": "v8ccok",
+  "display_name": "Currently Drink Cola",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

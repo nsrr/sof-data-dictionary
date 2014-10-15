@@ -1,0 +1,11 @@
+{
+  "id": "v8bltpgl",
+  "display_name": "Type Of Glasses",
+  "description": "",
+  "type": "choices",
+  "domain": "gltypf",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

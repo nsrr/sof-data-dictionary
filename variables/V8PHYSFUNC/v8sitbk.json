@@ -1,0 +1,11 @@
+{
+  "id": "v8sitbk",
+  "display_name": "Any Diff Sitting In Chair?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

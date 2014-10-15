@@ -1,0 +1,11 @@
+{
+  "id": "v8r15pct",
+  "display_name": "1st Iop Value Gt 5% Error (Right Eye)",
+  "description": "",
+  "type": "choices",
+  "domain": "v6pcterr",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

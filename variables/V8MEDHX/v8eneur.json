@@ -1,0 +1,11 @@
+{
+  "id": "v8eneur",
+  "display_name": "Doctor Ever Told...Other Neuro Disease",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

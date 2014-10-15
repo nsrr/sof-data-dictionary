@@ -1,0 +1,11 @@
+{
+  "id": "v8ccof",
+  "display_name": "Currently Drink Reg Coffee?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

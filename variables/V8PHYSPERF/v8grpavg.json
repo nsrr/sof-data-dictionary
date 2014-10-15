@@ -1,0 +1,11 @@
+{
+  "id": "v8grpavg",
+  "display_name": "Avg Of Right/Left Grip Strength, Kg",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8wshc",
+  "display_name": "How Much Diff Washing Yourself?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

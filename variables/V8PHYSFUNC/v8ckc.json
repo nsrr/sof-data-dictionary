@@ -1,0 +1,11 @@
+{
+  "id": "v8ckc",
+  "display_name": "How Much Difficutly Preparing Meals?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

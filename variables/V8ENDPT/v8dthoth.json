@@ -1,0 +1,11 @@
+{
+  "id": "v8dthoth",
+  "display_name": "Other Non-Cvd, Non-Cancer Death Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "dthfmt",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

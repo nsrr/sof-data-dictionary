@@ -1,0 +1,11 @@
+{
+  "id": "v8cupc",
+  "display_name": "How Much Diff Lifting A Cup?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8tad",
+  "display_name": "Tricyclic Anti-Depressant Use",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDS",
+    "Variable Informat": null
+  }
+}

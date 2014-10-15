@@ -1,0 +1,11 @@
+{
+  "id": "v8ship",
+  "display_name": "Past Year Pain In Hip?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

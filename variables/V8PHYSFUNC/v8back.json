@@ -1,0 +1,11 @@
+{
+  "id": "v8back",
+  "display_name": "Any Back Pain Past 12 Mon/Last Contact?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

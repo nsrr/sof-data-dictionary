@@ -1,0 +1,11 @@
+{
+  "id": "v8gaid",
+  "display_name": "Did Ppt Use Aid For Pace Tests",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

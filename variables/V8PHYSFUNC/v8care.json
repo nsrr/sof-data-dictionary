@@ -1,0 +1,11 @@
+{
+  "id": "v8care",
+  "display_name": "Receive Help Getting In/Out Of Car?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

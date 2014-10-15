@@ -1,0 +1,11 @@
+{
+  "id": "v8bbed",
+  "display_name": "Days In Bed From Back Pain?",
+  "description": "",
+  "type": "choices",
+  "domain": "bbedf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

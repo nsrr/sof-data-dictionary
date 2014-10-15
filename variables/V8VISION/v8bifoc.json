@@ -1,0 +1,11 @@
+{
+  "id": "v8bifoc",
+  "display_name": "Always Wears Bifocals",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

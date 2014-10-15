@@ -1,0 +1,11 @@
+{
+  "id": "v8xsbre",
+  "display_name": "Pst Mnth,Trouble Sleeping-Shrt Breath",
+  "description": "",
+  "type": "choices",
+  "domain": "slptrb",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

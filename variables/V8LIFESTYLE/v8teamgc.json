@@ -1,0 +1,11 @@
+{
+  "id": "v8teamgc",
+  "display_name": "(Mg/Dy)Current Caffeine Intake -Tea",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8bedb",
+  "display_name": "Diff Get In/Out Of Bed Due To Health?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

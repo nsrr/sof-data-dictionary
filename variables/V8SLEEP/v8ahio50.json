@@ -1,0 +1,11 @@
+{
+  "id": "v8ahio50",
+  "display_name": "Rdi>50",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

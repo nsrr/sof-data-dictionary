@@ -1,0 +1,11 @@
+{
+  "id": "v8hpmod6",
+  "display_name": "Hip scan mode V6",
+  "description": "",
+  "type": "choices",
+  "domain": "smodf",
+  "other": {
+    "Library Member Name": "V8DXHP",
+    "Variable Informat": null
+  }
+}

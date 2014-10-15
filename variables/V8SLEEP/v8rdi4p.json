@@ -1,0 +1,11 @@
+{
+  "id": "v8rdi4p",
+  "display_name": "Overall Rdi At 4% Desat",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

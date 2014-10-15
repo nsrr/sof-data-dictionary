@@ -1,0 +1,11 @@
+{
+  "id": "v8ai_nre",
+  "display_name": "Arousal Index Non-Rem",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

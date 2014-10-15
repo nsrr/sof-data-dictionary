@@ -1,0 +1,11 @@
+{
+  "id": "v8chtm2",
+  "display_name": "Secs To Comp 5 Chr Stands Repeat Test",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

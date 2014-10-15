@@ -1,0 +1,10 @@
+{
+  "id": "v8hpday6",
+  "display_name": "Hip scan date (days since enrolled) V6",
+  "description": "",
+  "type": "date",
+  "other": {
+    "Library Member Name": "V8DXHP",
+    "Variable Informat": "YYMMDD"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8someal",
+  "display_name": "Difficulty Finish Meal B/C Sleepy",
+  "description": "",
+  "type": "choices",
+  "domain": "fosqf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

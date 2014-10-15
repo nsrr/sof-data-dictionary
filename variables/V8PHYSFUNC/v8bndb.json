@@ -1,0 +1,11 @@
+{
+  "id": "v8bndb",
+  "display_name": "Diff Bend To Pick Up Clothing ..Health?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

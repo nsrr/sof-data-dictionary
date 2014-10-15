@@ -1,0 +1,11 @@
+{
+  "id": "v8hhb",
+  "display_name": "Diff Do Heavy Housework Due To Health?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

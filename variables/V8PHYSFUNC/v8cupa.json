@@ -1,0 +1,11 @@
+{
+  "id": "v8cupa",
+  "display_name": "Any Diff Lifting A Cup?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

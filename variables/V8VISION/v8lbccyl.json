@@ -1,0 +1,11 @@
+{
+  "id": "v8lbccyl",
+  "display_name": "Autoref: Left Cylinder Value",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

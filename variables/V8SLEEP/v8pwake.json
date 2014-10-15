@@ -1,0 +1,11 @@
+{
+  "id": "v8pwake",
+  "display_name": "Trb Sleep-Wake In Mid Of Ngt/Early Morn",
+  "description": "",
+  "type": "choices",
+  "domain": "psqif",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

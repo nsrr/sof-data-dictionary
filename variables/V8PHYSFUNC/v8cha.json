@@ -1,0 +1,11 @@
+{
+  "id": "v8cha",
+  "display_name": "Any Diff Doing Chores?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8zolp",
+  "display_name": "Zolpidem Use",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDS",
+    "Variable Informat": null
+  }
+}

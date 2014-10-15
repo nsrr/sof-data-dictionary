@@ -1,0 +1,11 @@
+{
+  "id": "v8hpbedl",
+  "display_name": "Left Hip Pain While In Bed",
+  "description": "",
+  "type": "choices",
+  "domain": "pnf",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

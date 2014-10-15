@@ -1,0 +1,11 @@
+{
+  "id": "v8wlkb",
+  "display_name": "Diff Walking 2-3 Blocks Due To Health?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

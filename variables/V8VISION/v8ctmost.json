@@ -1,0 +1,11 @@
+{
+  "id": "v8ctmost",
+  "display_name": "Wears Contacts Most Of Time",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

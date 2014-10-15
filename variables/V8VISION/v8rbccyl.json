@@ -1,0 +1,11 @@
+{
+  "id": "v8rbccyl",
+  "display_name": "Autoref: Right Cylinder Value",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

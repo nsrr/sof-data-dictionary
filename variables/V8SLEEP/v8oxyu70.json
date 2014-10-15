@@ -1,0 +1,11 @@
+{
+  "id": "v8oxyu70",
+  "display_name": "Ox Sat <70% For >10% Tst",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

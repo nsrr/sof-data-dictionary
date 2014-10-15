@@ -1,0 +1,11 @@
+{
+  "id": "v8fall",
+  "display_name": "Fall In The Last 12 Months",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8FXFALL",
+    "Variable Informat": null
+  }
+}

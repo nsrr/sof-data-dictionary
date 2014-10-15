@@ -1,0 +1,11 @@
+{
+  "id": "v8raccr",
+  "display_name": "Autoref Best Corrected Snellen, R Eye",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

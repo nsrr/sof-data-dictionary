@@ -1,0 +1,11 @@
+{
+  "id": "v8l1pct",
+  "display_name": "Left: Pct Error 1st Iop",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

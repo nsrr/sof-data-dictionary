@@ -1,0 +1,11 @@
+{
+  "id": "v8dre",
+  "display_name": "Receive Help Dressing Yourself?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

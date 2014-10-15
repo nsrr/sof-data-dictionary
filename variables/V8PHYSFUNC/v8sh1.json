@@ -1,0 +1,11 @@
+{
+  "id": "v8sh1",
+  "display_name": "Can You Do Shopping?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

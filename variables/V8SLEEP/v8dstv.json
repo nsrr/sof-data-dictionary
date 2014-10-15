@@ -1,0 +1,11 @@
+{
+  "id": "v8dstv",
+  "display_name": "How Likely Doze Watching Tv",
+  "description": "",
+  "type": "choices",
+  "domain": "epworthf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

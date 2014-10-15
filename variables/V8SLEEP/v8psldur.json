@@ -1,0 +1,11 @@
+{
+  "id": "v8psldur",
+  "display_name": "Sleep Duration 4 Cats-Psqi Component 3",
+  "description": "",
+  "type": "choices",
+  "domain": "psldurf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

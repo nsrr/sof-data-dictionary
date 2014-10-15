@@ -1,0 +1,11 @@
+{
+  "id": "v8pbrea",
+  "display_name": "Trb Sleep-Cant Breathe Comfortably",
+  "description": "",
+  "type": "choices",
+  "domain": "psqif",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

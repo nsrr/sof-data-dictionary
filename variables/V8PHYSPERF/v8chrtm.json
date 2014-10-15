@@ -1,0 +1,11 @@
+{
+  "id": "v8chrtm",
+  "display_name": "Seconds To Complete 5 Chair Stands",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8PHYSPERF",
+    "Variable Informat": null
+  }
+}

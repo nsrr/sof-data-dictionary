@@ -1,0 +1,11 @@
+{
+  "id": "v8cupe",
+  "display_name": "Receive Help Lifting A Cup?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8rbfdl",
+  "display_name": "Right: Pupil Before Dilation Mm",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

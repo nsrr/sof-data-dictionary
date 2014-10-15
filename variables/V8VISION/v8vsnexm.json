@@ -1,0 +1,11 @@
+{
+  "id": "v8vsnexm",
+  "display_name": "Vision Exam Indicator",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

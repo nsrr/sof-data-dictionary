@@ -1,0 +1,11 @@
+{
+  "id": "v8lacu40",
+  "display_name": "Acuity 20/40 Or Worse, Left Eye",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

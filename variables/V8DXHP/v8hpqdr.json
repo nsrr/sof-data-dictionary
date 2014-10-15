@@ -1,0 +1,11 @@
+{
+  "id": "v8hpqdr",
+  "display_name": "Hip scan QDR number",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8DXHP",
+    "Variable Informat": null
+  }
+}

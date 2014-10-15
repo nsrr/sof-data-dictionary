@@ -1,0 +1,11 @@
+{
+  "id": "v8carb",
+  "display_name": "Diff Get In/Out Of Car Due To Health?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

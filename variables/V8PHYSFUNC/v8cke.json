@@ -1,0 +1,11 @@
+{
+  "id": "v8cke",
+  "display_name": "Receive Help Preparing Meals?",
+  "description": "",
+  "type": "choices",
+  "domain": "fxstef",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

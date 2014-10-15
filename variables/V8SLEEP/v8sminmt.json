@@ -1,0 +1,11 @@
+{
+  "id": "v8sminmt",
+  "display_name": "Tat:Mean Minutes Scored As Sleep, In Bed",
+  "description": "",
+  "type": "choices",
+  "domain": "actig",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

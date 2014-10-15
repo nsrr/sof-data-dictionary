@@ -1,0 +1,11 @@
+{
+  "id": "v8lcorn",
+  "display_name": "Left:Corneal Graft/Transplant",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8days",
+  "display_name": "Days From Enrollment To Visit8",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8DEMOGR",
+    "Variable Informat": null
+  }
+}

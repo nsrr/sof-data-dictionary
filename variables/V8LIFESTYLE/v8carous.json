@@ -1,0 +1,11 @@
+{
+  "id": "v8carous",
+  "display_name": "How Often Leave Neighborhood",
+  "description": "",
+  "type": "choices",
+  "domain": "carf",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8edeprt",
+  "display_name": "Currently Being Treated For Depression",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDHX",
+    "Variable Informat": null
+  }
+}

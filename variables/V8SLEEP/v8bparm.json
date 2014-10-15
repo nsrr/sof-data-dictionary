@@ -1,0 +1,11 @@
+{
+  "id": "v8bparm",
+  "display_name": "Arm Used For Psg Blood Pressure",
+  "description": "",
+  "type": "choices",
+  "domain": "rtlff",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

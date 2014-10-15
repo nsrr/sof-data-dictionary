@@ -1,0 +1,11 @@
+{
+  "id": "v8ccup",
+  "display_name": "How Many Cups Coffee Do You Drink",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

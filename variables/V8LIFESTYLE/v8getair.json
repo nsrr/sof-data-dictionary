@@ -1,0 +1,11 @@
+{
+  "id": "v8getair",
+  "display_name": "How Often Get Out Of House",
+  "description": "",
+  "type": "choices",
+  "domain": "getf",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

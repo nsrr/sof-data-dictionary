@@ -1,0 +1,11 @@
+{
+  "id": "v8l30",
+  "display_name": "Left Iop 30 Mm Hg Or Greater",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8sckon",
+  "display_name": "Any Difficulty Putting Socks On?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

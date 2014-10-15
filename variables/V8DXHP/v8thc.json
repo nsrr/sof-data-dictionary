@@ -1,0 +1,11 @@
+{
+  "id": "v8thc",
+  "display_name": "Total Hip BMC (g)",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8DXHP",
+    "Variable Informat": null
+  }
+}

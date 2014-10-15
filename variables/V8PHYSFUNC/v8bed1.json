@@ -1,0 +1,11 @@
+{
+  "id": "v8bed1",
+  "display_name": "Can You Get In/Out Of Bed?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

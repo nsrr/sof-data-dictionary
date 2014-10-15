@@ -1,0 +1,11 @@
+{
+  "id": "v8pfxdy",
+  "display_name": "V8 Date xray: days since enrollment date",
+  "description": "",
+  "type": "numeric",
+  "units": null,
+  "other": {
+    "Library Member Name": "V8MORPH",
+    "Variable Informat": null
+  }
+}

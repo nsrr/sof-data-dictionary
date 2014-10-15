@@ -1,0 +1,11 @@
+{
+  "id": "v8humf",
+  "display_name": "F/U Time To 1st Humerus Fx Since V8",
+  "description": "",
+  "type": "choices",
+  "domain": "fufmt",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

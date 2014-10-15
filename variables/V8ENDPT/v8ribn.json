@@ -1,0 +1,11 @@
+{
+  "id": "v8ribn",
+  "display_name": "Number Of Rib Fractures Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "fxspcfx",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

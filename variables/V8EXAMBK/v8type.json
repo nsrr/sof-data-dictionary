@@ -1,0 +1,11 @@
+{
+  "id": "v8type",
+  "display_name": "Type Of Visit",
+  "description": "",
+  "type": "choices",
+  "domain": "v8typf",
+  "other": {
+    "Library Member Name": "V8EXAMBK",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8feet",
+  "display_name": "Any Diff Standing On Feet For 2 Hrs?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

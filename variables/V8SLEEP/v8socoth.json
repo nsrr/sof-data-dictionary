@@ -1,0 +1,11 @@
+{
+  "id": "v8socoth",
+  "display_name": "Difficulty Concentration B/C Sleepy",
+  "description": "",
+  "type": "choices",
+  "domain": "fosqf",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8friend",
+  "display_name": "Do You Live With Friends?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8QOL",
+    "Variable Informat": null
+  }
+}

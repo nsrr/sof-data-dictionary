@@ -1,0 +1,11 @@
+{
+  "id": "v8smok",
+  "display_name": "Do You Smoke Cigarettes",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8LIFESTYLE",
+    "Variable Informat": null
+  }
+}

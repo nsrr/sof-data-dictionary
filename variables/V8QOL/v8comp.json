@@ -1,0 +1,11 @@
+{
+  "id": "v8comp",
+  "display_name": "Health Compared To Others Your Age",
+  "description": "",
+  "type": "choices",
+  "domain": "compf",
+  "other": {
+    "Library Member Name": "V8QOL",
+    "Variable Informat": null
+  }
+}

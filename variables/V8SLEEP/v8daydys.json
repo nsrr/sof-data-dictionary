@@ -1,0 +1,11 @@
+{
+  "id": "v8daydys",
+  "display_name": "Daytime Dysfunction-Psqi Component 7",
+  "description": "",
+  "type": "choices",
+  "domain": "daydys",
+  "other": {
+    "Library Member Name": "V8SLEEP",
+    "Variable Informat": null
+  }
+}

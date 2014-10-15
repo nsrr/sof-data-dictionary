@@ -1,0 +1,11 @@
+{
+  "id": "v8dthsud",
+  "display_name": "Chd And Sudden Death Post V8",
+  "description": "",
+  "type": "choices",
+  "domain": "dthfmt",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "v8bnd2",
+  "display_name": "Degr Diff Bending To Pick Up Clothing?",
+  "description": "",
+  "type": "choices",
+  "domain": "painf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

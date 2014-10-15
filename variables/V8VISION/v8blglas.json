@@ -1,0 +1,11 @@
+{
+  "id": "v8blglas",
+  "display_name": "Wears Glasses/Contacts For Distance",
+  "description": "",
+  "type": "choices",
+  "domain": "visbothf",
+  "other": {
+    "Library Member Name": "V8VISION",
+    "Variable Informat": null
+  }
+}

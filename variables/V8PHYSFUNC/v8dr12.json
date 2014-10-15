@@ -1,0 +1,11 @@
+{
+  "id": "v8dr12",
+  "display_name": "Driven A Car In The Past 12 Mon",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

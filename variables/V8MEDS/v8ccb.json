@@ -1,0 +1,11 @@
+{
+  "id": "v8ccb",
+  "display_name": "Calcium Channel Blocker Use",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDS",
+    "Variable Informat": null
+  }
+}

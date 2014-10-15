@@ -1,0 +1,11 @@
+{
+  "id": "v8stpb",
+  "display_name": "Diff Walk Down 10 Steps Due To Health?",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}

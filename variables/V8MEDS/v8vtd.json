@@ -1,0 +1,11 @@
+{
+  "id": "v8vtd",
+  "display_name": "Vitamin D Use",
+  "description": "",
+  "type": "choices",
+  "domain": "ch3f",
+  "other": {
+    "Library Member Name": "V8MEDS",
+    "Variable Informat": null
+  }
+}

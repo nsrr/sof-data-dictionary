@@ -1,0 +1,11 @@
+{
+  "id": "v8auto",
+  "display_name": "Any Diff Getting In/Out Of Auto?",
+  "description": "",
+  "type": "choices",
+  "domain": "chf",
+  "other": {
+    "Library Member Name": "V8PHYSFUNC",
+    "Variable Informat": null
+  }
+}
