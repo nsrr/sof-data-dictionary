@@ -22,9 +22,9 @@ data sof_all_wo_nmiss;
 run;
 
 *export dataset;
-proc export 
-	data = sof_all_wo_nmiss 
-	outfile="\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&release..csv" 
-	dbms = csv 
-	replace; 
+proc export
+	data = sof_all_wo_nmiss
+	outfile="\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&version..csv"
+	dbms = csv
+	replace;
 run;
