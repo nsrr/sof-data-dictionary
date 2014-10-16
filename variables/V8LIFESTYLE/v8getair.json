@@ -1,6 +1,6 @@
 {
   "id": "v8getair",
-  "display_name": "How Often Get Out Of House",
+  "display_name": "How often do you get out of the house",
   "description": "",
   "type": "choices",
   "domain": "getf",

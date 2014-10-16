@@ -1,6 +1,6 @@
 {
   "id": "v8blocks",
-  "display_name": "# Blocks Walked/Day For Exercise",
+  "display_name": "Number of blocks walked per day for exercise",
   "description": "",
   "type": "numeric",
   "units": "",

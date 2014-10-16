@@ -1,6 +1,6 @@
 {
   "id": "v8dr30",
-  "display_name": "Past 30 Days At Least 1 Alcohol Drink",
+  "display_name": "Past 30 days at least 1 alcohol drink",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

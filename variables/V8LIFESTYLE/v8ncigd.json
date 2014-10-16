@@ -1,6 +1,6 @@
 {
   "id": "v8ncigd",
-  "display_name": "# Cigs/Day Currently Smoke",
+  "display_name": "Number of cigarettes per day currently smoke",
   "description": "",
   "type": "numeric",
   "units": "",

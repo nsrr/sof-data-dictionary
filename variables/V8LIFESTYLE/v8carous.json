@@ -1,6 +1,6 @@
 {
   "id": "v8carous",
-  "display_name": "How Often Leave Neighborhood",
+  "display_name": "How often leave neighborhood",
   "description": "",
   "type": "choices",
   "domain": "carf",

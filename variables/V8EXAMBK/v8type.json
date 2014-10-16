@@ -1,6 +1,6 @@
 {
   "id": "v8type",
-  "display_name": "Type Of Visit",
+  "display_name": "Type of visit",
   "description": "",
   "type": "choices",
   "domain": "v8typf",

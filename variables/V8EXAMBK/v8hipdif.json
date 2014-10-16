@@ -1,6 +1,6 @@
 {
   "id": "v8hipdif",
-  "display_name": "Reason For Scanning Other Hip This Visit",
+  "display_name": "Reason for scanning other hip this visit",
   "description": "",
   "type": "choices",
   "domain": "scanf",

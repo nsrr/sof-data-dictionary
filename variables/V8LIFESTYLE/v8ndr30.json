@@ -1,6 +1,6 @@
 {
   "id": "v8ndr30",
-  "display_name": "Drinks/Day Past 30 Days",
+  "display_name": "Drinks per day past 30 days",
   "description": "",
   "type": "numeric",
   "units": "",

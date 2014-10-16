@@ -1,6 +1,6 @@
 {
   "id": "v8nfall",
-  "display_name": "# Of Falls In The Last 12 Months",
+  "display_name": "Number of falls in the Last 12 months",
   "description": "",
   "type": "numeric",
   "units": "",

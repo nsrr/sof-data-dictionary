@@ -1,6 +1,6 @@
 {
   "id": "v8vttrf",
-  "display_name": "Days To 1st Non-Vert/Non-Trauma Since V8",
+  "display_name": "Days to first non-vert/non-trauma since V8",
   "description": "",
   "type": "choices",
   "domain": "fufmt",

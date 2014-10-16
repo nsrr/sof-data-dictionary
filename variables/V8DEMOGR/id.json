@@ -1,6 +1,6 @@
 {
   "id": "id",
-  "display_name": "Public Data Release ID",
+  "display_name": "Public data release id",
   "description": "",
   "type": "identifier",
   "other": {

@@ -1,6 +1,6 @@
 {
   "id": "v8prstat",
-  "display_name": "Progesterone Receptor Status Post V8",
+  "display_name": "Progesterone receptor status post V8",
   "description": "",
   "type": "choices",
   "domain": "bcrecf",
