@@ -1,30 +1,30 @@
 [
   {
-    "value": ".J",
+    "value": "J",
     "display_name": "Fx Var=Smvc",
     "description": "",
     "missing": true
   },
   {
-    "value": ".L",
+    "value": "L",
     "display_name": "Lastcon Prior To Visit",
     "description": "",
     "missing": true
   },
   {
-    "value": ".M",
+    "value": "M",
     "display_name": "Not Applicable",
     "description": "",
     "missing": true
   },
   {
-    "value": ".N",
+    "value": "N",
     "display_name": "No Visit",
     "description": "",
     "missing": true
   },
   {
-    "value": ".S",
+    "value": "S",
     "display_name": "No Fu After Visit",
     "description": "",
     "missing": true

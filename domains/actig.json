@@ -1,42 +1,42 @@
 [
   {
-    "value": ".A",
+    "value": "A",
     "display_name": "Missing",
     "description": "",
     "missing": true
   },
   {
-    "value": ".M",
+    "value": "M",
     "display_name": "Not Applicable",
     "description": "",
     "missing": true
   },
   {
-    "value": ".N",
+    "value": "N",
     "display_name": "Cannot Evaluate",
     "description": "",
     "missing": true
   },
   {
-    "value": ".O",
+    "value": "O",
     "display_name": "One Meas(Cant Compute Std, Cv)",
     "description": "",
     "missing": true
   },
   {
-    "value": ".Q",
+    "value": "Q",
     "display_name": "Ques Not Asked",
     "description": "",
     "missing": true
   },
   {
-    "value": ".S",
+    "value": "S",
     "display_name": "No Sleep",
     "description": "",
     "missing": true
   },
   {
-    "value": ".X",
+    "value": "X",
     "display_name": "No X-Am Data",
     "description": "",
     "missing": true

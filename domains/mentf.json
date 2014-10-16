@@ -1,138 +1,138 @@
 [
   {
-    "value": ".A",
+    "value": "A",
     "display_name": "Missing",
     "description": "",
     "missing": true
   },
   {
-    "value": ".B",
+    "value": "B",
     "display_name": "Completely Blind",
     "description": "",
     "missing": true
   },
   {
-    "value": ".C",
+    "value": "C",
     "display_name": "Used For Extreme Calc Var",
     "description": "",
     "missing": true
   },
   {
-    "value": ".D",
+    "value": "D",
     "display_name": "Dont Know",
     "description": "",
     "missing": true
   },
   {
-    "value": ".F",
+    "value": "F",
     "display_name": "Fx Before 50",
     "description": "",
     "missing": true
   },
   {
-    "value": ".G",
+    "value": "G",
     "display_name": "Lt 2.5th Percentile",
     "description": "",
     "missing": true
   },
   {
-    "value": ".H",
+    "value": "H",
     "display_name": "Gt 97.5th Percentile",
     "description": "",
     "missing": true
   },
   {
-    "value": ".J",
+    "value": "J",
     "display_name": "Main Var=Spcod",
     "description": "",
     "missing": true
   },
   {
-    "value": ".K",
+    "value": "K",
     "display_name": "Main VaDk/Un",
     "description": "",
     "missing": true
   },
   {
-    "value": ".L",
+    "value": "L",
     "display_name": "Main VaRef",
     "description": "",
     "missing": true
   },
   {
-    "value": ".M",
+    "value": "M",
     "display_name": "Not Applicable",
     "description": "",
     "missing": true
   },
   {
-    "value": ".N",
+    "value": "N",
     "display_name": "None Felt",
     "description": "",
     "missing": true
   },
   {
-    "value": ".O",
+    "value": "O",
     "display_name": "Min Data Only",
     "description": "",
     "missing": true
   },
   {
-    "value": ".P",
+    "value": "P",
     "display_name": "Never Had Period",
     "description": "",
     "missing": true
   },
   {
-    "value": ".Q",
+    "value": "Q",
     "display_name": "Ques Not Asked",
     "description": "",
     "missing": true
   },
   {
-    "value": ".R",
+    "value": "R",
     "display_name": "Refused",
     "description": "",
     "missing": true
   },
   {
-    "value": ".S",
+    "value": "S",
     "display_name": "No Full Sis/Bro",
     "description": "",
     "missing": true
   },
   {
-    "value": ".U",
+    "value": "U",
     "display_name": "Unknown",
     "description": "",
     "missing": true
   },
   {
-    "value": ".V",
+    "value": "V",
     "display_name": "No Vision Data",
     "description": "",
     "missing": true
   },
   {
-    "value": ".W",
+    "value": "W",
     "display_name": "Weird Value",
     "description": "",
     "missing": true
   },
   {
-    "value": ".X",
+    "value": "X",
     "display_name": "No X-Am Data",
     "description": "",
     "missing": true
   },
   {
-    "value": ".Y",
+    "value": "Y",
     "display_name": "Weakened",
     "description": "",
     "missing": true
   },
   {
-    "value": ".Z",
+    "value": "Z",
     "display_name": "Thiazide",
     "description": "",
     "missing": true

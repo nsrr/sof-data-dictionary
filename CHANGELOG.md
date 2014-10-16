@@ -1,5 +1,5 @@
 ## 0.1.0
-
+- Domain values have been updated to properly reflect exported values
 - A SAS export script has been added to allow tracking of any modifications to the dataset
 - The CSV datasets generated from the SAS export is located here:
   - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.1.0.beta1\`

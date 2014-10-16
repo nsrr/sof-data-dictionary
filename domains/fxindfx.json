@@ -1,60 +1,60 @@
 [
   {
-    "value": ".A",
+    "value": "A",
     "display_name": "Non-Adj Vert Fx",
     "description": "",
     "missing": true
   },
   {
-    "value": ".B",
+    "value": "B",
     "display_name": "2 Types Hip Fx",
     "description": "",
     "missing": true
   },
   {
-    "value": ".F",
+    "value": "F",
     "display_name": "Femoral Hip Fx",
     "description": "",
     "missing": true
   },
   {
-    "value": ".H",
+    "value": "H",
     "display_name": "Hip Fx",
     "description": "",
     "missing": true
   },
   {
-    "value": ".I",
+    "value": "I",
     "display_name": "Intertroch Fx",
     "description": "",
     "missing": true
   },
   {
-    "value": ".N",
+    "value": "N",
     "display_name": "No Visit",
     "description": "",
     "missing": true
   },
   {
-    "value": ".P",
+    "value": "P",
     "display_name": "Past Fx Of Type",
     "description": "",
     "missing": true
   },
   {
-    "value": ".T",
+    "value": "T",
     "display_name": "Traumatic Fx",
     "description": "",
     "missing": true
   },
   {
-    "value": ".U",
+    "value": "U",
     "display_name": "Uncertain Fx",
     "description": "",
     "missing": true
   },
   {
-    "value": ".V",
+    "value": "V",
     "display_name": "Vert Fx",
     "description": "",
     "missing": true

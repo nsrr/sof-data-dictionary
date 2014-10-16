@@ -1,24 +1,24 @@
 [
   {
-    "value": ".D",
+    "value": "D",
     "display_name": "Dth Of Other Cause",
     "description": "",
     "missing": true
   },
   {
-    "value": ".E",
+    "value": "E",
     "display_name": "Ert Related Death",
     "description": "",
     "missing": true
   },
   {
-    "value": ".N",
+    "value": "N",
     "display_name": "No Visit",
     "description": "",
     "missing": true
   },
   {
-    "value": ".T",
+    "value": "T",
     "display_name": "Traumatic Dth",
     "description": "",
     "missing": true

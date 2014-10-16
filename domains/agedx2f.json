@@ -1,138 +1,138 @@
 [
   {
-    "value": ".A",
+    "value": "A",
     "display_name": "A:Missing",
     "description": "",
     "missing": true
   },
   {
-    "value": ".B",
+    "value": "B",
     "display_name": "B:Completely Blind",
     "description": "",
     "missing": true
   },
   {
-    "value": ".C",
+    "value": "C",
     "display_name": "C:Used For Extreme Calc Var",
     "description": "",
     "missing": true
   },
   {
-    "value": ".D",
+    "value": "D",
     "display_name": "D:Dont Know",
     "description": "",
     "missing": true
   },
   {
-    "value": ".F",
+    "value": "F",
     "display_name": "F:Fx Before 50",
     "description": "",
     "missing": true
   },
   {
-    "value": ".G",
+    "value": "G",
     "display_name": "G:Non Released Low Value",
     "description": "",
     "missing": true
   },
   {
-    "value": ".H",
+    "value": "H",
     "display_name": "H:Non Released High Value",
     "description": "",
     "missing": true
   },
   {
-    "value": ".J",
+    "value": "J",
     "display_name": "J:Main Var=Spcod",
     "description": "",
     "missing": true
   },
   {
-    "value": ".K",
+    "value": "K",
     "display_name": "K:Main Var:Dk/Un",
     "description": "",
     "missing": true
   },
   {
-    "value": ".L",
+    "value": "L",
     "display_name": "L:Main Var:Ref",
     "description": "",
     "missing": true
   },
   {
-    "value": ".M",
+    "value": "M",
     "display_name": "M:Not Applicable",
     "description": "",
     "missing": true
   },
   {
-    "value": ".N",
+    "value": "N",
     "display_name": "N:None Felt",
     "description": "",
     "missing": true
   },
   {
-    "value": ".O",
+    "value": "O",
     "display_name": "O:Min Data Only",
     "description": "",
     "missing": true
   },
   {
-    "value": ".P",
+    "value": "P",
     "display_name": "P:Never Had Period",
     "description": "",
     "missing": true
   },
   {
-    "value": ".Q",
+    "value": "Q",
     "display_name": "Q:Ques Not Asked",
     "description": "",
     "missing": true
   },
   {
-    "value": ".R",
+    "value": "R",
     "display_name": "R:Refused",
     "description": "",
     "missing": true
   },
   {
-    "value": ".S",
+    "value": "S",
     "display_name": "S:No Full Sis/Bro",
     "description": "",
     "missing": true
   },
   {
-    "value": ".U",
+    "value": "U",
     "display_name": "U:Unable",
     "description": "",
     "missing": true
   },
   {
-    "value": ".V",
+    "value": "V",
     "display_name": "V:No Vision Data",
     "description": "",
     "missing": true
   },
   {
-    "value": ".W",
+    "value": "W",
     "display_name": "W:Weird Value",
     "description": "",
     "missing": true
   },
   {
-    "value": ".X",
+    "value": "X",
     "display_name": "X:No X-Am Data",
     "description": "",
     "missing": true
   },
   {
-    "value": ".Y",
+    "value": "Y",
     "display_name": "Y:Weakened",
     "description": "",
     "missing": true
   },
   {
-    "value": ".Z",
+    "value": "Z",
     "display_name": "Z:Thiazide",
     "description": "",
     "missing": true
