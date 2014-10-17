@@ -1,6 +1,6 @@
 {
   "id": "v8care",
-  "display_name": "Receive Help Getting In/Out Of Car?",
+  "display_name": "Receive Help Getting in or out Of Car?",
   "description": "",
   "type": "choices",
   "domain": "fxstef",

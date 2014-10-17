@@ -1,6 +1,6 @@
 {
   "id": "v8statin",
-  "display_name": "Statin Use",
+  "display_name": "Statin use",
   "description": "",
   "type": "choices",
   "domain": "ch3f",
