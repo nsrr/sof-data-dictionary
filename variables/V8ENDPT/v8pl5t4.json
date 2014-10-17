@@ -1,0 +1,11 @@
+{
+  "id": "v8pl5t4",
+  "display_name": "Prevalent fractures in L-5 through T-4",
+  "description": "",
+  "type": "numeric",
+  "domain": "fxf",
+  "other": {
+    "Library Member Name": "V8ENDPT",
+    "Variable Informat": null
+  }
+}
