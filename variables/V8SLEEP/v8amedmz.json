@@ -2,7 +2,7 @@
   "id": "v8amedmz",
   "display_name": "Zcm:Median Activ Scr(Counts/Min)Out Bed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

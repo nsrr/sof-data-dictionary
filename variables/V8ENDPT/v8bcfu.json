@@ -2,7 +2,7 @@
   "id": "v8bcfu",
   "display_name": "F/U time to first breast cancer post V8",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "bcfufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

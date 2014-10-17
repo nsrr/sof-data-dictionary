@@ -2,7 +2,7 @@
   "id": "v8lwepmp",
   "display_name": "Pim:Mean#Long(>=5min)Wake Episodes,Inbed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

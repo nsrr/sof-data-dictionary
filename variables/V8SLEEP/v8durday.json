@@ -2,7 +2,7 @@
   "id": "v8durday",
   "display_name": "Avg Minutes During Out Of Bed Interval",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

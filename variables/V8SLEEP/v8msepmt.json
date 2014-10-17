@@ -2,7 +2,7 @@
   "id": "v8msepmt",
   "display_name": "Tat:Mean Dur Sleep Episode(Min)Out Bed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

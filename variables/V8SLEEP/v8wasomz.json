@@ -2,7 +2,7 @@
   "id": "v8wasomz",
   "display_name": "Zcm:Mean Wake Aftr Sleep Onset(Min)Inbed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -2,7 +2,7 @@
   "id": "v8folall",
   "display_name": "Overall follow-up time (days) post V8",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

@@ -2,7 +2,7 @@
   "id": "v8tnap2p",
   "display_name": "Pim:Avg Mins Scored Sleep,Out Bed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

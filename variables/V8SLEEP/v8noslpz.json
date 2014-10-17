@@ -2,7 +2,7 @@
   "id": "v8noslpz",
   "display_name": "Zcm:# Nights With No Sleep Onset",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

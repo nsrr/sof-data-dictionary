@@ -2,7 +2,7 @@
   "id": "v8hipxf",
   "display_name": "Days to first hip Fx since V8, excl prior",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

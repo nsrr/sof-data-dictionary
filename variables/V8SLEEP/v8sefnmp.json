@@ -2,7 +2,7 @@
   "id": "v8sefnmp",
   "display_name": "Pim:Mean Sleep Eff Inbed(%)=(100*Smin/Du",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -2,7 +2,7 @@
   "id": "v8wasomp",
   "display_name": "Pim:Mean Wake Aftr Sleep Onset(Min)Inbed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

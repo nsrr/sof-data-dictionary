@@ -2,7 +2,7 @@
   "id": "v8dropdy",
   "display_name": "#Days Dropped From Analysis, Bad Int>10%",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

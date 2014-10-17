@@ -2,7 +2,7 @@
   "id": "v8vttrf",
   "display_name": "Days to first non-vert/non-trauma since V8",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

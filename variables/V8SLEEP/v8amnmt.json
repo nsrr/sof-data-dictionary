@@ -2,7 +2,7 @@
   "id": "v8amnmt",
   "display_name": "Tat:Avg Activity(Counts/Min),Out Of Bed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -2,7 +2,7 @@
   "id": "v8lsepmp",
   "display_name": "Pim:Mean#Long(>=5min)Slp Episodes,Outbed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

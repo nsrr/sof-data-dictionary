@@ -2,7 +2,7 @@
   "id": "v8slatmp",
   "display_name": "Pim:Mean Sleep Latency(Min), In Bed",
   "description": "",
-  "type": "choices",
+  "type": "numeric",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",
