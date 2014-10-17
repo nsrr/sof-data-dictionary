@@ -3,7 +3,7 @@
   "display_name": "Number of blocks walked per day for exercise",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "blocks",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

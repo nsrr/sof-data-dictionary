@@ -1,9 +1,9 @@
 {
   "id": "v8hipxf",
-  "display_name": "Days to first hip Fx since V8, excl prior",
+  "display_name": "Days to first hip fracture since V8, excluding prior",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "days",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

@@ -1,9 +1,9 @@
 {
   "id": "v8thc",
-  "display_name": "Total hip BMC (grams)",
+  "display_name": "Total hip BMC",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

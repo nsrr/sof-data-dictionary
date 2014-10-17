@@ -3,7 +3,7 @@
   "display_name": "How many cups of coffee do you drink",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "cups",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

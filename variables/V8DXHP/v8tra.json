@@ -1,9 +1,9 @@
 {
   "id": "v8tra",
-  "display_name": "Trochanteric area (centimeters squared)",
+  "display_name": "Trochanteric area",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

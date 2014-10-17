@@ -1,9 +1,9 @@
 {
   "id": "v8fnd",
-  "display_name": "Femoral neck BMD (g/cm2)",
+  "display_name": "Femoral neck BMD",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams per centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

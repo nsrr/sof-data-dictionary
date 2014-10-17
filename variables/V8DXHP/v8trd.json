@@ -1,9 +1,9 @@
 {
   "id": "v8trd",
-  "display_name": "Trochanteric BMD (grams per centimeters squared)",
+  "display_name": "Trochanteric BMD",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams per centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

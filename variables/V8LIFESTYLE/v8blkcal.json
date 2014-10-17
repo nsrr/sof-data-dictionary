@@ -1,9 +1,9 @@
 {
   "id": "v8blkcal",
-  "display_name": "Kcal/Wk from blocks walked",
+  "display_name": "Kilocalorie per week from blocks walked",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "kilocalorie",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

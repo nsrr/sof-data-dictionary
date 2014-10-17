@@ -1,6 +1,6 @@
 {
   "id": "v8hipx",
-  "display_name": "Hip fracture post V8, excl prior hip Fx",
+  "display_name": "Hip fracture post V8, excluding prior hip fracture",
   "description": "",
   "type": "choices",
   "domain": "fxindfx",

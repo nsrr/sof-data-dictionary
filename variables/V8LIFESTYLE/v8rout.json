@@ -3,7 +3,7 @@
   "display_name": "Blocks walked per day if dont exercise",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "blocks",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

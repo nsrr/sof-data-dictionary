@@ -1,9 +1,9 @@
 {
   "id": "v8thd",
-  "display_name": "Total hip BMD (grams per centimeters squared)",
+  "display_name": "Total hip BMD",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams per centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

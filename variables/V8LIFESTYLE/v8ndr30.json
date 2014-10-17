@@ -3,7 +3,7 @@
   "display_name": "Drinks per day past 30 days",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "drinks per day",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

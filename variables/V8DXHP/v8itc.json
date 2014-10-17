@@ -1,9 +1,9 @@
 {
   "id": "v8itc",
-  "display_name": "Intertrochanteric BMC (grams)",
+  "display_name": "Intertrochanteric BMC",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

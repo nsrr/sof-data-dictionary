@@ -1,9 +1,9 @@
 {
   "id": "v8tha",
-  "display_name": "Total hip area (centimeters squared)",
+  "display_name": "Total hip area",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

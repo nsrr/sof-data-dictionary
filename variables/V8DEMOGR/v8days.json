@@ -3,7 +3,7 @@
   "display_name": "Days from enrollment to visit 8",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "days",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DEMOGR",

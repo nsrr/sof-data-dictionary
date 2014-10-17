@@ -1,9 +1,9 @@
 {
   "id": "v8wdc",
-  "display_name": "Wards BMC (grams)",
+  "display_name": "Wards BMC",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

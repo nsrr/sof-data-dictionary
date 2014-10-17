@@ -3,7 +3,7 @@
   "display_name": "Hours spent watching television per week",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "hours",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

@@ -1,9 +1,9 @@
 {
   "id": "v8trc",
-  "display_name": "Trochanteric BMC (grams)",
+  "display_name": "Trochanteric BMC",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",
