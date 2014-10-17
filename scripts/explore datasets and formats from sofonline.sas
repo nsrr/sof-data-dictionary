@@ -1,6 +1,6 @@
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 options nofmterr fmtsearch=(sof);
-%let version = 0.1.0.beta2;
+%let version = 0.1.0.beta3;
 *create combined race datasets;
 data aa;
 	merge sof.v8aaanthro sof.v8aacogfxn sof.v8aademogr sof.v8aadxhp sof.v8aaendpt sof.v8aaexambk sof.v8aafxfall sof.v8aalifestyle sof.v8aamedhx sof.v8aameds sof.v8aamorph sof.v8aaphysfunc sof.v8aaphysperf sof.v8aaqol sof.v8aasleep sof.v8aavision sof.v8aavital;
