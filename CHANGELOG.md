@@ -1,5 +1,7 @@
 ## 0.1.0
 
+- Sex, race, and categorical age variables have been added to the dataset
+  - Sex is `1: Female` for all subjects in SOF
 - Variables that contain missing codes and numeric data have been made to be `type: numeric`
 - Domain values have been updated to properly reflect exported values
   - Many domains currently do not map to variables; these will become used as further visits are released
