@@ -1,3 +1,9 @@
  slug: sof
 visit: visit
-charts: []
+charts:
+- chart: age_category
+  title: Age
+- chart: sex
+  title: Sex
+- chart: race
+  title: Race
