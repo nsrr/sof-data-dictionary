@@ -20,6 +20,8 @@ data sof_all_wo_nmiss;
 	merge aa cc;
 	by id;
 
+	visit = 8;
+
 	attrib _all_ label="";
   format _all_;
 run;

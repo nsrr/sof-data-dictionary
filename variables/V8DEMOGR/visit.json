@@ -1,0 +1,7 @@
+{
+  "id": "visit",
+  "display_name": "Visit number",
+  "description": "",
+  "type": "choices",
+  "domain": "visit"
+}
