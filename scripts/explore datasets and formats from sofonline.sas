@@ -40,6 +40,9 @@ data sof_all_wo_nmiss;
   else if 75 =< v8age =< 84 then age_category = 9;
   else if 85 =< v8age then age_category = 10;
 
+  *strip out ages that were censored (but probably shouldn't have been);
+  if age_category = 0 then age_category = .;
+
 	attrib _all_ label="";
   format _all_;
 run;
