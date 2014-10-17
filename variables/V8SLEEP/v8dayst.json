@@ -3,6 +3,7 @@
   "display_name": "Total # Intervals Ppt Wore Watch Out Bed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

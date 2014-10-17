@@ -3,6 +3,7 @@
   "display_name": "Zcm:Mean Sleep Efficiency(%), In Bed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

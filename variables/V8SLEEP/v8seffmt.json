@@ -3,6 +3,7 @@
   "display_name": "Tat:Mean Sleep Efficiency(%), In Bed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

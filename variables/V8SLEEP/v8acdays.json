@@ -3,6 +3,7 @@
   "display_name": "# Intervals In Analysis For Out Of Bed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

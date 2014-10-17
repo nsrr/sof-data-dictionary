@@ -3,6 +3,7 @@
   "display_name": "Days to first non-vert/non-trauma since V8",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

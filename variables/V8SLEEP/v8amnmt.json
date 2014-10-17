@@ -3,6 +3,7 @@
   "display_name": "Tat:Avg Activity(Counts/Min),Out Of Bed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

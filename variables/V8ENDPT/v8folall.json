@@ -3,6 +3,7 @@
   "display_name": "Overall follow-up time (days) post V8",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

@@ -3,6 +3,7 @@
   "display_name": "F/U time to first rib Fx since V8",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

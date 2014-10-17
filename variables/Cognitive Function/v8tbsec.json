@@ -3,5 +3,6 @@
   "display_name": "Time to be complete trails B",
   "description": "",
   "type": "numeric",
-  "units": "seconds"
+  "units": "seconds",
+  "domain": "specf"
 }

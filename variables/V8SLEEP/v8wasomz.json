@@ -3,6 +3,7 @@
   "display_name": "Zcm:Mean Wake Aftr Sleep Onset(Min)Inbed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

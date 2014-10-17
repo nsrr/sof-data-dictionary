@@ -3,6 +3,7 @@
   "display_name": "Pim:Median Activ Scr(Counts/Min)Out Bed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

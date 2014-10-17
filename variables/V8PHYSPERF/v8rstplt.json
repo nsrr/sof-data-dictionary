@@ -4,6 +4,7 @@
   "description": "",
   "type": "numeric",
   "units": "",
+  "domain": "specf",
   "other": {
     "Library Member Name": "V8PHYSPERF",
     "Variable Informat": null

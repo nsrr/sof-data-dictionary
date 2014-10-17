@@ -3,6 +3,7 @@
   "display_name": "Average # Of Bad Minutes For In Bed",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -3,5 +3,6 @@
   "display_name": "Body mass index",
   "description": "",
   "type": "numeric",
-  "units": "kilograms per meter squared"
+  "units": "kilograms per meter squared",
+  "domain": "specf"
 }

@@ -3,5 +3,6 @@
   "display_name": "Short mini-mental status exam",
   "description": "Valid scores range from 0 to 26",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "domain": "specf"
 }

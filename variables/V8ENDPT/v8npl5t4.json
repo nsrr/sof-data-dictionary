@@ -2,8 +2,9 @@
   "id": "v8npl5t4",
   "display_name": "Number of prevalent fractures in L-5 through T-4",
   "description": "",
-  "type": "numeric",
-  "domain": "",
+  "type": "choices",
+  "units": "",
+  "domain": "specf",
   "other": {
     "Library Member Name": "V8ENDPT",
     "Variable Informat": null

@@ -3,6 +3,7 @@
   "display_name": "Prevalent fractures in L-5",
   "description": "",
   "type": "numeric",
+  "units": "",
   "domain": "fxf",
   "other": {
     "Library Member Name": "V8ENDPT",
