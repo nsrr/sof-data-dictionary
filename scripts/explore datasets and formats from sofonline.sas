@@ -22,6 +22,18 @@ data sof_all_wo_nmiss;
 
 	visit = 8;
 
+	if v8age < 1 then age_category = 0;
+  else if 1 =< v8age =< 4 then age_category = 1;
+  else if 5 =< v8age =< 14 then age_category = 2;
+  else if 15 =< v8age =< 24 then age_category = 3;
+  else if 25 =< v8age =< 34 then age_category = 4;
+  else if 35 =< v8age =< 44 then age_category = 5;
+  else if 45 =< v8age =< 54 then age_category = 6;
+  else if 55 =< v8age =< 64 then age_category = 7;
+  else if 65 =< v8age =< 74 then age_category = 8;
+  else if 75 =< v8age =< 84 then age_category = 9;
+  else if 85 =< v8age then age_category = 10;
+
 	attrib _all_ label="";
   format _all_;
 run;
