@@ -1,6 +1,6 @@
 {
   "id": "v85pitd",
-  "display_name": "Intertrochanteric BMD",
+  "display_name": "Intertrochanteric bone mineral density",
   "description": "",
   "type": "numeric",
   "units": "grams per centimeters squared",

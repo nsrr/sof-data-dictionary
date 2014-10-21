@@ -1,6 +1,6 @@
 {
   "id": "v8wdd",
-  "display_name": "Wards BMD",
+  "display_name": "Wards bone mineral density",
   "description": "",
   "type": "numeric",
   "units": "grams per centimeters squared",

@@ -1,6 +1,6 @@
 {
   "id": "v8thd",
-  "display_name": "Total hip BMD",
+  "display_name": "Total hip bone mineral density",
   "description": "",
   "type": "numeric",
   "units": "grams per centimeters squared",

@@ -1,6 +1,6 @@
 {
   "id": "v8trd",
-  "display_name": "Trochanteric BMD",
+  "display_name": "Trochanteric bone mineral density",
   "description": "",
   "type": "numeric",
   "units": "grams per centimeters squared",
