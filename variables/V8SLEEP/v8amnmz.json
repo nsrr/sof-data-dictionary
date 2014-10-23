@@ -1,6 +1,6 @@
 {
   "id": "v8amnmz",
-  "display_name": "Zcm:Avg Activity(Counts/Min),Out Of Bed",
+  "display_name": "Zcm: Avgerage activity (counts per minute) out of bed",
   "description": "",
   "type": "numeric",
   "units": "",

@@ -1,6 +1,6 @@
 {
   "id": "v8amnmp",
-  "display_name": "Pim:Avg Activity(Counts/Min),Out Of Bed",
+  "display_name": "Pim: Avgerage activity (counts per minute) out of bed",
   "description": "",
   "type": "numeric",
   "units": "",

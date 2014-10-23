@@ -1,6 +1,6 @@
 {
   "id": "v8amedmp",
-  "display_name": "Pim:Median Activ Scr(Counts/Min)Out Bed",
+  "display_name": "Pim: Median active score (counts per minute) out of bed",
   "description": "",
   "type": "numeric",
   "units": "",

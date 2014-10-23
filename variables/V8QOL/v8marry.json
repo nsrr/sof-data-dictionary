@@ -1,6 +1,6 @@
 {
   "id": "v8marry",
-  "display_name": "Current Marital Status",
+  "display_name": "Current marital status",
   "description": "",
   "type": "choices",
   "domain": "mar2f",

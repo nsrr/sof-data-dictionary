@@ -1,9 +1,9 @@
 {
   "id": "v8apavgd",
-  "display_name": "Avg. Duration All Apneas (Sec)",
+  "display_name": "Avgerage duration of all apneas",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

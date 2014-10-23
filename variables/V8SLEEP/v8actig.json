@@ -1,6 +1,6 @@
 {
   "id": "v8actig",
-  "display_name": "Ppt Has Usable Actigraphy Data?",
+  "display_name": "Participant has usable actigraphy data?",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

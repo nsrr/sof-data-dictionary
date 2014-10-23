@@ -1,9 +1,9 @@
 {
   "id": "v8rwkspd",
-  "display_name": "Rapid Walking Speed In Meters/Second",
+  "display_name": "Rapid walking speed in meters per second",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "meters per second",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8PHYSPERF",

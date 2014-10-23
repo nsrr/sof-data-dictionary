@@ -1,6 +1,6 @@
 {
   "id": "v8prob",
-  "display_name": "Conditions Prevent Standing Up/Quik Walk",
+  "display_name": "Conditions prevent standing up or quick walk",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

@@ -1,6 +1,6 @@
 {
   "id": "v8amedmz",
-  "display_name": "Zcm:Median Activ Scr(Counts/Min)Out Bed",
+  "display_name": "Zcm: Median active score (counts per minute) out bed",
   "description": "",
   "type": "numeric",
   "units": "",

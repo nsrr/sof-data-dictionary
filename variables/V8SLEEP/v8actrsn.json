@@ -1,6 +1,6 @@
 {
   "id": "v8actrsn",
-  "display_name": "Reason No Usable Actigraphy Data",
+  "display_name": "Reason no usable actigraphy data",
   "description": "",
   "type": "choices",
   "domain": "actrsnf",

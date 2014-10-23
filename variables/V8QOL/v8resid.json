@@ -1,6 +1,6 @@
 {
   "id": "v8resid",
-  "display_name": "What Type Of Residence Do You Live In?",
+  "display_name": "What type of residence do you live in?",
   "description": "",
   "type": "choices",
   "domain": "residf",

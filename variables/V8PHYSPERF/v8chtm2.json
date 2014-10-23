@@ -1,9 +1,9 @@
 {
   "id": "v8chtm2",
-  "display_name": "Secs To Comp 5 Chr Stands Repeat Test",
+  "display_name": "Seconds to complete 5 chair stands repeat test",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8PHYSPERF",

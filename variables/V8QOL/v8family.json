@@ -1,6 +1,6 @@
 {
   "id": "v8family",
-  "display_name": "Do You Live With Other Family Members?",
+  "display_name": "Do you live with other family members?",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

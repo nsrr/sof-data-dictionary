@@ -1,9 +1,9 @@
 {
   "id": "v8stplgt",
-  "display_name": "Avg Step Length In Meters",
+  "display_name": "Avgerage step length in meters",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "meters",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8PHYSPERF",

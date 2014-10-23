@@ -1,6 +1,6 @@
 {
   "id": "v8amedmt",
-  "display_name": "Tat:Median Activ Scr(Counts/Min)Out Bed",
+  "display_name": "Tat: Median active score (counts per minute) out of bed",
   "description": "",
   "type": "numeric",
   "units": "",

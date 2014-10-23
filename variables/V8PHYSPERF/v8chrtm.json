@@ -1,9 +1,9 @@
 {
   "id": "v8chrtm",
-  "display_name": "Seconds To Complete 5 Chair Stands",
+  "display_name": "Seconds to complete 5 chair stands",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8PHYSPERF",

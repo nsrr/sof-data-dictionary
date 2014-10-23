@@ -1,6 +1,6 @@
 {
   "id": "v8badday",
-  "display_name": "Avg # Bad Min In Analysis,Out Of Bed",
+  "display_name": "Avgerage number of bad minutes in analysis, out of bed",
   "description": "",
   "type": "numeric",
   "units": "",
