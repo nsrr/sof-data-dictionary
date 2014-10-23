@@ -1,6 +1,6 @@
 {
   "id": "v8badmin",
-  "display_name": "Number Of Bad Minutes In File",
+  "display_name": "Number of bad minutes in file",
   "description": "",
   "type": "numeric",
   "units": "",

@@ -1,6 +1,6 @@
 {
   "id": "v8dsread",
-  "display_name": "How Likely Doze Sitting & Reading",
+  "display_name": "How likely would you doze sitting and reading",
   "description": "",
   "type": "choices",
   "domain": "epworthf",

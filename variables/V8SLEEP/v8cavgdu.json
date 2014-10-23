@@ -1,9 +1,9 @@
 {
   "id": "v8cavgdu",
-  "display_name": "Avg. Duration Of Cent. Apnea (Sec)",
+  "display_name": "Avgerage duration of central apnea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

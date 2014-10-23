@@ -1,6 +1,6 @@
 {
   "id": "v8dropnt",
-  "display_name": "#Nights Dropped From Analysis,Bad>2hours",
+  "display_name": "Number of nights dropped from analysis, bad greater than 2 hours",
   "description": "",
   "type": "numeric",
   "units": "",

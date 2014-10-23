@@ -1,9 +1,9 @@
 {
   "id": "v8bpuls",
-  "display_name": "Baseline Heart Rate Per Tech Obs (Bpm)",
+  "display_name": "Baseline heart rate per tech observation",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "beats per minute",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

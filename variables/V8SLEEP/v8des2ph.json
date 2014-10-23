@@ -1,6 +1,6 @@
 {
   "id": "v8des2ph",
-  "display_name": "# of desat.s (>= 2%) during sleep",
+  "display_name": "Number of desaturations (>= 2%) during sleep",
   "description": "",
   "type": "numeric",
   "units": "",

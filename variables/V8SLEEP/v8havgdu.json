@@ -1,9 +1,9 @@
 {
   "id": "v8havgdu",
-  "display_name": "Avg. Duration Of Hypopneas (Sec)",
+  "display_name": "Avgerage duration of hypopneas",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

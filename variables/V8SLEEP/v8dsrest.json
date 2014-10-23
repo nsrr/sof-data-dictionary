@@ -1,6 +1,6 @@
 {
   "id": "v8dsrest",
-  "display_name": "How Likely Doze Lying Down In Afternoon",
+  "display_name": "How likely would you doze lying down in the afternoon",
   "description": "",
   "type": "choices",
   "domain": "epworthf",

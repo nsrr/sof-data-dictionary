@@ -1,6 +1,6 @@
 {
   "id": "v8dropdy",
-  "display_name": "#Days Dropped From Analysis, Bad Int>10%",
+  "display_name": "Number of days dropped from analysis, bad Int>10%",
   "description": "",
   "type": "numeric",
   "units": "",

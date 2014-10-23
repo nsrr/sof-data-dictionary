@@ -1,9 +1,9 @@
 {
   "id": "v8durnt",
-  "display_name": "Average Minutes During In Bed Interval",
+  "display_name": "Average minutes during in bed interval",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -1,6 +1,6 @@
 {
   "id": "v8dstraf",
-  "display_name": "How Likely Doze In Car Stop In Traffic",
+  "display_name": "How likely would you doze in a car stopped in traffic",
   "description": "",
   "type": "choices",
   "domain": "epworthf",

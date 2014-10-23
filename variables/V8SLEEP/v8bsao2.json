@@ -1,9 +1,9 @@
 {
   "id": "v8bsao2",
-  "display_name": "Baseline Sao2 Per Tech Observation (%)",
+  "display_name": "Baseline oxygen saturation per tech observation",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percent",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

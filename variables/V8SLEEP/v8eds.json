@@ -1,6 +1,6 @@
 {
   "id": "v8eds",
-  "display_name": "Excessive Daytime Sleepiness(Ess>10)",
+  "display_name": "Excessive daytime sleepiness (Ess>10)",
   "description": "",
   "type": "choices",
   "domain": "ch3f",
