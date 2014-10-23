@@ -1,6 +1,6 @@
 {
   "id": "v8bendc",
-  "display_name": "Backpain: Degr Diff Bend Pick Up Things",
+  "display_name": "Backpain: Degree of difficulty to bend and pick up things",
   "description": "",
   "type": "choices",
   "domain": "v7difff",

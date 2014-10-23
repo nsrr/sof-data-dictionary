@@ -1,6 +1,6 @@
 {
   "id": "v8back",
-  "display_name": "Any Back Pain Past 12 Mon/Last Contact?",
+  "display_name": "Any back pain past 12 months since last contact?",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

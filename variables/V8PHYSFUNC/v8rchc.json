@@ -1,6 +1,6 @@
 {
   "id": "v8rchc",
-  "display_name": "Backpain: Degr Diff Reaching Object",
+  "display_name": "Backpain: Degree of difficulty reaching object",
   "description": "",
   "type": "choices",
   "domain": "v7difff",

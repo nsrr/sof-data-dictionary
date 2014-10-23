@@ -1,6 +1,6 @@
 {
   "id": "v8bad",
-  "display_name": "Severity Of Back Pain?",
+  "display_name": "Severity of back pain?",
   "description": "",
   "type": "choices",
   "domain": "pnf",

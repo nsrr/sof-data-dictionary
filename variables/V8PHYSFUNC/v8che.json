@@ -1,6 +1,6 @@
 {
   "id": "v8che",
-  "display_name": "Receive Help Doing Chores?",
+  "display_name": "Receive help doing chores?",
   "description": "",
   "type": "choices",
   "domain": "fxstef",
