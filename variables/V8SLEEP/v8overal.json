@@ -1,6 +1,6 @@
 {
   "id": "v8overal",
-  "display_name": "Overall Psg Quality Grade",
+  "display_name": "Overall psg quality grade",
   "description": "",
   "type": "choices",
   "domain": "psgoqg",

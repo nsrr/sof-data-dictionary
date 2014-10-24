@@ -1,6 +1,6 @@
 {
   "id": "v8pcsa85",
-  "display_name": "% Sleep Time Of Sao2 Below 85%",
+  "display_name": "Percentage of sleep time of oxygen saturation below 85 percent",
   "description": "",
   "type": "numeric",
   "units": "",

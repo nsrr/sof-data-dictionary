@@ -1,6 +1,6 @@
 {
   "id": "v8naphr",
-  "display_name": "Number Of Hrs Each Nap",
+  "display_name": "Number of hours each nap",
   "description": "",
   "type": "choices",
   "domain": "naphrf",

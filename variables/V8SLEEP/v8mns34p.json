@@ -1,9 +1,9 @@
 {
   "id": "v8mns34p",
-  "display_name": "# Of Minutes In Stage 3 & 4 Sleep",
+  "display_name": "Number of minutes in stage 3 and 4 sleep",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

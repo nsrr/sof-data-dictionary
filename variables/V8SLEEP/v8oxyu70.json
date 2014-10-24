@@ -1,6 +1,6 @@
 {
   "id": "v8oxyu70",
-  "display_name": "Ox Sat <70% For >10% Tst",
+  "display_name": "Oxgen saturation less than 70% for more than 10% Tst",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

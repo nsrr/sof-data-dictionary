@@ -1,9 +1,9 @@
 {
   "id": "v8longap",
-  "display_name": "Longest Apnea (Sec)",
+  "display_name": "Longest apnea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

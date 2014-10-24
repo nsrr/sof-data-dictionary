@@ -1,9 +1,9 @@
 {
   "id": "v8oavgdu",
-  "display_name": "Avg. Duration Of Obstr. Apnea (Sec)",
+  "display_name": "Avgerage duration of obstructive apnea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

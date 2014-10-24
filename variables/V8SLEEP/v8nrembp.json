@@ -1,9 +1,9 @@
 {
   "id": "v8nrembp",
-  "display_name": "# Of Minutes In Nrem Sleep (Back)",
+  "display_name": "Number of minutes in nrem sleep (back)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

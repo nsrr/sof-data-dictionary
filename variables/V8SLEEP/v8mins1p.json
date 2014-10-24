@@ -1,9 +1,9 @@
 {
   "id": "v8mins1p",
-  "display_name": "# Of Minutes In Stage 1 Sleep",
+  "display_name": "Number of minutes in stage 1 sleep",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

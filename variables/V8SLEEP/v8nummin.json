@@ -1,9 +1,9 @@
 {
   "id": "v8nummin",
-  "display_name": "Total #Mins In Actig File-Includes Bad M",
+  "display_name": "Total number of minutes in actigraphy file-includes bad minutes",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -1,6 +1,6 @@
 {
   "id": "v8malert",
-  "display_name": "Medical Alert",
+  "display_name": "Medical alert",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

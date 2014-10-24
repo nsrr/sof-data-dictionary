@@ -1,9 +1,9 @@
 {
   "id": "v8pinbed",
-  "display_name": "Number Of Hours In Bed",
+  "display_name": "Number of hours in bed",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "hours",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

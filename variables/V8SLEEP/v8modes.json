@@ -1,6 +1,6 @@
 {
   "id": "v8modes",
-  "display_name": "Actigraphic Modes With Data",
+  "display_name": "Actigraphic modes with data",
   "description": "",
   "type": "choices",
   "domain": "acmode",

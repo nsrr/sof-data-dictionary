@@ -1,6 +1,6 @@
 {
   "id": "v8pcstad",
-  "display_name": "% Sleep Time Ap.+Hypop W/ >3% Desat/Arou",
+  "display_name": "Perentage of sleep time apnea and hypopnea with more than 3% desaturations per arousal",
   "description": "",
   "type": "numeric",
   "units": "",

@@ -1,6 +1,6 @@
 {
   "id": "v8pcstap",
-  "display_name": "% Sleep Time In Ap.",
+  "display_name": "Percentage of sleep time in apnea",
   "description": "",
   "type": "numeric",
   "units": "",

@@ -1,6 +1,6 @@
 {
   "id": "v8oftsno",
-  "display_name": "If Currently Snore, How Often",
+  "display_name": "If currently snore, how often",
   "description": "",
   "type": "choices",
   "domain": "oftsnof",

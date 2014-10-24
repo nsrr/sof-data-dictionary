@@ -1,9 +1,9 @@
 {
   "id": "v8phip",
-  "display_name": "Avg Hip Circumference(Inches)",
+  "display_name": "Avgerage hip circumference",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "inches",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

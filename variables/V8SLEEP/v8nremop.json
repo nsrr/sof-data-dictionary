@@ -1,9 +1,9 @@
 {
   "id": "v8nremop",
-  "display_name": "# Of Minutes In Nrem Sleep (Other)",
+  "display_name": "Number of minutes in nrem sleep (other)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -1,9 +1,9 @@
 {
   "id": "v8longhy",
-  "display_name": "Longest Hypopnea (Sec)",
+  "display_name": "Longest hypopnea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "seconds",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

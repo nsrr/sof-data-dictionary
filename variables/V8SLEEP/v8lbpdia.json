@@ -1,9 +1,9 @@
 {
   "id": "v8lbpdia",
-  "display_name": "SITTING DIASTOLIC BLOOD PRESSURE(mmHg)",
+  "display_name": "Sitting diastolic blood pressure",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "millimeters of mercury",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",
