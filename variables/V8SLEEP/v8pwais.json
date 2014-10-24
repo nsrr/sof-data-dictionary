@@ -1,9 +1,9 @@
 {
   "id": "v8pwais",
-  "display_name": "Avg Waist Circumference(Inches)",
+  "display_name": "Avgerage waist circumference",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "inches",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

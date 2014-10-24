@@ -1,6 +1,6 @@
 {
   "id": "v8plmcde",
-  "display_name": "number of plm clusters in delta sleep",
+  "display_name": "number of periodic leg movement clusters in delta sleep",
   "description": "",
   "type": "numeric",
   "units": "",

@@ -1,6 +1,6 @@
 {
   "id": "v8cuff",
-  "display_name": "Cuff size for psg blood pressure",
+  "display_name": "Cuff size for polysomnography blood pressure",
   "description": "",
   "type": "choices",
   "domain": "cuff",

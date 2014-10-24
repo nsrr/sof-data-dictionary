@@ -1,9 +1,9 @@
 {
   "id": "v8pneck",
-  "display_name": "Avg Neck Circumference(Inches)",
+  "display_name": "Avgerage neck circumference",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "inches",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

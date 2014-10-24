@@ -1,6 +1,6 @@
 {
   "id": "v8psqi",
-  "display_name": "Global Psqi Score (0-21)",
+  "display_name": "Global psqi score (0-21)",
   "description": "",
   "type": "numeric",
   "units": "",

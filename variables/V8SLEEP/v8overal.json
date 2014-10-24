@@ -1,6 +1,6 @@
 {
   "id": "v8overal",
-  "display_name": "Overall psg quality grade",
+  "display_name": "Overall polysomnography quality grade",
   "description": "",
   "type": "choices",
   "domain": "psgoqg",

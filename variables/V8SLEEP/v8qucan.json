@@ -1,6 +1,6 @@
 {
   "id": "v8qucan",
-  "display_name": "Acceptable Canula Signal Quality",
+  "display_name": "Acceptable canula signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

@@ -1,6 +1,6 @@
 {
   "id": "v8quchin",
-  "display_name": "Acceptable Emg Signal Quality",
+  "display_name": "Acceptable emg signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

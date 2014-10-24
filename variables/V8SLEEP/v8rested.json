@@ -1,6 +1,6 @@
 {
   "id": "v8rested",
-  "display_name": "Rested Based On Hrs Slept",
+  "display_name": "Rested based on hours slept",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

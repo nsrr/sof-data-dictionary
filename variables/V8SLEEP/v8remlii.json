@@ -1,9 +1,9 @@
 {
   "id": "v8remlii",
-  "display_name": "Rem Latency Ii (In Minutes)",
+  "display_name": "Rem Latency Ii (in minutes)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

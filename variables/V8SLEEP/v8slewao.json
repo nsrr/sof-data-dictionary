@@ -1,6 +1,6 @@
 {
   "id": "v8slewao",
-  "display_name": "Scored Sleep-Wake Only Or Full Scoring",
+  "display_name": "Scored sleep-wake only or full scoring",
   "description": "",
   "type": "choices",
   "domain": "psgscr",

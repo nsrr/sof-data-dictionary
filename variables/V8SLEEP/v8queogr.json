@@ -1,6 +1,6 @@
 {
   "id": "v8queogr",
-  "display_name": "Acceptable Eog-R Signal Quality",
+  "display_name": "Acceptable Eog-R signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

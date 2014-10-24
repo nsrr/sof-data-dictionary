@@ -1,6 +1,6 @@
 {
   "id": "v8psgrsn",
-  "display_name": "Pi/Mn: Reason Psg Failed",
+  "display_name": "Pi/Mn: Reason polysomnography failed",
   "description": "",
   "type": "choices",
   "domain": "psgfailf",

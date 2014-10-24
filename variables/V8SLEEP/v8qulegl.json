@@ -1,6 +1,6 @@
 {
   "id": "v8qulegl",
-  "display_name": "Acceptable Left Leg Signal Quality",
+  "display_name": "Acceptable left leg signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

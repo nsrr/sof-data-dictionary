@@ -1,6 +1,6 @@
 {
   "id": "v8serum",
-  "display_name": "Was Serum Collected?",
+  "display_name": "Was serum collected?",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

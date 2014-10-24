@@ -1,9 +1,9 @@
 {
   "id": "v8tmbedp",
-  "display_name": "Time In Bed (In Minutes)",
+  "display_name": "Time in bed (in minutes)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

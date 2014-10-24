@@ -1,6 +1,6 @@
 {
   "id": "v8pdays",
-  "display_name": "Days visit 8 date to start psg recording",
+  "display_name": "Days visit 8 date to start polysomnography recording",
   "description": "",
   "type": "numeric",
   "units": "days",

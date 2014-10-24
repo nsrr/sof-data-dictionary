@@ -1,6 +1,6 @@
 {
   "id": "v8plmcsl",
-  "display_name": "Number of plm clusters in all sleep",
+  "display_name": "Number of periodic leg movement clusters in all sleep",
   "description": "",
   "type": "numeric",
   "units": "",

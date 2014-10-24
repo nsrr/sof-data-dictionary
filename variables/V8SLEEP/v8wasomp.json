@@ -1,9 +1,9 @@
 {
   "id": "v8wasomp",
-  "display_name": "Pim:Mean Wake Aftr Sleep Onset(Min)Inbed",
+  "display_name": "Pim:Mean wake after sleep onset (minute) in bed",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

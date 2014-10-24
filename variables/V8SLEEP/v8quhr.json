@@ -1,6 +1,6 @@
 {
   "id": "v8quhr",
-  "display_name": "Acceptable Ecg Signal Quality",
+  "display_name": "Acceptable Ecg signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

@@ -1,6 +1,6 @@
 {
   "id": "v8queeg1",
-  "display_name": "Acceptable Eeg Signal Quality Dur. Sleep",
+  "display_name": "Acceptable eeg signal quality during sleep",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

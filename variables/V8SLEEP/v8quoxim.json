@@ -1,6 +1,6 @@
 {
   "id": "v8quoxim",
-  "display_name": "Acceptable Oximetry Signal Quality",
+  "display_name": "Acceptable oximetry signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

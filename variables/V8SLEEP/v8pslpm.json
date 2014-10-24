@@ -1,9 +1,9 @@
 {
   "id": "v8pslpm",
-  "display_name": "Minutes To Fall Asleep Each Night",
+  "display_name": "Minutes to fall asleep each night",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

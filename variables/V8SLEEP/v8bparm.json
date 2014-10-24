@@ -1,6 +1,6 @@
 {
   "id": "v8bparm",
-  "display_name": "Arm used for psg blood pressure",
+  "display_name": "Arm used for polysomnography blood pressure",
   "description": "",
   "type": "choices",
   "domain": "rtlff",

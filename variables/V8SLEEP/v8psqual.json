@@ -1,6 +1,6 @@
 {
   "id": "v8psqual",
-  "display_name": "Subjective Sleep Quality-Psqi Component1",
+  "display_name": "Subjective sleep quality-psqi component1",
   "description": "",
   "type": "choices",
   "domain": "psqualf",

@@ -1,6 +1,6 @@
 {
   "id": "v8posn",
-  "display_name": "Position Signal Changing(Sensor Working)",
+  "display_name": "Position signal changing (sensor working)",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

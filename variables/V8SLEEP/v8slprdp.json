@@ -1,9 +1,9 @@
 {
   "id": "v8slprdp",
-  "display_name": "Sleep Period (In Minutes)",
+  "display_name": "Sleep period (in minutes)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -1,9 +1,9 @@
 {
   "id": "v8tnap2t",
-  "display_name": "Tat:Avg Mins Scored Sleep,Out Bed",
+  "display_name": "Tat:Avgerage minutes scored sleep, out bed",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

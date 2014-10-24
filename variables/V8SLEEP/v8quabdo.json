@@ -1,6 +1,6 @@
 {
   "id": "v8quabdo",
-  "display_name": "Acceptable Abdomen Signal Quality",
+  "display_name": "Acceptable abdomen signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

@@ -1,9 +1,9 @@
 {
   "id": "v8sllatp",
-  "display_name": "Sleep Latency (In Minutes)",
+  "display_name": "Sleep latency (in minutes)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

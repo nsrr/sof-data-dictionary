@@ -1,6 +1,6 @@
 {
   "id": "v8slatmz",
-  "display_name": "Zcm:Mean Sleep Latency(Min), In Bed",
+  "display_name": "Zcm:Mean sleep latency (minutes), in bed",
   "description": "",
   "type": "numeric",
   "units": "",

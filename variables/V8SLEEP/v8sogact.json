@@ -1,6 +1,6 @@
 {
   "id": "v8sogact",
-  "display_name": "Self-Report General Activity Level",
+  "display_name": "Self-report general activity level",
   "description": "",
   "type": "choices",
   "domain": "sogactf",

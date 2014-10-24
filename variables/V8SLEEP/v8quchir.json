@@ -1,6 +1,6 @@
 {
   "id": "v8quchir",
-  "display_name": "Acceptable Emg(Secondary) Signal Quality",
+  "display_name": "Acceptable emg (secondary) signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

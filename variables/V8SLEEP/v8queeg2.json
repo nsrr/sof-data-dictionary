@@ -1,6 +1,6 @@
 {
   "id": "v8queeg2",
-  "display_name": "Acceptable Eeg(Secondary) Signal Quality",
+  "display_name": "Acceptable eeg (secondary) signal quality",
   "description": "",
   "type": "choices",
   "domain": "psgqual",

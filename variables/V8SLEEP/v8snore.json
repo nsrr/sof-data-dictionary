@@ -1,6 +1,6 @@
 {
   "id": "v8snore",
-  "display_name": "Snore Presently Or In Past",
+  "display_name": "Snore presently or in past",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

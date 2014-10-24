@@ -1,6 +1,6 @@
 {
   "id": "v8plmdlt",
-  "display_name": "Number of plms in delta sleep",
+  "display_name": "Number of periodic leg movement in delta sleep",
   "description": "",
   "type": "numeric",
   "units": "",

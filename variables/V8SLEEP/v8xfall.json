@@ -1,9 +1,9 @@
 {
   "id": "v8xfall",
-  "display_name": "Time Took To Fall Asleep Lst Nght(Min)",
+  "display_name": "Time took to fall asleep last night (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -1,9 +1,9 @@
 {
   "id": "v8xslpmn",
-  "display_name": "Time You Thought You Slept Lst Nght(Min)",
+  "display_name": "Time you thought you slept last night (minutes)",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

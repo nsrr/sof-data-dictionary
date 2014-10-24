@@ -1,6 +1,6 @@
 {
   "id": "v8psgst",
-  "display_name": "Pi/Mn:Polysomnography? Pass/Fail",
+  "display_name": "Pi/Mn:Polysomnography? pass or fail",
   "description": "",
   "type": "choices",
   "domain": "psgstatf",
