@@ -1,6 +1,6 @@
 {
   "id": "v8tstage",
-  "display_name": "Tumor stage post Visit 8",
+  "display_name": "Tumor stage post visit 8",
   "description": "",
   "type": "choices",
   "domain": "bcstagf",

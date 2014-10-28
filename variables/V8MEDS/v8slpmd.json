@@ -1,6 +1,6 @@
 {
   "id": "v8slpmd",
-  "display_name": "Reported taking any medication for sleep Yn",
+  "display_name": "Reported taking any medication for sleep",
   "description": "",
   "type": "choices",
   "domain": "ch3f",
