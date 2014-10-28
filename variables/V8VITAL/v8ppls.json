@@ -1,9 +1,9 @@
 {
   "id": "v8ppls",
-  "display_name": "Average Pulse Per Minute",
+  "display_name": "Average pulse per minute",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "beats per minute",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8VITAL",

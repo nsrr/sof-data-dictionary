@@ -1,6 +1,6 @@
 {
   "id": "v8lcsds",
-  "display_name": "Left Cont Sensitivity Test Distance",
+  "display_name": "Left contrast sensitivity test distance",
   "description": "",
   "type": "choices",
   "domain": "distf",

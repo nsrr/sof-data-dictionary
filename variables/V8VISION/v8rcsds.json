@@ -1,6 +1,6 @@
 {
   "id": "v8rcsds",
-  "display_name": "Right Cont Sensitivity Test Distance",
+  "display_name": "Right contrast sensitivity test distance",
   "description": "",
   "type": "choices",
   "domain": "distf",

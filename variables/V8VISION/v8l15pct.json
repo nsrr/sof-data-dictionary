@@ -1,6 +1,6 @@
 {
   "id": "v8l15pct",
-  "display_name": "1st Iop Value Gt 5% Error (Left Eye)",
+  "display_name": "First top value greater 5% error (left eye)",
   "description": "",
   "type": "choices",
   "domain": "v6pcterr",

@@ -1,6 +1,6 @@
 {
   "id": "v8r15pct",
-  "display_name": "1st Iop Value Gt 5% Error (Right Eye)",
+  "display_name": "First intra-ocular pressure value greater than 5% error (right eye)",
   "description": "",
   "type": "choices",
   "domain": "v6pcterr",

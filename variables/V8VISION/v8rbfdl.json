@@ -1,9 +1,9 @@
 {
   "id": "v8rbfdl",
-  "display_name": "Right: Pupil Before Dilation Mm",
+  "display_name": "Right: pupil before dilation",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "millimeters",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8VISION",

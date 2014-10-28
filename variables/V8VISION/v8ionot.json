@@ -1,6 +1,6 @@
 {
   "id": "v8ionot",
-  "display_name": "Eye(S) Iop Not Measured",
+  "display_name": "Eye(s) intra-ocular pressure not measured",
   "description": "",
   "type": "choices",
   "domain": "viseyef",

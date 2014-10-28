@@ -1,9 +1,9 @@
 {
   "id": "v8l1iop",
-  "display_name": "Left: 1st Iop Mm Hg",
+  "display_name": "Left: first intra-ocular pressure mmHg",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "millimeters of mercury",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8VISION",

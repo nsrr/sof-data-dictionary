@@ -1,6 +1,6 @@
 {
   "id": "v8ochx",
-  "display_name": "Examiner Rating Of Ocular History",
+  "display_name": "Examiner rating of ocular history",
   "description": "",
   "type": "choices",
   "domain": "ochxf",

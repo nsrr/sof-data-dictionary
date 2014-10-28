@@ -1,6 +1,6 @@
 {
   "id": "v8glread",
-  "display_name": "Wears Glasses Reading/Near Only",
+  "display_name": "Wears glasses reading or near only",
   "description": "",
   "type": "choices",
   "domain": "ch3f",
