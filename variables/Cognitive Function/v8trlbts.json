@@ -1,7 +1,7 @@
 {
   "id": "v8trlbts",
   "display_name": "Trails B time to complete (extrapolated)",
-  "description": "",
+  "description": "Time were extrapolated based on the percent of the exercise that was completed after 3 minutes had gone by. For more information, please see this paper: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3437964/",
   "type": "numeric",
   "units": "seconds",
   "domain": "specf"
