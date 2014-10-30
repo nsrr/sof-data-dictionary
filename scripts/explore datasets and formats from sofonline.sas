@@ -47,6 +47,8 @@ data sof_all_wo_nmiss;
 
 	attrib _all_ label="";
   format _all_;
+
+  drop id;
 run;
 
 *export dataset;
