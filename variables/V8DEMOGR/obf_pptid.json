@@ -1,6 +1,6 @@
 {
-  "id": "id",
-  "display_name": "Public data release id",
+  "id": "obf_pptid",
+  "display_name": "Obfuscated Participant ID",
   "description": "",
   "type": "identifier",
   "other": {
