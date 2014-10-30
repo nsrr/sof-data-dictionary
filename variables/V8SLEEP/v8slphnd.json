@@ -3,7 +3,7 @@
   "display_name": "Number of hours of sleep needed to feel rested",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "hours",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

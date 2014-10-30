@@ -1,6 +1,6 @@
 {
   "id": "v8ahio50",
-  "display_name": "Rdi greater than 50",
+  "display_name": "Respiratory disturbance index greater than 50",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

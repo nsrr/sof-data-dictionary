@@ -3,7 +3,7 @@
   "display_name": "Follow-up time to first rib fracture since Visit 8",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "days",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",

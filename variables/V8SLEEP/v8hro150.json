@@ -1,6 +1,6 @@
 {
   "id": "v8hro150",
-  "display_name": "Heartrate greater than 150 beats per minutes for more than 2 minutes",
+  "display_name": "Heart rate greater than 150 beats per minutes for more than 2 minutes",
   "description": "",
   "type": "choices",
   "domain": "ch3f",

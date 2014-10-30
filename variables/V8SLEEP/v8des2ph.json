@@ -3,7 +3,7 @@
   "display_name": "Number of desaturations (>= 2%) during sleep",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "desaturations",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

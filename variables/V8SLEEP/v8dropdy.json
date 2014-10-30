@@ -3,7 +3,7 @@
   "display_name": "Number of days dropped from analysis, bad Int>10%",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "days",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

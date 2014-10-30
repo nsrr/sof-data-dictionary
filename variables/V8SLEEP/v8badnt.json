@@ -3,7 +3,7 @@
   "display_name": "Avgerage number of bad minutes in analysis, in bed",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

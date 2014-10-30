@@ -3,7 +3,7 @@
   "display_name": "Zcm:Mean sleep latency (minutes), in bed",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "minutes",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -3,7 +3,7 @@
   "display_name": "Central apnea index 4% desaturations",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "desaturations",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

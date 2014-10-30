@@ -9,7 +9,7 @@ class DictionaryTest < Minitest::Test
   include Spout::Helpers::Iterators
 
   # Example 1: Create custom tests to show that `integer` and `numeric` variables have a valid unit type
-  VALID_UNITS = ["centimeters", "kilograms", "inches", "millimeters of mercury", "minutes", "percent", "beats per minute", "meters", "meters per second", "drinks per day", "cigarettes", "kilograms per meter squared", "drinks", "seconds", "hours", "years", "days", "kilocalorie", "blocks", "gallons per day", "cups", "cans", "", "grams", "grams per centimeters squared", "centimeters squared", "millimeters"] # Add your own valid units to this array
+  VALID_UNITS = ["centimeters", "leg movements",  "nights",  "intervals", "counts per minute", "desaturations", "leg movements per hour", "miles", "kilograms", "inches", "times", "millimeters of mercury", "minutes", "percent", "beats per minute", "meters", "meters per second", "drinks per day", "cigarettes", "kilograms per meter squared", "drinks", "seconds", "hours", "years", "days", "kilocalorie per week", "blocks per day", "gallons per day", "cups", "cans", "", "grams", "grams per centimeters squared", "centimeters squared", "millimeters", "milligrams per day", "falls", "fractures"] # Add your own valid units to this array
   @variables.select{|v| v.type == 'numeric' or v.type == 'integer'}.each do |variable|
     define_method("test_units: "+variable.path) do
       message = "\"#{variable.units}\"".colorize( :red ) + " invalid units.\n" +

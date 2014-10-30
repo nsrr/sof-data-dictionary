@@ -1,9 +1,9 @@
 {
   "id": "v8plmcde",
-  "display_name": "number of periodic leg movement clusters in delta sleep",
+  "display_name": "Number of periodic leg movement clusters in delta sleep",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "leg movements",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

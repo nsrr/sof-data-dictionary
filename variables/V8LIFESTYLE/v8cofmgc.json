@@ -1,9 +1,9 @@
 {
   "id": "v8cofmgc",
-  "display_name": "(Milligrams per day)Current caffeine intake- coffee",
+  "display_name": "Current caffeine intake- coffee",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "milligrams per day",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

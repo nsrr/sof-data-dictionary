@@ -3,7 +3,7 @@
   "display_name": "Percentage of sleep time in apnea and hypopnea wth arousal",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percent",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

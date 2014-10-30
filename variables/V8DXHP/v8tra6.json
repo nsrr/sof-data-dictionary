@@ -3,7 +3,7 @@
   "display_name": "Trochanteric area visit 6 longitudinally adjusted",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

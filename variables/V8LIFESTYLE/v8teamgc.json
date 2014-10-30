@@ -1,9 +1,9 @@
 {
   "id": "v8teamgc",
-  "display_name": "(Milligrams per day)Current caffeine intake -tea",
+  "display_name": "Current caffeine intake -tea",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "milligrams per day",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

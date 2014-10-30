@@ -3,7 +3,7 @@
   "display_name": "Zcm:Number of nights with no sleep onset",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "nights",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

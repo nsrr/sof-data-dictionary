@@ -3,7 +3,7 @@
   "display_name": "Maximum percentage of oxygen saturation in rem sleep",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percent",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

@@ -3,7 +3,7 @@
   "display_name": "Intertrochanteric bone mineral density visit 2 longitudinally adjusted",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams per centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

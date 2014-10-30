@@ -3,7 +3,7 @@
   "display_name": "Total number of intervals participant wore watch out bed",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "intervals",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

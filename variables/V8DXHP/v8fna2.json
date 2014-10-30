@@ -3,7 +3,7 @@
   "display_name": "Femoral neck area visit 2 longitudinally adjusted",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "centimeters squared",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

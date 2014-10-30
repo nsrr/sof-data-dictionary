@@ -3,7 +3,7 @@
   "display_name": "Tat: Avgerage activity (counts per minute) out of bed",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "counts per minute",
   "domain": "actig",
   "other": {
     "Library Member Name": "V8SLEEP",

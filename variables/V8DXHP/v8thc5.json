@@ -3,7 +3,7 @@
   "display_name": "Total hip bone mineral content visit 5 longitudinally adjusted",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "grams",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8DXHP",

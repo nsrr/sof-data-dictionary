@@ -3,7 +3,7 @@
   "display_name": "Number of falls in the last 12 months",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "falls",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8FXFALL",

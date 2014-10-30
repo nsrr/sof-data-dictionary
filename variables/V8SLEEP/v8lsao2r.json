@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation Rem %",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percent",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

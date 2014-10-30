@@ -3,7 +3,7 @@
   "display_name": "Kilocalorie per week from blocks walked",
   "description": "",
   "type": "numeric",
-  "units": "kilocalorie",
+  "units": "kilocalorie per week",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8LIFESTYLE",

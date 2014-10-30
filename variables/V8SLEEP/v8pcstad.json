@@ -3,7 +3,7 @@
   "display_name": "Perentage of sleep time apnea and hypopnea with more than 3% desaturations per arousal",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "percent",
   "domain": "specf",
   "other": {
     "Library Member Name": "V8SLEEP",

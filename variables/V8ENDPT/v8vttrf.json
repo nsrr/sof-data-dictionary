@@ -3,7 +3,7 @@
   "display_name": "Days to first non-vert/non-trauma since visit 8",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "days",
   "domain": "fufmt",
   "other": {
     "Library Member Name": "V8ENDPT",
