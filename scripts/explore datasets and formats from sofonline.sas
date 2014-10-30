@@ -1,4 +1,5 @@
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
+libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 options nofmterr fmtsearch=(sof);
 %let version = 0.1.0.beta4;
 *create combined race datasets;
@@ -21,7 +22,8 @@ data cc;
 run;
 
 data sof_all_wo_nmiss;
-	merge aa cc;
+  length obf_pptid 9.;
+  merge aa cc obf.obf_pptid;
 	by id;
 
 	visit = 8;
