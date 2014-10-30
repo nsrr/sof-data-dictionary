@@ -23,7 +23,7 @@ run;
 
 data sof_all_wo_nmiss;
   length obf_pptid 9.;
-  merge aa cc obf.obf_pptid;
+  merge aa cc obf.obfid;
 	by id;
 
 	visit = 8;
