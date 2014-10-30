@@ -22,7 +22,7 @@ data cc;
 run;
 
 data sof_all_wo_nmiss;
-  length obf_pptid 9.;
+  length obf_pptid 8.;
   merge aa cc obf.obfid;
 	by id;
 
