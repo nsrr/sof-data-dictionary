@@ -11,5 +11,5 @@
     - `sof-visit-8-dataset-0.1.0.beta4.csv`
 ### Changes
 - **Gem Changes**
-  - Updated to spout 0.10.0.beta10
+  - Updated to spout 0.10.0.rc
   - Use of Ruby 2.1.4 is now recommended
