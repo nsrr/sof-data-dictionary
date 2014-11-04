@@ -1,5 +1,6 @@
 ## 0.1.0
 
+- Spectral analysis variables have now been added to the data dictionary
 - Sex, race, and categorical age variables have been added to the dataset
   - Sex is `1: Female` for all subjects in SOF
 - Variables that contain missing codes and numeric data have been made to be `type: numeric`
