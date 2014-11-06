@@ -3,5 +3,5 @@
   "display_name": "EEG Channel",
   "description": "",
   "type": "choices",
-  "units": "channel"
+  "domain": "channel"
 }
