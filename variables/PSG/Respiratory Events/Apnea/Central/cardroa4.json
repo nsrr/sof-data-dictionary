@@ -1,0 +1,10 @@
+{
+  "id": "cardroa4",
+  "display_name": "Central Apnea per hour w/ arousals (REM, Other, 4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cardroa4"
+  ]
+}

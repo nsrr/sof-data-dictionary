@@ -1,0 +1,10 @@
+{
+  "id": "mxhrop",
+  "display_name": "Maximum Hypopnea length (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxhrop"
+  ]
+}

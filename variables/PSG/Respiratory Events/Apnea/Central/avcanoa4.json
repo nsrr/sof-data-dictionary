@@ -1,0 +1,10 @@
+{
+  "id": "avcanoa4",
+  "display_name": "Average Central Apnea length w/ arousals (NREM, Other, 4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avcanoa4"
+  ]
+}

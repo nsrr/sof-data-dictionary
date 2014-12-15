@@ -1,0 +1,10 @@
+{
+  "id": "mxdrop",
+  "display_name": "Maximum oxygen desaturation (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mxdrop"
+  ]
+}

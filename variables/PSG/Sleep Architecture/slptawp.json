@@ -1,0 +1,10 @@
+{
+  "id": "slptawp",
+  "display_name": "Number of sleep to awake shifts",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "slptawp"
+  ]
+}

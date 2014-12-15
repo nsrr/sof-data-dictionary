@@ -1,0 +1,10 @@
+{
+  "id": "slpprdp",
+  "display_name": "Sleep Time",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "slpprdp"
+  ]
+}

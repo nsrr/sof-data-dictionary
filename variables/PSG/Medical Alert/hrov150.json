@@ -1,0 +1,10 @@
+{
+  "id": "hrov150",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - HR > 150",
+  "description": "Medical Alert for heart rate over 150.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "HRov150"
+  ]
+}

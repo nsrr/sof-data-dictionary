@@ -1,0 +1,10 @@
+{
+  "id": "medalert",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert",
+  "description": "Medical Alert noted during scoring.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "MedAlert"
+  ]
+}

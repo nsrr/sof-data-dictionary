@@ -1,0 +1,10 @@
+{
+  "id": "cardrbp2",
+  "display_name": "Central Apnea per hour (REM, Back, 2% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cardrbp2"
+  ]
+}

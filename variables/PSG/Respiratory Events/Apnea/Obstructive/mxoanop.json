@@ -1,0 +1,10 @@
+{
+  "id": "mxoanop",
+  "display_name": "Maximum Obstructive Apnea length (NREM, Other all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxoanop"
+  ]
+}

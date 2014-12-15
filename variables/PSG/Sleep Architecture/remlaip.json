@@ -1,0 +1,10 @@
+{
+  "id": "remlaip",
+  "display_name": "REM Latency I - including wake time",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "remlaip"
+  ]
+}

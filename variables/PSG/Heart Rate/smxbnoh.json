@@ -1,0 +1,10 @@
+{
+  "id": "smxbnoh",
+  "display_name": "Maximum Heart Rate (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "smxbnoh"
+  ]
+}

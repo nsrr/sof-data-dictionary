@@ -1,0 +1,10 @@
+{
+  "id": "remepop",
+  "display_name": "Sleep Time (REM, Other)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "remepop"
+  ]
+}

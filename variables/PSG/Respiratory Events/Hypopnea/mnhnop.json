@@ -1,0 +1,10 @@
+{
+  "id": "mnhnop",
+  "display_name": "Minimum Hypopnea length (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mnhnop"
+  ]
+}

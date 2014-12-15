@@ -1,0 +1,10 @@
+{
+  "id": "hnrba4",
+  "display_name": "Number of Hypopnea w/ arousals (NREM, Back, 4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "hnrba4"
+  ]
+}

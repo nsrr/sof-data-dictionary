@@ -1,7 +1,14 @@
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 options nofmterr fmtsearch=(sof);
-%let version = 0.1.0.beta4;
+%let version = 0.1.0.beta6;
+
+data sof_psg;
+  set sof.v8psg;
+run;
+
+/*
+
 *create combined race datasets;
 data aa;
 	merge sof.v8aaanthro sof.v8aacogfxn sof.v8aademogr sof.v8aadxhp sof.v8aaendpt sof.v8aaexambk sof.v8aafxfall sof.v8aalifestyle sof.v8aamedhx sof.v8aameds sof.v8aamorph sof.v8aaphysfunc sof.v8aaphysperf sof.v8aaqol sof.v8aasleep sof.v8aavision sof.v8aavital;
@@ -51,10 +58,12 @@ data sof_all_wo_nmiss;
   drop id;
 run;
 
+*/
+
 *export dataset;
 proc export
-	data = sof_all_wo_nmiss
-	outfile="\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&version..csv"
+	data = sof_psg
+	outfile="\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-psg-visit-8-dataset-&version..csv"
 	dbms = csv
 	replace;
 run;

@@ -1,0 +1,10 @@
+{
+  "id": "oxyund70",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - SaO2 < 70",
+  "description": "Medical Alert for Oxygen saturation under 70.",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "OXYund70"
+  ]
+}

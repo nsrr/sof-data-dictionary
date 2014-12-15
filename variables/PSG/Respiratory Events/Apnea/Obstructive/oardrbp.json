@@ -1,0 +1,10 @@
+{
+  "id": "oardrbp",
+  "display_name": "Obstructive Apnea per hour (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oardrbp"
+  ]
+}

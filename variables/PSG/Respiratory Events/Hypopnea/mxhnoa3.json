@@ -1,0 +1,10 @@
+{
+  "id": "mxhnoa3",
+  "display_name": "Maximum Hypopnea length w/ arousals (NREM, Other 3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxhnoa3"
+  ]
+}

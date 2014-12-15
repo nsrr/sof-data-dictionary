@@ -1,0 +1,10 @@
+{
+  "id": "avhnba2",
+  "display_name": "Average Hypopnea length w/ arousals (NREM, Back, 2% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avhnba2"
+  ]
+}

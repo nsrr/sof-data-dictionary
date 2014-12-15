@@ -1,0 +1,10 @@
+{
+  "id": "hrembp",
+  "display_name": "Number of Hypopnea (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "hrembp"
+  ]
+}

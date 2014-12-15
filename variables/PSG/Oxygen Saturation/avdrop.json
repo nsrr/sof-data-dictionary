@@ -1,0 +1,10 @@
+{
+  "id": "avdrop",
+  "display_name": "Average oxygen desaturation (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avdrop"
+  ]
+}

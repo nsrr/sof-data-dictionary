@@ -1,0 +1,10 @@
+{
+  "id": "avhrba",
+  "display_name": "Average Hypopnea length w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avhrba"
+  ]
+}

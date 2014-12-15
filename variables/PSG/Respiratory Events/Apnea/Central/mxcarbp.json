@@ -1,0 +1,10 @@
+{
+  "id": "mxcarbp",
+  "display_name": "Maximum Central Apnea length (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxcarbp"
+  ]
+}

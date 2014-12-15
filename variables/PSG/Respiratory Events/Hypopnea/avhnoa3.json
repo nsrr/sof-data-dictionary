@@ -1,0 +1,10 @@
+{
+  "id": "avhnoa3",
+  "display_name": "Average Hypopnea length w/ arousals (NREM, Other, 3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avhnoa3"
+  ]
+}

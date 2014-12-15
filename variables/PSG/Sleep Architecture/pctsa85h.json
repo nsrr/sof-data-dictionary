@@ -1,0 +1,12 @@
+{
+  "id": "pctsa85h",
+  "display_name": "Percent of sleep time SaO2 is below 85%",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctsa85h",
+    "hypoxia",
+    "hypoxemia"
+  ]
+}

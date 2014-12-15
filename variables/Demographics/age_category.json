@@ -1,8 +1,0 @@
-{
-  "id": "age_category",
-  "display_name": "Age at time of visit",
-  "description": "",
-  "type": "choices",
-  "domain": "agecat",
-  "commonly_used": true
-}

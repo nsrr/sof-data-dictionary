@@ -1,0 +1,10 @@
+{
+  "id": "rdirbp3",
+  "display_name": "Hypopnea per hour (REM, Back, 3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "rdirbp3"
+  ]
+}

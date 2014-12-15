@@ -1,0 +1,10 @@
+{
+  "id": "mxcarba4",
+  "display_name": "Maximum Central Apnea length w/ arousals (REM, Back, 4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxcarba4"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "smnbrbh",
+  "display_name": "Minimum Heart Rate (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "smnbrbh"
+  ]
+}

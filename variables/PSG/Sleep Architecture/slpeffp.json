@@ -1,0 +1,10 @@
+{
+  "id": "slpeffp",
+  "display_name": "PSG Report (SHHS2): Sleep Efficiency",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "slpeffp"
+  ]
+}

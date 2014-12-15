@@ -1,0 +1,12 @@
+{
+  "id": "cai0p",
+  "display_name": "Central Apnea Index all oxygen desaturations",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * ( carbp + carop + canbp + canop ) / slpprdp",
+  "labels": [
+    "cai0p"
+  ],
+  "commonly_used": true
+}

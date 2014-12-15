@@ -1,0 +1,10 @@
+{
+  "id": "hrund30",
+  "display_name": "PSG Quality Assessment (SHHS2): Medical Alert - HR < 30",
+  "description": "Medical Alert for heart rate under 30. ",
+  "type": "choices",
+  "domain": "yesnon",
+  "labels": [
+    "HRund30"
+  ]
+}

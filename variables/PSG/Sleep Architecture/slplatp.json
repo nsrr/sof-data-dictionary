@@ -1,0 +1,10 @@
+{
+  "id": "slplatp",
+  "display_name": "PSG Report (SHHS1): Sleep Latency",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "slplatp"
+  ]
+}

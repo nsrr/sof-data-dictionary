@@ -1,0 +1,10 @@
+{
+  "id": "avcanbp3",
+  "display_name": "Average Central Apnea length (NREM, Back, 3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avcanbp3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mxhnbp",
+  "display_name": "Maximum Hypopnea length (NREM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxhnbp"
+  ]
+}

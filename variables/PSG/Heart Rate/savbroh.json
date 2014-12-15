@@ -1,0 +1,10 @@
+{
+  "id": "savbroh",
+  "display_name": "Average Heart Rate (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "savbroh"
+  ]
+}

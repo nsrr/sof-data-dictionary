@@ -1,0 +1,10 @@
+{
+  "id": "mxcanoa4",
+  "display_name": "Maximum Central Apnea length w/ arousals (NREM, Other 4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxcanoa4"
+  ]
+}

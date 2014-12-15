@@ -1,0 +1,10 @@
+{
+  "id": "hnroa",
+  "display_name": "Number of Hypopnea w/ arousals (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "hypopnea events",
+  "labels": [
+    "hnroa"
+  ]
+}

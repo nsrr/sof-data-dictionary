@@ -1,0 +1,10 @@
+{
+  "id": "mxdrba",
+  "display_name": "Maximum oxygen desaturation w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mxdrba"
+  ]
+}

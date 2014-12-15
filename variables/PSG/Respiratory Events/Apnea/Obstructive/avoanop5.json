@@ -1,0 +1,10 @@
+{
+  "id": "avoanop5",
+  "display_name": "Average Obstructive Apnea length (NREM, Other, 5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avoanop5"
+  ]
+}

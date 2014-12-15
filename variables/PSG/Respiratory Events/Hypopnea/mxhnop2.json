@@ -1,0 +1,10 @@
+{
+  "id": "mxhnop2",
+  "display_name": "Maximum Hypopnea length (NREM, Other 2% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxhnop2"
+  ]
+}

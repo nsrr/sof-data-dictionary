@@ -1,0 +1,10 @@
+{
+  "id": "smxbrbh",
+  "display_name": "Maximum Heart Rate (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "smxbrbh"
+  ]
+}

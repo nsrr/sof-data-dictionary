@@ -1,0 +1,10 @@
+{
+  "id": "lgbreath",
+  "display_name": "PSG Scoring Notes (SHHS1): Periodic Large Breaths",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "forms": [
+    "shhs1_psg_scoring_notes_form"
+  ]
+}

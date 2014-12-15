@@ -1,0 +1,10 @@
+{
+  "id": "rdinop",
+  "display_name": "Hypopnea per hour (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "rdinop"
+  ]
+}

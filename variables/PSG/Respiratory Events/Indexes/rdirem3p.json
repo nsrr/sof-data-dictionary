@@ -1,0 +1,14 @@
+{
+  "id": "rdirem3p",
+  "display_name": "Overall RDI (REM) at 3% oxygen desaturation",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * ( hrembp3 + hrop3 + carbp3 + carop3 + oarbp3 + oarop3 ) / minremp",
+  "labels": [
+    "rdirem3p",
+    "rdi",
+    "ahi"
+  ],
+  "commonly_used": true
+}

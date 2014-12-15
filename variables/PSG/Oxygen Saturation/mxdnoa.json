@@ -1,0 +1,10 @@
+{
+  "id": "mxdnoa",
+  "display_name": "Maximum oxygen desaturation w/ arousals (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mxdnoa"
+  ]
+}

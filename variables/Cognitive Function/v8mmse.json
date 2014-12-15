@@ -1,8 +1,0 @@
-{
-  "id": "v8mmse",
-  "display_name": "Mini-mental status exam",
-  "description": "Valid scores range from 0 to 30",
-  "type": "numeric",
-  "units": "",
-  "domain": "specf"
-}

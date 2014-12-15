@@ -1,0 +1,10 @@
+{
+  "id": "dmxbrbh",
+  "display_name": "Maximum Heart Rate with arousal (REM, Back, 3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "dmxbrbh"
+  ]
+}

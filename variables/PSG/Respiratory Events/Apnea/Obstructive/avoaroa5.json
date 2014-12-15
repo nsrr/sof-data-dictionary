@@ -1,0 +1,10 @@
+{
+  "id": "avoaroa5",
+  "display_name": "Average Obstructive Apnea length w/ arousals (REM, Other, 5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avoaroa5"
+  ]
+}

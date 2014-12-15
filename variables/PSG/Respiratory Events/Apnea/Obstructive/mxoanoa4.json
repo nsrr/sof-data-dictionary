@@ -1,0 +1,10 @@
+{
+  "id": "mxoanoa4",
+  "display_name": "Maximum Obstructive Apnea length w/ arousals (NREM, Other 4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxoanoa4"
+  ]
+}

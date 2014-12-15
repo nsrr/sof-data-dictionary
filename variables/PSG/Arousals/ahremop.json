@@ -1,0 +1,10 @@
+{
+  "id": "ahremop",
+  "display_name": "Arousals per hour (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahremop"
+  ]
+}

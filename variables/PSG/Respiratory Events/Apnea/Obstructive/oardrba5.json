@@ -1,0 +1,10 @@
+{
+  "id": "oardrba5",
+  "display_name": "Obstructive Apnea per hour w/ arousals (REM, Back, 5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oardrba5"
+  ]
+}

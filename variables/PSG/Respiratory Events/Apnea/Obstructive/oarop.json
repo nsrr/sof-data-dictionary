@@ -1,0 +1,10 @@
+{
+  "id": "oarop",
+  "display_name": "Number of Obstructive Apnea (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "obstructive apnea events",
+  "labels": [
+    "oarop"
+  ]
+}

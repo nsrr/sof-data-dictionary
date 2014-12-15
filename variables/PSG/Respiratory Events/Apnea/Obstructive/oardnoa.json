@@ -1,0 +1,10 @@
+{
+  "id": "oardnoa",
+  "display_name": "Obstructive Apnea per hour w/ arousals (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "oardnoa"
+  ]
+}

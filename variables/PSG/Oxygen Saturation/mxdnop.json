@@ -1,0 +1,10 @@
+{
+  "id": "mxdnop",
+  "display_name": "Maximum oxygen desaturation (NREM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "mxdnop"
+  ]
+}

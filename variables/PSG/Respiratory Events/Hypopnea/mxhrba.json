@@ -1,0 +1,10 @@
+{
+  "id": "mxhrba",
+  "display_name": "Maximum Hypopnea length w/ arousals (REM, Back, all oxygen desaturations)",
+  "description": "Maximum Hypopnea length w/ arousals (REM, Back, all oxygen desaturations) (seconds)",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxhrba"
+  ]
+}

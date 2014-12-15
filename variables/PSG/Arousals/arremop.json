@@ -1,0 +1,10 @@
+{
+  "id": "arremop",
+  "display_name": "Number of Arousals (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "arousals",
+  "labels": [
+    "arremop"
+  ]
+}

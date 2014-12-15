@@ -1,0 +1,10 @@
+{
+  "id": "avhnbp",
+  "display_name": "Average Hypopnea length (NREM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avhnbp"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "rdiroa",
+  "display_name": "Hypopnea per hour w/ arousals (REM, Other, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "rdiroa"
+  ]
+}

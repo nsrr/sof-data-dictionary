@@ -1,0 +1,10 @@
+{
+  "id": "mxoarbp",
+  "display_name": "Maximum Obstructive Apnea length (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mxoarbp"
+  ]
+}

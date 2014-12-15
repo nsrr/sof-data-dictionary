@@ -1,0 +1,10 @@
+{
+  "id": "avcaroa5",
+  "display_name": "Average Central Apnea length w/ arousals (REM, Other, 5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avcaroa5"
+  ]
+}

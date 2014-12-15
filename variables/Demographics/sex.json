@@ -1,7 +1,0 @@
-{
-  "id": "sex",
-  "display_name": "Subject sex",
-  "description": "",
-  "type": "choices",
-  "domain": "sex"
-}

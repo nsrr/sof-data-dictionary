@@ -1,0 +1,10 @@
+{
+  "id": "mnoanba",
+  "display_name": "Minimum Obstructive Apnea length w/ arousals (NREM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "mnoanba"
+  ]
+}

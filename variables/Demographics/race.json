@@ -1,7 +1,0 @@
-{
-  "id": "race",
-  "display_name": "Participants race",
-  "description": "",
-  "type": "choices",
-  "domain": "race12"
-}

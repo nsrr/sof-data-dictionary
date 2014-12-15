@@ -1,0 +1,10 @@
+{
+  "id": "avoarbp",
+  "display_name": "Average Obstructive Apnea length (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "avoarbp"
+  ]
+}

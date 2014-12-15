@@ -1,0 +1,10 @@
+{
+  "id": "savbrbh",
+  "display_name": "Average Heart Rate (REM, Back, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "savbrbh"
+  ]
+}
