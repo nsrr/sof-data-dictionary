@@ -1,10 +1,7 @@
 {
   "id": "rdisn",
-  "display_name": "PSG Scoring Notes (SHHS1): RDI as assessed by scorer",
+  "display_name": "PSG Scoring Notes: RDI as assessed by scorer",
   "description": "",
   "type": "numeric",
-  "units": "events per hour",
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
-  ]
+  "units": "events per hour"
 }

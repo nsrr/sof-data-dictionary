@@ -1,0 +1,7 @@
+{
+  "id": "nobrh",
+  "display_name": "Number of bradycardia related to hypopnea (sleep time onset)",
+  "description": "Number of bradycardia related to hypopnea during sleep",
+  "type": "numeric",
+  "units": "beats per minute"
+}

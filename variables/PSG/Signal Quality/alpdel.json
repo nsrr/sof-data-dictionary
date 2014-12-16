@@ -1,13 +1,10 @@
 {
   "id": "alpdel",
-  "display_name": "PSG Quality Assessment (SHHS2): Alpha Intrusion ",
+  "display_name": "PSG Quality Assessment: Alpha Intrusion ",
   "description": "Scorer observed alpha intrusion on sleep during study.",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
     "AlpDEL"
-  ],
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
   ]
 }

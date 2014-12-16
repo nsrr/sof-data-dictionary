@@ -1,0 +1,7 @@
+{
+  "id": "plmcastg1",
+  "display_name": "Number of PLM clusters with arousal (stage 1 sleep)",
+  "description": "Total PLM clusters with arousal  stage 1 sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

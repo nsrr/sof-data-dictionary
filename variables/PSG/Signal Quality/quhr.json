@@ -1,0 +1,7 @@
+{
+  "id": "quhr",
+  "display_name": "Quality of hr",
+  "description": "Quality of hr",
+  "type": "choices",
+  "domain": "signalofsleeptime"
+}

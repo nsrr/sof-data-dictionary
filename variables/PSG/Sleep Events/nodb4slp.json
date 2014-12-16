@@ -1,0 +1,7 @@
+{
+  "id": "nodb4slp",
+  "display_name": "Number of snore during sleep (dB level 4)",
+  "description": "",
+  "type": "integer",
+  "units": "snores"
+}

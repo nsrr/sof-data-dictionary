@@ -1,0 +1,8 @@
+{
+  "id": "posn",
+  "display_name": "Position sensor working",
+  "description": "1=Position sensor working",
+  "type": "choices",
+  "domain": "noyes",
+  "commonly_used": true
+}

@@ -1,0 +1,7 @@
+{
+  "id": "plmastg1",
+  "display_name": "Number of PLMs with arousal (stage 1 sleep)",
+  "description": "Total PLMs with arousal stage 1 sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

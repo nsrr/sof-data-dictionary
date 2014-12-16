@@ -1,0 +1,7 @@
+{
+  "id": "plma",
+  "display_name": "Number of PLMs with arousal",
+  "description": "Total PLMs with arousal",
+  "type": "numeric",
+  "units": "limb movements"
+}

@@ -1,10 +1,7 @@
 {
   "id": "restan3",
-  "display_name": "PSG Scoring Notes (SHHS1): Scoring ended before lights on/awake",
+  "display_name": "PSG Scoring Notes: Scoring ended before lights on/awake",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
-  ]
+  "domain": "noyes01"
 }

@@ -1,0 +1,7 @@
+{
+  "id": "plmanrem",
+  "display_name": "Number of PLMs with arousal (NREM)",
+  "description": "Total PLMs with arousal  in NREM sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

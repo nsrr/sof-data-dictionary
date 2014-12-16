@@ -1,0 +1,7 @@
+{
+  "id": "lmslp",
+  "display_name": "Number of limb movements (sleep)",
+  "description": "Total limb movements in all sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

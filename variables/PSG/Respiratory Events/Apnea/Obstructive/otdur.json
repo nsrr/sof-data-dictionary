@@ -1,0 +1,7 @@
+{
+  "id": "otdur",
+  "display_name": "Total obstructive apnea length",
+  "description": "Total duration of obstructive apnea (entire recording)",
+  "type": "numeric",
+  "units": "seconds"
+}

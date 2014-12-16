@@ -1,0 +1,7 @@
+{
+  "id": "plmstg2",
+  "display_name": "Number of PLMs (stage 2 sleep)",
+  "description": "Total PLMs stage 2 sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

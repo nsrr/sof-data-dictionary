@@ -1,0 +1,8 @@
+{
+  "id": "stdydt",
+  "display_name": "Date of study",
+  "description": "",
+  "type": "integer",
+  "units": "seconds from date of randomization",
+  "commonly_used": true
+}

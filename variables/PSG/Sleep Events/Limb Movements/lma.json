@@ -1,0 +1,7 @@
+{
+  "id": "lma",
+  "display_name": "Number of limb movements with arousal",
+  "description": "Total limb movements with arousal",
+  "type": "numeric",
+  "units": "limb movements"
+}

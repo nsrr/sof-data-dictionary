@@ -1,0 +1,7 @@
+{
+  "id": "scordt",
+  "display_name": "Date scored",
+  "description": "Date scoring performed at reading center",
+  "type": "integer",
+  "units": "seconds from date of randomization"
+}

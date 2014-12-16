@@ -1,6 +1,6 @@
 {
   "id": "aroign",
-  "display_name": "PSG Quality Assessment (SHHS2): Arousals Ignored",
+  "display_name": "PSG Quality Assessment: Arousals Ignored",
   "description": "Due to problems with EEG signals, arousals were ignored in scoring.",
   "type": "choices",
   "domain": "noyes01",

@@ -1,6 +1,6 @@
 {
   "id": "wakslepr",
-  "display_name": "PSG Quality Assessment (SHHS2): Wake/Sleep Scoring unreliable",
+  "display_name": "PSG Quality Assessment: Wake/Sleep Scoring unreliable",
   "description": "Scorer noted that there was a problem differentiating stage wake from stage sleep.",
   "type": "choices",
   "domain": "yesnon",

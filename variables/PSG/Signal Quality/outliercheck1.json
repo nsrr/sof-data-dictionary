@@ -1,10 +1,7 @@
 {
   "id": "outliercheck1",
-  "display_name": "PSG Scoring Notes (SHHS1): Extreme Values Found",
+  "display_name": "PSG Scoring Notes: Extreme Values Found",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
-  ]
+  "domain": "noyes01"
 }

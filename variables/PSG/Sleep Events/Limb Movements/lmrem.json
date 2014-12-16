@@ -1,0 +1,7 @@
+{
+  "id": "lmrem",
+  "display_name": "Number of limb movements (REM)",
+  "description": "Total limb movements in REM sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

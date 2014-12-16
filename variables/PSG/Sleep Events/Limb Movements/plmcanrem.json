@@ -1,0 +1,7 @@
+{
+  "id": "plmcanrem",
+  "display_name": "Number of PLM clusters with arousal (NREM)",
+  "description": "Total PLM clusters with arousal  in NREM sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

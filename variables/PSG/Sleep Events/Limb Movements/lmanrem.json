@@ -1,0 +1,7 @@
+{
+  "id": "lmanrem",
+  "display_name": "Number of limb movements with arousal (NREM)",
+  "description": "Total limb movements with arousal  in NREM sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

@@ -1,13 +1,10 @@
 {
   "id": "abnoreeg",
-  "display_name": "PSG Quality Assessment (SHHS2): Abnormal EEG",
+  "display_name": "PSG Quality Assessment: Abnormal EEG",
   "description": "Scorer observed abnormal EEG during study.",
   "type": "choices",
   "domain": "yesnon",
   "labels": [
     "AbnorEEG"
-  ],
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
   ]
 }

@@ -1,0 +1,7 @@
+{
+  "id": "plmcstg1",
+  "display_name": "Number of PLM clusters (stage 1 sleep)",
+  "description": "Total PLM clusters stage 1 sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

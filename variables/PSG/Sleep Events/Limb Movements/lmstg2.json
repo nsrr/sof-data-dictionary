@@ -1,0 +1,7 @@
+{
+  "id": "lmstg2",
+  "display_name": "Number of limb movements (stage 2 sleep)",
+  "description": "Total limb movements stage 2 sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

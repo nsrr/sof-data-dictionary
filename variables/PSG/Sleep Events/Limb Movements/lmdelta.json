@@ -1,0 +1,7 @@
+{
+  "id": "lmdelta",
+  "display_name": "Number of limb movements (delta sleep)",
+  "description": "Total limb movements in delta sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "qulegr",
+  "display_name": "Quality of LegR",
+  "description": "Quality of R Leg",
+  "type": "choices",
+  "domain": "signalofsleeptime"
+}

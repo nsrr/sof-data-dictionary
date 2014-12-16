@@ -1,0 +1,7 @@
+{
+  "id": "plmslp",
+  "display_name": "Number of PLMs (sleep)",
+  "description": "Total PLMs in all sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

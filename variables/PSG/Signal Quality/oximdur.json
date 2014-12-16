@@ -1,0 +1,8 @@
+{
+  "id": "oximdur",
+  "display_name": "Hours of usable oximetry",
+  "description": "Hours of usable oximetry",
+  "type": "numeric",
+  "units": "hours",
+  "commonly_used": true
+}

@@ -1,0 +1,7 @@
+{
+  "id": "plmadelta",
+  "display_name": "Number of PLMs with arousal (delta Sleep)",
+  "description": "Total PLMs with arousal  in delta sleep",
+  "type": "numeric",
+  "units": "limb movements"
+}

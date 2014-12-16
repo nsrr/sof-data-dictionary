@@ -1,13 +1,10 @@
 {
   "id": "prerdi",
-  "display_name": "PSG Quality Assessment (SHHS1): Preliminary RDI",
+  "display_name": "PSG Quality Assessment: Preliminary RDI",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
     "PreRDI"
-  ],
-  "forms": [
-    "shhs1_sleep_data_quality_assessment_and_preliminary_report_form"
   ]
 }

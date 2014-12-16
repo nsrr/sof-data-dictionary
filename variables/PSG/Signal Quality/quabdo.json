@@ -1,0 +1,7 @@
+{
+  "id": "quabdo",
+  "display_name": "Quality of abdominal effort",
+  "description": "Quality of abdomen effort",
+  "type": "choices",
+  "domain": "signalofsleeptime"
+}

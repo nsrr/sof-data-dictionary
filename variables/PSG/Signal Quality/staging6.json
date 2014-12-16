@@ -1,10 +1,7 @@
 {
   "id": "staging6",
-  "display_name": "PSG Scoring Notes (SHHS1): Staging 6",
+  "display_name": "PSG Scoring Notes: Staging 6",
   "description": "",
   "type": "choices",
-  "domain": "noyes01",
-  "forms": [
-    "shhs1_psg_scoring_notes_form"
-  ]
+  "domain": "noyes01"
 }

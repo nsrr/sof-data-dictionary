@@ -1,0 +1,8 @@
+{
+  "id": "longhyp",
+  "display_name": "Longest hypopnea",
+  "description": "Longest hypopnea (entire recording)",
+  "type": "numeric",
+  "units": "seconds",
+  "commonly_used": true
+}

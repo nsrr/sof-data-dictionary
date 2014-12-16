@@ -1,0 +1,7 @@
+{
+  "id": "prdb5slp",
+  "display_name": "Percentage of snore time in REM sleep (dB level 5)",
+  "description": "[(Total time snore at dB level 5 in REM sleep) / (total time REM sleep)] * 100",
+  "type": "numeric",
+  "units": "percent"
+}

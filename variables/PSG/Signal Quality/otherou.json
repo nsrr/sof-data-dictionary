@@ -1,6 +1,6 @@
 {
   "id": "otherou",
-  "display_name": "PSG Quality Assessment (SHHS2): Other outlier",
+  "display_name": "PSG Quality Assessment: Other outlier",
   "description": "Scorer observed other outlying values.",
   "type": "choices",
   "domain": "yesnon",
