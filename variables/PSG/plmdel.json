@@ -1,0 +1,7 @@
+{
+  "id": "plmdel",
+  "display_name": "50 percent of PLMs deleted due to occurrence after respiratory event?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnno"
+}

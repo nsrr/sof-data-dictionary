@@ -1,0 +1,7 @@
+{
+  "id": "enterdt",
+  "display_name": "Date data entered into database",
+  "description": "",
+  "type": "date",
+  "units": ""
+}

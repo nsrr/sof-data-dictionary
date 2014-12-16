@@ -1,0 +1,7 @@
+{
+  "id": "outlier",
+  "display_name": "Were outliers found (real)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

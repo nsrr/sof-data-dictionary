@@ -1,0 +1,7 @@
+{
+  "id": "avghrahslp",
+  "display_name": "Average heart rate associated with Apnea and Hypopnea",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "cdlabel",
+  "display_name": "Archive CD Label Number",
+  "description": "",
+  "type": "string",
+  "units": ""
+}

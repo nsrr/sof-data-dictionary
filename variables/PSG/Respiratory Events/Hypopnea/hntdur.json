@@ -1,0 +1,7 @@
+{
+  "id": "hntdur",
+  "display_name": "Number of minutes of Hypopnea (NREM)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

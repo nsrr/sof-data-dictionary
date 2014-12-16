@@ -1,0 +1,7 @@
+{
+  "id": "avgsaominr",
+  "display_name": "Minimum average of oxygen saturation (REM sleep)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

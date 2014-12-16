@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Full scoring",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Scored Sleep-Wake only or no arousals scored",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Not applicable",
+    "description": ""
+  }
+]

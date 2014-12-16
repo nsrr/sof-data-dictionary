@@ -1,0 +1,7 @@
+{
+  "id": "minmaxhrou",
+  "display_name": "Minimum heart rate less than 30 beats per minute or maximum heart rate greater than 150 beats per minute",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnno"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "htdur",
+  "display_name": "Hours of usable ECG based on TRT",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

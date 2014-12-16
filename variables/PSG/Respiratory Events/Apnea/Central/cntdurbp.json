@@ -1,0 +1,7 @@
+{
+  "id": "cntdurbp",
+  "display_name": "Number of minutes of Central Apnea (NREM Back)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

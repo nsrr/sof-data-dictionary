@@ -1,0 +1,7 @@
+{
+  "id": "avgplmwk",
+  "display_name": "Number of PLMs per hour of awake",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements per hour"
+}

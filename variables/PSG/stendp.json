@@ -1,0 +1,7 @@
+{
+  "id": "stendp",
+  "display_name": "Study end time (last epoch recorded or last epoch cropped)",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

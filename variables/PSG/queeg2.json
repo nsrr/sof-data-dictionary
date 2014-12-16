@@ -1,0 +1,7 @@
+{
+  "id": "queeg2",
+  "display_name": "EEG signal quality",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

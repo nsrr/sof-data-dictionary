@@ -1,0 +1,7 @@
+{
+  "id": "npplms",
+  "display_name": "If yes to flow limitation, were PLMS associated?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnno"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ctdur",
+  "display_name": "Number of minutes of Central Apnea",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

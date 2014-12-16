@@ -1,0 +1,7 @@
+{
+  "id": "notes",
+  "display_name": "Scoring notes referencing outliers or unusual scoring issues",
+  "description": "",
+  "type": "string",
+  "units": ""
+}

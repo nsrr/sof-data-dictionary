@@ -1,0 +1,7 @@
+{
+  "id": "queeg1",
+  "display_name": "EEG signal quality during sleep time",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

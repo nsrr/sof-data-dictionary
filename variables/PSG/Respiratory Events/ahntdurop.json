@@ -1,0 +1,7 @@
+{
+  "id": "ahntdurop",
+  "display_name": "Number of minutes of Apnea and Hypopnea (NREM Other)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}
