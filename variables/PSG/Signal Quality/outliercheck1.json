@@ -1,7 +1,0 @@
-{
-  "id": "outliercheck1",
-  "display_name": "PSG Scoring Notes: Extreme Values Found",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "staging5",
-  "display_name": "PSG Scoring Notes: Scored Sleep-Wake only",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

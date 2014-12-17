@@ -1,7 +1,0 @@
-{
-  "id": "staging7",
-  "display_name": "PSG Scoring Notes: REM Arousals (only) unreliable",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

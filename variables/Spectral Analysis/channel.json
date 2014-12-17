@@ -1,7 +1,0 @@
-{
-  "id": "channel",
-  "display_name": "EEG Channel",
-  "description": "",
-  "type": "choices",
-  "domain": "channel"
-}

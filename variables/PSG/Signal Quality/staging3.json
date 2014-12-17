@@ -1,7 +1,0 @@
-{
-  "id": "staging3",
-  "display_name": "PSG Scoring Notes: Scored Wake, Non-REM, REM only",
-  "description": "",
-  "type": "choices",
-  "domain": "noyes01"
-}

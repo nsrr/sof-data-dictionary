@@ -1,7 +1,0 @@
-{
-  "id": "rdisn",
-  "display_name": "PSG Scoring Notes: RDI as assessed by scorer",
-  "description": "",
-  "type": "numeric",
-  "units": "events per hour"
-}
