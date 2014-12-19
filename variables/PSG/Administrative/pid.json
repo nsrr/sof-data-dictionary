@@ -1,7 +1,0 @@
-{
-  "id": "pid",
-  "display_name": "Participant ID",
-  "description": "T",
-  "type": "identifier",
-  "commonly_used": true
-}

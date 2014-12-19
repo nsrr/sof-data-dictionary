@@ -1,7 +1,0 @@
-{
-  "id": "scoredt",
-  "display_name": "Scored date",
-  "description": "Date scored (date of birth in compumedics screen) if study reprocessed date scored changes",
-  "type": "integer",
-  "units": "seconds from date of randomization"
-}
