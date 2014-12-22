@@ -1,13 +1,13 @@
 ---
 slug: sof
 visit: visit
-charts:
-- chart: age_category
-  title: Age
-- chart: sex
-  title: Sex
-- chart: race
-  title: Race
+# charts:
+# - chart: age_category
+#   title: Age
+# - chart: sex
+#   title: Sex
+# - chart: race
+#   title: Race
 webservers:
   - name: production
     url: https://sleepdata.org
