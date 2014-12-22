@@ -1,7 +1,0 @@
-{
-  "id": "avgdbslp",
-  "display_name": "Average snore level during sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "decibels"
-}

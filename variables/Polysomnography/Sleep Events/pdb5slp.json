@@ -1,7 +1,0 @@
-{
-  "id": "pdb5slp",
-  "display_name": "Percentage of snore time in sleep (dB level 5)",
-  "description": "[(total time snore at dB level 5) / (total sleep time)] * 100",
-  "type": "numeric",
-  "units": "percent"
-}

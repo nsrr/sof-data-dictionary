@@ -1,7 +1,0 @@
-{
-  "id": "nodb5slp",
-  "display_name": "Number of snore during sleep (dB level 5)",
-  "description": "",
-  "type": "integer",
-  "units": "snores"
-}

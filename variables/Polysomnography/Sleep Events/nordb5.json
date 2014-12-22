@@ -1,7 +1,0 @@
-{
-  "id": "nordb5",
-  "display_name": "Number of snore in REM (dB level 5)",
-  "description": "",
-  "type": "integer",
-  "units": "snores"
-}
