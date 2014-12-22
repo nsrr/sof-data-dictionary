@@ -13,7 +13,7 @@ data sof_psg;
   visit = 8;
 
   *drop unncessary / identifying variables;
-  drop scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes nobrslp nobrap nobrc nobro nobrh notca notco notch;
+  drop scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes nobrslp nobrap nobrc nobro nobrh notca notco notch minmaxhrou;
 run;
 
 *export dataset;
