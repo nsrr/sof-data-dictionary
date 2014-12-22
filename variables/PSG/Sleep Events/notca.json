@@ -1,7 +1,0 @@
-{
-  "id": "notca",
-  "display_name": "Number of tachycardia (sleep time)",
-  "description": "Number of tachycardia during sleep",
-  "type": "numeric",
-  "units": "beats per minute"
-}

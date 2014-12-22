@@ -1,7 +1,0 @@
-{
-  "id": "nobrap",
-  "display_name": "Number of bradycardia related to apnea (sleep time onset)",
-  "description": "Number of bradycardia related to apnea during sleep",
-  "type": "numeric",
-  "units": "beats per minute"
-}

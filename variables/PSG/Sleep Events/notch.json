@@ -1,7 +1,0 @@
-{
-  "id": "notch",
-  "display_name": "Number of tachycardia  related to hypopnea  (sleep time)",
-  "description": "Number of tachycardia  related to hypopnea during sleep",
-  "type": "numeric",
-  "units": "beats per minute"
-}
