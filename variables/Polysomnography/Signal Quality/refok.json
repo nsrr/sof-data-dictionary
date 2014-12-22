@@ -1,7 +1,7 @@
 {
   "id": "refok",
-  "display_name": "Refok",
+  "display_name": "Reference and ground electrodes working?",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "noyes"
 }
