@@ -3,6 +3,6 @@
   "display_name": "Total Sleep Time",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "hours",
   "commonly_used": true
 }

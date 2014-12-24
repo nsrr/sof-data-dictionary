@@ -1,7 +1,7 @@
 {
   "id": "rcrdtime",
   "display_name": "Recording time",
-  "description": "total recording time (minutes)",
+  "description": "Total recording time",
   "type": "numeric",
-  "units": "minutes"
+  "units": "hours"
 }
