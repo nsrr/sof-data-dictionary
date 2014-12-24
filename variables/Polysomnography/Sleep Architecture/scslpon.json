@@ -1,7 +1,7 @@
 {
   "id": "scslpon",
-  "display_name": "ScSlpOn",
+  "display_name": "Scorer sleep onset time",
   "description": "",
-  "type": "string",
+  "type": "time",
   "units": ""
 }
