@@ -3,5 +3,5 @@
   "display_name": "Number of PLM clusters (REM)",
   "description": "Total PLM clusters in REM sleep",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "periodic limb movements"
 }

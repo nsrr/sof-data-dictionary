@@ -3,5 +3,5 @@
   "display_name": "Number of PLM clusters with arousal (sleep)",
   "description": "Total PLM clusters with arousal  in all sleep",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "periodic limb movements"
 }

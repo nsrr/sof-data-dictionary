@@ -3,5 +3,5 @@
   "display_name": "Number of PLMs",
   "description": "Total PLMs",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "periodic limb movements"
 }

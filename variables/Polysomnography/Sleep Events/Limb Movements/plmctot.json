@@ -3,5 +3,5 @@
   "display_name": "Number of PLM clusters",
   "description": "Total PLM clusters",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "periodic limb movements"
 }

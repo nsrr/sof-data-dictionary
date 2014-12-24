@@ -3,5 +3,5 @@
   "display_name": "Number of PLM clusters (delta sleep)",
   "description": "Total PLM clusters in delta sleep",
   "type": "numeric",
-  "units": "limb movements"
+  "units": "periodic limb movements"
 }
