@@ -7,5 +7,5 @@
     - `sof-psg-visit-8-dataset-0.1.0.rc3.csv`
 ### Changes
 - **Gem Changes**
-  - Updated to spout 0.10.0.rc
+  - Updated to spout 0.10.2
   - Use of Ruby 2.1.4 is now recommended
