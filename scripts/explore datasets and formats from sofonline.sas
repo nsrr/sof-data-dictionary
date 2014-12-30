@@ -3,7 +3,7 @@ libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 options nofmterr fmtsearch=(sof);
 
 *set version macro variable;
-%let version = 0.1.0.rc3;
+%let version = 0.1.0.rc4;
 
 *import dataset sent by SOF Coordinating Center;
 data sof_psg;

@@ -4,8 +4,8 @@
 - Spectral analysis variables have now been added to the data dictionary
 - Sex has been added to each dataset
 - The CSV datasets generated from the SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.1.0.rc3\`
-    - `sof-psg-visit-8-dataset-0.1.0.rc3.csv`
+  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.1.0.rc4\`
+    - `sof-psg-visit-8-dataset-0.1.0.rc4.csv`
 ### Changes
 - **Gem Changes**
   - Updated to spout 0.10.2
