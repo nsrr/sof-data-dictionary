@@ -1,3 +1,13 @@
+## 0.2.0
+
+### Changes
+- Spectral analysis variables have been added back into the data dictionary
+- The CSV datasets generated from the SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.2.0.beta1\`
+    - `sof-eeg-band-summary-dataset-0.2.0.beta1.csv`
+    - `sof-eeg-spectral-summary-dataset-0.2.0.beta1.csv`
+    - `sof-psg-visit-8-dataset-0.2.0.beta1.csv`
+
 ## 0.1.0 (January 5, 2015)
 
 ### Changes
