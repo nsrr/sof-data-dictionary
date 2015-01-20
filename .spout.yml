@@ -6,6 +6,8 @@ charts:
 #   title: Age
 - chart: gender
   title: Gender
+- chart: signal
+  title: Signal
 # - chart: race
 #   title: Race
 webservers:
