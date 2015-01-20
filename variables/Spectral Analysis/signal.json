@@ -2,6 +2,6 @@
   "id": "signal",
   "display_name": "EEG Signal",
   "description": "",
-  "type": "text",
-  "units": ""
+  "type": "choices",
+  "domain": "signal"
 }
