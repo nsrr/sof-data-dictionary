@@ -1,14 +1,14 @@
-## 0.2.0
+## 0.2.0 (February 13, 2015)
 
 ### Changes
 - Spectral analysis variables have been added back into the data dictionary
   - Gender has been re-added to the spectral datasets
 - 'Signal' has been added as a stratification factor for graphs, where appropriate
 - The CSV datasets generated from the SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.2.0.rc2\`
-    - `sof-eeg-band-summary-dataset-0.2.0.rc2.csv`
-    - `sof-eeg-spectral-summary-dataset-0.2.0.rc2.csv`
-    - `sof-psg-visit-8-dataset-0.2.0.rc2.csv`
+  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.2.0\`
+    - `sof-eeg-band-summary-dataset-0.2.0.csv`
+    - `sof-eeg-spectral-summary-dataset-0.2.0.csv`
+    - `sof-psg-visit-8-dataset-0.2.0.csv`
 
 ## 0.1.0 (January 5, 2015)
 
