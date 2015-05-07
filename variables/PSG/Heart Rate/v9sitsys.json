@@ -1,0 +1,7 @@
+{
+  "id": "v9sitsys",
+  "display_name": "Systolic blood pressure sitting down",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}

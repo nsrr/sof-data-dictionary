@@ -1,0 +1,7 @@
+{
+  "id": "v2echf",
+  "display_name": "Has a doctor ever told you that you have congestive heart failure?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

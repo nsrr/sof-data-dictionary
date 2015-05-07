@@ -1,0 +1,7 @@
+{
+  "id": "v6sangin",
+  "display_name": "Has a doctor or other health care provider ever told you that you had angina?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

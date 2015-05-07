@@ -1,0 +1,8 @@
+{
+  "id": "v8age",
+  "display_name": "Age",
+  "description": "",
+  "type": "numeric",
+  "units": "years",
+  "calculations": "Age = Birth date - Current visit date"
+}

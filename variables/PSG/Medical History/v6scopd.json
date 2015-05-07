@@ -1,0 +1,7 @@
+{
+  "id": "v6scopd",
+  "display_name": "Has a doctor or other health care provider ever told you that you have chronic obstructive lung disease, chronic bronchitis, asthma, emphysema, COPD?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

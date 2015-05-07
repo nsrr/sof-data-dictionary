@@ -1,0 +1,7 @@
+{
+  "id": "v1stdsys",
+  "display_name": "Systolic blood pressure standing up",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

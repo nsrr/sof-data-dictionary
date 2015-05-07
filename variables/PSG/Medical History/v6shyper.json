@@ -1,0 +1,7 @@
+{
+  "id": "v6shyper",
+  "display_name": "Has a doctor or other health care provider ever told you that you have high blood pressure?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}

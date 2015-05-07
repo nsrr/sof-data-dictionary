@@ -1,0 +1,7 @@
+{
+  "id": "v1lisys",
+  "display_name": "Systolic blood pressure lying down",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "No death",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Death",
+    "description": ""
+  },
+  {
+    "value": ".D",
+    "display_name": "Death from other cause",
+    "description": ""
+  },
+  {
+    "value": ".N",
+    "display_name": "No visit",
+    "description": ""
+  }
+]

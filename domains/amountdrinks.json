@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Every Day",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "5-6 Days per Week",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3-4 Days per Week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "1-2 Days per Week",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "2-3 Times in the Last 30 Days",
+    "description": ""
+},
+{
+    "value": "6",
+    "display_name": "Once in the Last 30 Days",
+    "description": ""
+}
+]

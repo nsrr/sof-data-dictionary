@@ -1,0 +1,7 @@
+{
+  "id": "v1drink",
+  "display_name": "In the past 12 months, have you had at least one drink of any kind of alcoholic beverage?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnor"
+}

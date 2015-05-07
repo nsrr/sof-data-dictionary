@@ -1,0 +1,7 @@
+{
+  "id": "v8ppls",
+  "display_name": "Average pulse",
+  "description": "",
+  "type": "numeric",
+  "units": "average beats per minute"
+}

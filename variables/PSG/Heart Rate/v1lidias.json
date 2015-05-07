@@ -1,0 +1,7 @@
+{
+  "id": "v1lidias",
+  "display_name": "Diastolic blood pressure lying down",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury"
+}

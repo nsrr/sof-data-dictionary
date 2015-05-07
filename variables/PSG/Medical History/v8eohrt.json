@@ -1,0 +1,7 @@
+{
+  "id": "v8eohrt",
+  "display_name": "Has a doctor or other health care provider ever told you that you have other heart disease?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes"
+}
