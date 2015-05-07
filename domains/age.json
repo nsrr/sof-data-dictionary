@@ -1,0 +1,57 @@
+[
+  {
+    "value": "0",
+    "display_name": "age < 1",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": " 1 < age < 4",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "5 < age < 14",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "15 < age < 24",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "25 < age < 34",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "34 < age < 44",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "45 < age < 54",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "55 < age < 64",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "65 < age < 74",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "75 < age < 84",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "85 < age",
+    "description": ""
+  }
+]

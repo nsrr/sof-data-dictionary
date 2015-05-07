@@ -1,0 +1,7 @@
+{
+  "id": "age_category",
+  "display_name": "Age",
+  "description": "",
+  "type": "choices",
+  "domain": "age"
+}
