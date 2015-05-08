@@ -3,5 +3,5 @@
   "display_name": "In the last two years, has a doctor told you that you have cancer?",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyesmin"
 }

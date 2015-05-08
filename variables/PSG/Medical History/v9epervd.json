@@ -3,5 +3,5 @@
   "display_name": "Peripheral vascular disease (intermittent claudication or pain in your legs from a blockage of the arteries)?",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyesmin"
 }

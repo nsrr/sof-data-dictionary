@@ -3,5 +3,5 @@
   "display_name": "Has a doctor or other health care provider ever told you that you had a stroke?",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyesmin"
 }

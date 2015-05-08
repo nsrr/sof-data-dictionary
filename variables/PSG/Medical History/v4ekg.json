@@ -3,5 +3,5 @@
   "display_name": "Has a doctor ever told you that you have an abnormal EKG, ECG, or electrocardiogram?",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyesmin"
 }

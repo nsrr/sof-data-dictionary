@@ -3,5 +3,5 @@
   "display_name": "Are you currently being treated for this condition by a doctor?",
   "description": "",
   "type": "choices",
-  "domain": "noyes"
+  "domain": "noyesmin"
 }

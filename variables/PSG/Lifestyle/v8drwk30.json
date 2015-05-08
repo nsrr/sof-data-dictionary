@@ -2,6 +2,6 @@
   "id": "v8drwk30",
   "display_name": "Which one of these statements comes closest to describing how often you drank any alcoholic beverages in the last 30 days?",
   "description": "",
-  "type": "choices",
-  "domain": "amountdrinks"
+  "type": "numeric",
+  "units": "drinks"
 }

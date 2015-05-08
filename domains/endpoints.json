@@ -10,12 +10,12 @@
     "description": ""
   },
   {
-    "value": ".D",
+    "value": "D",
     "display_name": "Death from other cause",
     "description": ""
   },
   {
-    "value": ".N",
+    "value": "N",
     "display_name": "No visit",
     "description": ""
   }
