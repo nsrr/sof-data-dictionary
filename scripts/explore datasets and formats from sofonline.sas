@@ -1,7 +1,7 @@
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 options nofmterr fmtsearch=(sof);
-%let version = 0.3.0.beta1;
+%let version = 0.3.0.rc;
 *create combined race datasets;
 
 data v9aavital;
@@ -58,7 +58,7 @@ run;
 data v4anthro;
 	set sof.v4anthro;
 
-	keep id v4wais v4hipg v4wsthip; 
+	keep id v4wais v4hipg v4wsthip;
 run;
 
 data v1lifestyle;
@@ -124,7 +124,7 @@ run;
 data v8demogr;
 	set sof.v8demogr;
 
-	keep id v8age; 
+	keep id v8age;
 run;
 
 data v8endpt;
@@ -153,7 +153,7 @@ run;
 
 data v8psg;
 	set sof.v8psg;
-	
+
 	rename pdrid=id;
 run;
 
@@ -200,7 +200,7 @@ data sof_all_wo_nmiss;
   format _all_;
 
   *only keep subjects that had a V8 PSG;
-  if stdydt > .; 
+  if stdydt > .;
 
   drop scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes pdb5slp prdb5slp nordb2 nordb3 nodb4slp nordb4 nodb5slp nordb5 nordball maxdbslp avgdbslp nobrslp nobrap nobrc nobro nobrh notca notcc notco notch minmaxhrou chinrdur quchinr;
 
