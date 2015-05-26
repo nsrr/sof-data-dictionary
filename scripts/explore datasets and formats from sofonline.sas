@@ -1,7 +1,7 @@
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 options nofmterr fmtsearch=(sof);
-%let version = 0.3.0.rc;
+%let version = 0.3.0.rc2;
 *create combined race datasets;
 
 data v9aavital;

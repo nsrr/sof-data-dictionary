@@ -3,10 +3,10 @@
 ### Changes
 - Adds in demographic, anthropormorphic, medical history data from other visits
 - The CSV datasets generated from the SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.3.0.rc\`
-    - `sof-eeg-band-summary-dataset-0.3.0.rc.csv`
-    - `sof-eeg-spectral-summary-dataset-0.3.0.rc.csv`
-    - `sof-psg-visit-8-dataset-0.3.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.3.0.rc2\`
+    - `sof-eeg-band-summary-dataset-0.3.0.rc2.csv`
+    - `sof-eeg-spectral-summary-dataset-0.3.0.rc2.csv`
+    - `sof-psg-visit-8-dataset-0.3.0.rc2.csv`
 
 ## 0.2.0 (February 13, 2015)
 
