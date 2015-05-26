@@ -1,7 +1,7 @@
 {
   "id": "v4hrtdtx",
   "display_name": "Are you currently being treated for this condition by a doctor?",
-  "description": "",
+  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "choices",
   "domain": "noyesmin"
 }

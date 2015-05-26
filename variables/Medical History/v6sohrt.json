@@ -1,7 +1,7 @@
 {
   "id": "v6sohrt",
   "display_name": "Has a doctor or other health care provider ever told you that you have other heart disease?",
-  "description": "",
+  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "choices",
   "domain": "noyesmin"
 }

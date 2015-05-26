@@ -1,7 +1,7 @@
 {
   "id": "v1hyten",
   "display_name": "Hypertension",
-  "description": "",
-  "type": "numeric",
-  "units": ""
+  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
+  "type": "choices",
+  "domain": "noyes01"
 }

@@ -1,7 +1,7 @@
 {
   "id": "v4wsthip",
   "display_name": "Waist to hip ratio",
-  "description": "",
+  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "numeric",
   "units": "centimeters"
 }

@@ -1,7 +1,7 @@
 {
   "id": "v1lbppls",
   "display_name": "Pulse lying down",
-  "description": "",
+  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "numeric",
   "units": "beats per minute"
 }
