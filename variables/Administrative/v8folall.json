@@ -3,6 +3,6 @@
   "display_name": "Overall follow-up time since visit 8",
   "description": "",
   "type": "numeric",
-  "units": "",
+  "units": "days",
   "calculations": "Follow-up time (in days) = last contact date - visit date"
 }
