@@ -1,7 +1,7 @@
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 options nofmterr fmtsearch=(sof);
-%let version = 0.3.0.rc2;
+%let version = 0.3.0.rc3;
 *create combined race datasets;
 
 data v9aavital;
@@ -201,14 +201,14 @@ data sof_all_wo_nmiss;
 
   *only keep subjects that had a V8 PSG;
   if stdydt > .;
-  
+
   if v9sitdia <= 10 then v9sitdia = .;
   if v9sitsys <= 10 then v9sitsys = .;
   if v1lidias <= 10 then v1lidias = .;
   if v1stddia <= 10 then v1stddia = .;
   if v4hipg <= 10 then v4hipg = .;
   if v4wais <= 10 then v4wais = .;
-  if v4wsthip <= 10 then v4wsthip = .; 
+  if v4wsthip <= 10 then v4wsthip = .;
   if v8bmi <= 10 then v8bmi = .;
   if v8hght <= 10 then v8hght = .;
   if v8wght <= 10 then v8wght = .;
