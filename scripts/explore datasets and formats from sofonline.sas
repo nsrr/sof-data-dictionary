@@ -201,6 +201,17 @@ data sof_all_wo_nmiss;
 
   *only keep subjects that had a V8 PSG;
   if stdydt > .;
+  
+  if v9sitdia <= 10 then v9sitdia = .;
+  if v9sitsys <= 10 then v9sitsys = .;
+  if v1lidias <= 10 then v1lidias = .;
+  if v1stddia <= 10 then v1stddia = .;
+  if v4hipg <= 10 then v4hipg = .;
+  if v4wais <= 10 then v4wais = .;
+  if v4wsthip <= 10 then v4wsthip = .; 
+  if v8bmi <= 10 then v8bmi = .;
+  if v8hght <= 10 then v8hght = .;
+  if v8wght <= 10 then v8wght = .;
 
   drop scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes pdb5slp prdb5slp nordb2 nordb3 nodb4slp nordb4 nodb5slp nordb5 nordball maxdbslp avgdbslp nobrslp nobrap nobrc nobro nobrh notca notcc notco notch minmaxhrou chinrdur quchinr;
 
