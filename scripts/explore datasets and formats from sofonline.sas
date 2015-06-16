@@ -4,6 +4,25 @@ options nofmterr fmtsearch=(sof);
 %let version = 0.3.0.rc3;
 *create combined race datasets;
 
+proc import datafile= "\\rfa01\bwh-sleepepi-sof\data\SAS\sasdata\sof_sao2_hand_edited.csv" out=sa02 dbms=csv replace; getnames=no;
+quit;
+
+data sa02;
+	set sa02;
+	if var1="PPTID" then delete;  
+
+	rename var1=pptid;
+	rename var2=StdyDt;
+	rename var3=ScorID;
+	rename var4=CDLabel;
+	rename var5=SlpTime;
+	rename var6=RDI;
+	rename var7=ndes2ph;
+	rename var8=ndes3ph;
+	rename var9=ndes4ph;
+	rename var10=ndes5ph;
+run;
+
 data v9aavital;
 	set sof.v9aavital;
 
