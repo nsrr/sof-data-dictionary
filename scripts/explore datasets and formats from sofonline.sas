@@ -1,26 +1,32 @@
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
+libname sao2 "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\to-deidentify";
 options nofmterr fmtsearch=(sof);
 %let version = 0.3.0.rc3;
 *create combined race datasets;
 
-proc import datafile= "\\rfa01\bwh-sleepepi-sof\data\SAS\sasdata\sof_sao2_hand_edited.csv" out=sa02 dbms=csv replace; getnames=no;
-quit;
+data sao2;
+  set sao2.sof_sao2_returned;
 
-data sa02;
-	set sa02;
-	if var1="PPTID" then delete;  
+  rename pdrid = id;
 
-	rename var1=pptid;
-	rename var2=StdyDt;
-	rename var3=ScorID;
-	rename var4=CDLabel;
-	rename var5=SlpTime;
-	rename var6=RDI;
-	rename var7=ndes2ph;
-	rename var8=ndes3ph;
-	rename var9=ndes4ph;
-	rename var10=ndes5ph;
+  rdix = input(rdi,8.);
+  ndes2phx = input(ndes2ph,8.);
+  ndes3phx = input(ndes3ph,8.);
+  ndes4phx = input(ndes4ph,8.);
+  ndes5phx = input(ndes5ph,8.);
+
+  drop stdydt--ndes5ph ;
+run;
+
+data sao2;
+  set sao2;
+
+  rename rdix = rdi;
+  rename ndes2phx = ndes2ph;
+  rename ndes3phx = ndes3ph;
+  rename ndes4phx = ndes4ph;
+  rename ndes5phx = ndes5ph;
 run;
 
 data v9aavital;
@@ -191,9 +197,13 @@ data cc;
 	if V8FOLALL ne .N;
 run;
 
+proc sort data=sao2;
+  by id;
+run;
+
 data sof_all_wo_nmiss;
   length id obf_pptid 8.;
-  merge cc aa obf.obfid;
+  merge cc aa sao2 obf.obfid;
 	by id;
 
 	visit = 8;
