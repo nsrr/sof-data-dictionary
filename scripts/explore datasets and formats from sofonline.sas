@@ -2,7 +2,7 @@ libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 libname sao2 "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\to-deidentify";
 options nofmterr fmtsearch=(sof);
-%let version = 0.3.0.rc3;
+%let version = 0.3.0;
 *create combined race datasets;
 
 data sao2;
