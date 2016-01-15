@@ -1,5 +1,7 @@
 ## 0.3.1
 
+- Fixed domains for `v1hyten` and `v1diabcl`
+
 - **Gem Changes**
   - Updated to ruby 2.3.0
   - Updated to spout 0.11.0.rc

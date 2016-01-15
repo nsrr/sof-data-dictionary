@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "None",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes, With Insulin",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, No Insulin",
+    "description": ""
+  }
+]
