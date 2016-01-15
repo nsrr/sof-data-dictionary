@@ -1,6 +1,8 @@
 ## 0.3.1
 
-- Backporting updates to be compatible with Spout 0.11.0.beta1
+- **Gem Changes**
+  - Updated to ruby 2.3.0
+  - Updated to spout 0.11.0.rc
 
 ## 0.3.0 (July 10, 2015)
 
