@@ -1,5 +1,7 @@
 ## 0.3.2
 
+- Changed variable type for `pdrid`
+
 ## 0.3.1 (January 19, 2016)
 
 - Fixed domains for `v1hyten` and `v1diabcl`
