@@ -1,8 +1,8 @@
 {
   "id": "v8age",
-  "display_name": "Age",
-  "description": "",
+  "display_name": "Age of participant",
+  "description": "Participant ages greater than 89 have been recoded into 90 for de-identification purposes.",
   "type": "numeric",
   "units": "years",
-  "calculations": "Age = Birth date - Current visit date"
+  "calculations": ""
 }

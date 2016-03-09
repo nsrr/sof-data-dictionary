@@ -1,10 +1,12 @@
+
+*set SOF libraries and options;
 libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
 libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
 libname sao2 "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\to-deidentify";
 options nofmterr fmtsearch=(sof);
-%let version = 0.3.0;
-*create combined race datasets;
+%let version = 0.4.0.pre;
 
+*create combined race datasets;
 data sao2;
   set sao2.sof_sao2_returned;
 
@@ -213,6 +215,10 @@ data sof_all_wo_nmiss;
   *create categorical age variable;
   if 75 =< v8age =< 84 then age_category = 1;
   else if 85 =< v8age then age_category = 2;
+
+  *recode missing ages and high ages;
+  if v8age > 89 then v8age = 90;
+  else if v8age < 0 then v8age = .;
 
 	attrib _all_ label="";
   format _all_;
