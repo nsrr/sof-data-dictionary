@@ -1,6 +1,7 @@
 ## 0.4.0
 
 - Changed variable type for `pdrid`
+- Update `age_category` variable with less categories
 
 ## 0.3.1 (January 19, 2016)
 
