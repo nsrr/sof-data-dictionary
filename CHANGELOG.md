@@ -3,6 +3,7 @@
 - Changed variable type for `pdrid`
 - Update `age_category` variable with less categories
 - Recoded age values greater than 89
+- Removed `sex` variable (kept `gender`)
 - **Gem Changes**
   - Updated to spout 0.11.1
 

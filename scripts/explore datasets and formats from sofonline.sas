@@ -210,7 +210,7 @@ data sof_all_wo_nmiss;
 
 	visit = 8;
 
-  sex = 1;
+  gender = 1;
 
   *create categorical age variable;
   if 75 =< v8age =< 84 then age_category = 1;
