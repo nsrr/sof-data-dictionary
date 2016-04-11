@@ -5,6 +5,11 @@
 - Recoded age values greater than 89
 - Removed `sex` variable (kept `gender`)
 - Add ICSD3 equivalent AHI variables, e.g. `ahi_a0h3`
+- The CSV datasets generated from the SAS export is located here:
+  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.4.0.rc\`
+    - `sof-visit-8-dataset-0.4.0.rc.csv`
+    - `sof-visit-8-eeg-band-summary-dataset-0.4.0.rc.csv`
+    - `sof-visit-8-eeg-spectral-summary-dataset-0.4.0.rc.csv`
 - **Gem Changes**
   - Updated to spout 0.11.1
 
