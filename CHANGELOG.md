@@ -4,6 +4,7 @@
 - Update `age_category` variable with less categories
 - Recoded age values greater than 89
 - Removed `sex` variable (kept `gender`)
+- Add ICSD3 equivalent AHI variables, e.g. `ahi_a0h3`
 - **Gem Changes**
   - Updated to spout 0.11.1
 
