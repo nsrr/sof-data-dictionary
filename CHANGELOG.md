@@ -1,4 +1,4 @@
-## 0.4.0
+## 0.4.0 (April 19, 2016)
 
 - Changed variable type for `pdrid`
 - Update `age_category` variable with less categories
@@ -6,10 +6,10 @@
 - Removed `sex` variable (kept `gender`)
 - Add ICSD3 equivalent AHI variables, e.g. `ahi_a0h3`
 - The CSV datasets generated from the SAS export is located here:
-  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.4.0.rc\`
-    - `sof-visit-8-dataset-0.4.0.rc.csv`
-    - `sof-visit-8-eeg-band-summary-dataset-0.4.0.rc.csv`
-    - `sof-visit-8-eeg-spectral-summary-dataset-0.4.0.rc.csv`
+  - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.4.0\`
+    - `sof-visit-8-dataset-0.4.0.csv`
+    - `sof-visit-8-eeg-band-summary-dataset-0.4.0.csv`
+    - `sof-visit-8-eeg-spectral-summary-dataset-0.4.0.csv`
 - **Gem Changes**
   - Updated to spout 0.11.1
 
