@@ -1,3 +1,7 @@
+## 0.4.1
+- **Gem Changes**
+  - Updated to spout 0.12.1
+
 ## 0.4.0 (April 19, 2016)
 
 - Changed variable type for `pdrid`
