@@ -1,4 +1,5 @@
 ## 0.4.1
+- Minor updates to domains
 - **Gem Changes**
   - Updated to spout 0.12.1
 
