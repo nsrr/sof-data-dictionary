@@ -1,7 +1,11 @@
 {
   "id": "alpha_lognrem",
-  "display_name": "Log transformed alpha power density in NREM sleep",
+  "display_name": "Log transformed alpha power density in non-rapid eye movement sleep (Non-rapid eye movement sleep (NREM)) ",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "labels": [
+    "non-rem",
+    "non rem"
+  ]
 }

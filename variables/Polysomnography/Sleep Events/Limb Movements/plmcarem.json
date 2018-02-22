@@ -1,7 +1,0 @@
-{
-  "id": "plmcarem",
-  "display_name": "Number of PLM clusters with arousal (REM)",
-  "description": "Total PLM clusters with arousal  in REM sleep",
-  "type": "numeric",
-  "units": "periodic limb movements"
-}

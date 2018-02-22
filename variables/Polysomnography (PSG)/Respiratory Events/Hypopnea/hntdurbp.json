@@ -1,0 +1,13 @@
+{
+  "id": "hntdurbp",
+  "display_name": "Total hypopnea length (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "back",
+    "duration"
+  ]
+}

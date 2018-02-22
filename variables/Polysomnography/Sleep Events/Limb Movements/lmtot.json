@@ -1,7 +1,0 @@
-{
-  "id": "lmtot",
-  "display_name": "Number of limb movements",
-  "description": "Total limb movements",
-  "type": "numeric",
-  "units": "limb movements"
-}

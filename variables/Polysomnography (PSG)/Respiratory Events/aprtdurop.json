@@ -1,0 +1,19 @@
+{
+  "id": "aprtdurop",
+  "display_name": "Number of minutes of Apnea (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "duration",
+    "obstructive",
+    "central",
+    "oa",
+    "ca",
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright"
+  ]
+}

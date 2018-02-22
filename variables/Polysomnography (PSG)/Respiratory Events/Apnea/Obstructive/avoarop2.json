@@ -1,0 +1,15 @@
+{
+  "id": "avoarop2",
+  "display_name": "Average obstructive apnea length (Rapid eye movement sleep (REM), Non-supine, >=2% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "duration",
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright"
+  ]
+}

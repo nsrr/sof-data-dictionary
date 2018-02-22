@@ -1,7 +1,0 @@
-{
-  "id": "v9sitdia",
-  "display_name": "Diastolic blood pressure sitting down",
-  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
-  "type": "numeric",
-  "units": "beats per minute"
-}

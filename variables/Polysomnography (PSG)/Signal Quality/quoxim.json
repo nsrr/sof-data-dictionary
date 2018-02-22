@@ -1,0 +1,13 @@
+{
+  "id": "quoxim",
+  "display_name": "Quality of oximetry",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "sao2",
+    "Oxygen Saturation",
+    "spo2"
+  ],
+  "commonly_used": true
+}

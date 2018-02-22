@@ -1,0 +1,17 @@
+{
+  "id": "avoanoa2",
+  "display_name": "Average obstructive apnea length with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "duration",
+    "other",
+    "left",
+    "right",
+    "upright",
+    "prone"
+  ]
+}

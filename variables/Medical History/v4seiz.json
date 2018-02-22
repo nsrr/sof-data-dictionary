@@ -3,5 +3,8 @@
   "display_name": "Has a doctor ever told you that you have seizures (fits or convulsions)?",
   "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "choices",
-  "domain": "noyesmin"
+  "domain": "noyesmin",
+  "labels": [
+    "epilepsy"
+  ]
 }

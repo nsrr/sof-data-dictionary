@@ -1,7 +1,11 @@
 {
   "id": "slowosc_lognrem",
-  "display_name": "Log transformed slow oscillation power density in NREM sleep",
+  "display_name": "Log transformed slow oscillation power density in non-rapid eye movement sleep (NREM)",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units":"",
+  "labels": [
+    "non-rem",
+    "non rem"
+  ]
 }

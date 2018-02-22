@@ -1,0 +1,15 @@
+{
+  "id": "lowsaoslp",
+  "display_name": "Minimum Oxygen Saturation (SaO2) (sleep time)",
+  "description": "Lowest Oxygen Saturation (SaO2) during sleep",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "non rapid",
+    "rem",
+    "rapid eye movement"
+  ]
+}

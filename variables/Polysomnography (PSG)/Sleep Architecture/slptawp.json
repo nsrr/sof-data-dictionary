@@ -1,0 +1,16 @@
+{
+  "id": "slptawp",
+  "display_name": "Number of sleep to awake shifts",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid",
+    "rem",
+    "rapid eye movement"
+  ]
+}

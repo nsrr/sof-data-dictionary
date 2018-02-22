@@ -1,0 +1,17 @@
+{
+  "id": "slpprdp",
+  "display_name": "Sleep Time",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid",
+    "rem",
+    "rapid eye movement"
+  ],
+  "commonly_used": true
+}

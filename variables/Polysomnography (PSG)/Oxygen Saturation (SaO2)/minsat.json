@@ -1,0 +1,18 @@
+{
+  "id": "minsat",
+  "display_name": "Minimum Oxygen Saturation (SaO2) in sleep",
+  "description": "Lowest Oxygen Saturation (SaO2)% during sleep",
+  "type": "numeric",
+  "units": "percent (%)",
+  "calculation": "min(losao2r,losao2nr)",
+  "labels": [
+    "hypoxia",
+    "hypoxemia",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "non rapid",
+    "nrem"
+  ],
+  "commonly_used": true
+}

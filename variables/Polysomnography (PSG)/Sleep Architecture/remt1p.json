@@ -1,0 +1,14 @@
+{
+  "id": "remt1p",
+  "display_name": "Number of rapid eye movement sleep (REM) to stage 1 shifts during sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid"
+  ]
+}

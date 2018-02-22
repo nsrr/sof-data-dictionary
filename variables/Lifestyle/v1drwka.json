@@ -3,5 +3,11 @@
   "display_name": "Drinks per week adjusted for atypical drinking",
   "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "numeric",
-  "units": "drinks per week"
+  "units": "drinks per week",
+  "labels": [
+    "alcohol",
+    "liquor",
+    "beer",
+    "wine"
+  ]
 }

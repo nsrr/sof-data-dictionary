@@ -1,0 +1,17 @@
+{
+  "id": "longhyp",
+  "display_name": "Longest hypopnea,entire recording",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright",
+    "maximum",
+    "duration"
+  ],
+  "commonly_used": true
+}

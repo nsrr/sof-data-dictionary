@@ -1,0 +1,15 @@
+{
+  "id": "avghrahslp",
+  "display_name": "Average Heart Rate (HR) associated with Apnea and Hypopnea (Sleep time onset)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "obstructive",
+    "central",
+    "ca",
+    "oa"
+  ]
+}

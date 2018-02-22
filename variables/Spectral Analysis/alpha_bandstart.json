@@ -3,5 +3,5 @@
   "display_name": "Alpha band start",
   "description": "",
   "type": "numeric",
-  "units": "hertz"
+  "units": "hertz (hz)"
 }

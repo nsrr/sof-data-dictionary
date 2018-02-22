@@ -1,0 +1,7 @@
+{
+  "id": "v1sbppls",
+  "display_name": "Pulse standing",
+  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
+  "type": "numeric",
+  "units": "beats per minute (bpm)"
+}

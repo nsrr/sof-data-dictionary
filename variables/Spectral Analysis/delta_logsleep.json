@@ -3,5 +3,9 @@
   "display_name": "Log transformed delta power density in sleep",
   "description": "",
   "type": "numeric",
-  "units": ""
+  "units": "",
+  "labels": [
+    "non-rem",
+    "non rem"
+  ]
 }

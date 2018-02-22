@@ -1,0 +1,12 @@
+{
+  "id": "canba",
+  "display_name": "Number of central apnea with arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "back"
+  ]
+}

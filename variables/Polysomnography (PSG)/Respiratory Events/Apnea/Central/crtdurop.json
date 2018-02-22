@@ -1,0 +1,10 @@
+{
+  "id": "crtdurop",
+  "display_name": "Number of minutes of Central Apnea (Rapid eye movement sleep (REM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "back"
+  ]
+}

@@ -3,5 +3,8 @@
   "display_name": "Height",
   "description": "",
   "type": "numeric",
-  "units": "millimeters"
+  "units": "millimeters (mm)",
+  "labels": [
+    "harpenden stadiometer"
+  ]
 }

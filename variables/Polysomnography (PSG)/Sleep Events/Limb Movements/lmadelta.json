@@ -1,0 +1,20 @@
+{
+  "id": "lmadelta",
+  "display_name": "Total number of limb movements with arousal (delta sleep)",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "delta",
+    "slow wave",
+    "sws",
+    "deep",
+    "stage 3",
+    "4",
+    "plm"
+  ]
+}

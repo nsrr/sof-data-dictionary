@@ -1,0 +1,12 @@
+{
+  "id": "pctsa70h",
+  "display_name": "Percent of sleep time Oxygen Saturation (SaO2) is below 70%",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "hypoxia",
+    "hypoxemia",
+    "oximetry"
+  ]
+}

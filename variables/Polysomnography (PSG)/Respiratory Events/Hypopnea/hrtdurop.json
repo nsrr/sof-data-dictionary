@@ -1,0 +1,15 @@
+{
+  "id": "hrtdurop",
+  "display_name": "Total hypopnea length (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright",
+    "duration"
+  ]
+}

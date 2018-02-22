@@ -1,0 +1,14 @@
+{
+  "id": "avdroa",
+  "display_name": "Average oxygen desaturation with arousals (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "other",
+    "left",
+    "right",
+    "upright",
+    "prone"
+  ]
+}

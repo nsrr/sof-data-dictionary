@@ -1,0 +1,7 @@
+{
+  "id": "slplatp",
+  "display_name": "Polysomnography (PSG) Report: Sleep Latency",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

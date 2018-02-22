@@ -1,0 +1,7 @@
+{
+  "id": "avgrplm",
+  "display_name": "Number of Periodic Limb Movements (PLMs) per hour of rapid eye movement sleep (REM) ",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements per hour (h)"
+}

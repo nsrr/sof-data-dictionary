@@ -1,6 +1,6 @@
 {
   "id": "v9epervd",
-  "display_name": "Peripheral vascular disease (intermittent claudication or pain in your legs from a blockage of the arteries)?",
+  "display_name": "Peripheral vascular disease (PVD) (intermittent claudication or pain in your legs from a blockage of the arteries)?",
   "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "choices",
   "domain": "noyesmin"

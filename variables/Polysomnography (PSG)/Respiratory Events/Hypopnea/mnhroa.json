@@ -1,0 +1,16 @@
+{
+  "id": "mnhroa",
+  "display_name": "Minimum hypopnea length with arousals (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "shortest",
+    "duration",
+    "other",
+    "left",
+    "right",
+    "upright",
+    "prone"
+  ]
+}

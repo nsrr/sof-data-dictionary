@@ -1,8 +1,0 @@
-{
-  "id": "noplm",
-  "display_name": "Number of PLM during sleep",
-  "description": "Number of PLM during sleep",
-  "type": "numeric",
-  "units": "limb movements",
-  "commonly_used": true
-}

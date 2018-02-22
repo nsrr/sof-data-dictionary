@@ -3,5 +3,8 @@
   "display_name": "Waist to hip ratio",
   "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "numeric",
-  "units": "centimeters"
+  "units": "centimeters (cm)",
+  "labels": [
+    "steel tape"
+  ]
 }

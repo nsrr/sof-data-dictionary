@@ -1,7 +1,0 @@
-{
-  "id": "lowsaoslp",
-  "display_name": "Minimum oxygen saturation (sleep time)",
-  "description": "Lowest oxygen saturation during sleep",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

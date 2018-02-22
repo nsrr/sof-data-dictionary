@@ -1,0 +1,7 @@
+{
+  "id": "otherou",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Other outlier",
+  "description": "Scorer observed other outlying values.",
+  "type": "choices",
+  "domain": "yesnon"
+}

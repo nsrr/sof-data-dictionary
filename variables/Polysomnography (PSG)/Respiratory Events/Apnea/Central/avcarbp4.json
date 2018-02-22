@@ -1,0 +1,11 @@
+{
+  "id": "avcarbp4",
+  "display_name": "Average central apnea length (Rapid eye movement sleep (REM), Supine, >=4% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "back",
+    "duration"
+  ]
+}

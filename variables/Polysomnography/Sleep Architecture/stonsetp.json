@@ -1,9 +1,0 @@
-{
-  "id": "stonsetp",
-  "display_name": "Sleep onset time",
-  "description": "",
-  "type": "time",
-  "labels": [
-    "stonsetp"
-  ]
-}

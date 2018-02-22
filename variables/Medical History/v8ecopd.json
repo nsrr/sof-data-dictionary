@@ -1,6 +1,6 @@
 {
   "id": "v8ecopd",
-  "display_name": "Has a doctor or other health care provider ever told you that you have chronic obstructive lung disease, chronic bronchitis, asthma, emphysema, COPD?",
+  "display_name": "Has a doctor or other health care provider ever told you that you have chronic obstructive lung disease (COPD), chronic bronchitis, asthma, emphysema?",
   "description": "",
   "type": "choices",
   "domain": "noyes"

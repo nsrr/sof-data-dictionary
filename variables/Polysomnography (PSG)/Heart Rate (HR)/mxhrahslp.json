@@ -1,0 +1,12 @@
+{
+  "id": "mxhrahslp",
+  "display_name": "Maximum Heart Rate (HR) associated with apnea and hypopnea (sleep time onset)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "respiratory event"
+  ]
+}

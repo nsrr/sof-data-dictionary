@@ -1,7 +1,0 @@
-{
-  "id": "lmastg2",
-  "display_name": "Number of limb movements with arousal (stage 2 sleep)",
-  "description": "Total limb movements with arousal stage 2 sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

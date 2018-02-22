@@ -1,0 +1,19 @@
+{
+  "id": "avgplm",
+  "display_name": "Number of Periodic Limb Movements (PLMs) per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements per hour (h)",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "delta",
+    "slow wave",
+    "sws",
+    "deep",
+    "rem",
+    "rapid eye movement"
+  ]
+}

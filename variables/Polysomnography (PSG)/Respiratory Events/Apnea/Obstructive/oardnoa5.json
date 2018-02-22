@@ -1,0 +1,16 @@
+{
+  "id": "oardnoa5",
+  "display_name": "Obstructive apnea per hour with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour (h)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright"
+  ]
+}

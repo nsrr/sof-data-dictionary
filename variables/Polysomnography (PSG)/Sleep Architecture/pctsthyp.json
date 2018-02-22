@@ -1,0 +1,16 @@
+{
+  "id": "pctsthyp",
+  "display_name": "Percent of sleep time in Hypopnea",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid",
+    "rem",
+    "rapid eye movement"
+  ]
+}

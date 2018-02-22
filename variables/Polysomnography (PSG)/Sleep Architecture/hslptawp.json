@@ -1,0 +1,15 @@
+{
+  "id": "hslptawp",
+  "display_name": "Number of sleep to awake shifts per hour",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement ",
+    "rem",
+    "rapid eye movement"
+  ]
+}

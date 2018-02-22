@@ -1,7 +1,0 @@
-{
-  "id": "cntdurop",
-  "display_name": "Number of minutes of Central Apnea (NREM Other)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

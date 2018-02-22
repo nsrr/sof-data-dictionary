@@ -1,0 +1,15 @@
+{
+  "id": "longap",
+  "display_name": "Longest apnea",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "obstructive",
+    "central",
+    "oa",
+    "ca",
+    "duration"
+  ],
+  "commonly_used": true
+}

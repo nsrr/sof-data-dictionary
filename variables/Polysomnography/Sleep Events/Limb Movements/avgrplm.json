@@ -1,7 +1,0 @@
-{
-  "id": "avgrplm",
-  "display_name": "Number of PLMs per hour of REM sleep",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements per hour"
-}

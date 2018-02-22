@@ -1,0 +1,10 @@
+{
+  "id": "hmnbrbh",
+  "display_name": "Minimum Heart Rate (HR) (Rapid eye movement sleep (REM), Supine, >=3% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "back"
+  ]
+}

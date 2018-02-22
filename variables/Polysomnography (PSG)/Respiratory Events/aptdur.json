@@ -1,0 +1,14 @@
+{
+  "id": "aptdur",
+  "display_name": "Number of minutes of Apnea",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "duration",
+    "obstructive",
+    "central",
+    "oa",
+    "ca"
+  ]
+}

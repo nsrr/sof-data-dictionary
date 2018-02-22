@@ -1,0 +1,15 @@
+{
+  "id": "lmstg2",
+  "display_name": "Total number of limb movements (stage 2 sleep)",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid",
+    "plm"
+  ]
+}

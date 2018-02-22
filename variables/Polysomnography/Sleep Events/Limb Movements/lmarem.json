@@ -1,7 +1,0 @@
-{
-  "id": "lmarem",
-  "display_name": "Number of limb movements with arousal (REM)",
-  "description": "Total limb movements with arousal  in REM sleep",
-  "type": "numeric",
-  "units": "limb movements"
-}

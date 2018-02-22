@@ -1,0 +1,13 @@
+{
+  "id": "ontdurbp",
+  "display_name": "Total obstructive apnea length (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "back",
+    "oa"
+  ]
+}

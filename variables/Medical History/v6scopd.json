@@ -1,6 +1,6 @@
 {
   "id": "v6scopd",
-  "display_name": "Has a doctor or other health care provider ever told you that you have chronic obstructive lung disease, chronic bronchitis, asthma, emphysema, COPD?",
+  "display_name": "Has a doctor or other health care provider ever told you that you have chronic obstructive lung disease (COPD), chronic bronchitis, asthma, emphysema?",
   "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "choices",
   "domain": "noyesmin"

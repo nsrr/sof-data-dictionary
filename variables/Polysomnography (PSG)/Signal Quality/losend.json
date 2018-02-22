@@ -1,0 +1,7 @@
+{
+  "id": "losend",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Data Lost at end of study due to unscorable signals.",
+  "description": "",
+  "type": "choices",
+  "domain": "yesnon"
+}

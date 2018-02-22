@@ -1,7 +1,0 @@
-{
-  "id": "apntdur",
-  "display_name": "Number of minutes of Apnea (NREM)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

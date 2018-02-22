@@ -1,7 +1,0 @@
-{
-  "id": "crtdurop",
-  "display_name": "Number of minutes of Central Apnea (REM Back)",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

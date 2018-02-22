@@ -3,5 +3,12 @@
   "display_name": "Slow sigma power density in sleep",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz"
+  "units": "microvolts squared per hertz (uv2/hz)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "non rapid",
+    "nrem"
+  ]
 }

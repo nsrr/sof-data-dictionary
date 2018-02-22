@@ -1,7 +1,0 @@
-{
-  "id": "plmcnrem",
-  "display_name": "Number of PLM clusters (NREM)",
-  "description": "Total PLM clusters in NREM sleep",
-  "type": "numeric",
-  "units": "periodic limb movements"
-}

@@ -1,0 +1,10 @@
+{
+  "id": "chestdur",
+  "display_name": "Hours of usable thoracic signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "chest"
+  ]
+}

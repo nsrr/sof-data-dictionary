@@ -1,0 +1,18 @@
+{
+  "id": "slptime",
+  "display_name": "Total Sleep Time",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid",
+    "rem",
+    "rapid eye movement",
+    "tst"
+  ],
+  "commonly_used": true
+}

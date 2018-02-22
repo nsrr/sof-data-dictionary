@@ -9,7 +9,13 @@ class DictionaryTest < Minitest::Test
   include Spout::Helpers::Iterators
 
   # Example 1: Create custom tests to show that `integer` and `numeric` variables have a valid unit type
-  VALID_UNITS = ["drinks per week", "hertz", "centimeters", "average beats per minute", "events per hour", "snores", "arousals", "oxygen desaturation events", "decibels", "percentage of oxygen saturation", "limb movements per hour", "days from index date", "obstructive apnea events", "stage shifts", "central apnea events", "hypopnea events", "seconds from date of randomization",  "limb movements", "leg movements",  "nights",  "intervals", "counts per minute", "desaturations", "leg movements per hour", "miles", "kilograms", "inches", "times", "millimeters of mercury", "minutes", "percent", "beats per minute", "meters", "meters per second", "drinks per day", "cigarettes", "kilograms per meter squared", "drinks", "seconds", "hours", "years", "days", "kilocalorie per week", "blocks per day", "gallons per day", "cups", "cans", "", "grams", "grams per centimeters squared", "centimeters squared", "millimeters", "milligrams per day", "falls", "fractures", "microvolts squared per hertz", "periodic limb movements"] # Add your own valid units to this array
+  VALID_UNITS = ["drinks per week", "hertz (hz)", "centimeters (cm)", "beats per minute (bpm)", "events per hour (h)", "snores", "arousals",
+  "decibels", "percentage of oxygen saturation", "limb movements per hour (h)", "days from index date", "obstructive apnea events", "stage shifts",
+  "seconds from date of randomization",  "limb movements", "leg movements",  "nights",  "intervals", "counts per minute", "desaturations",
+  "leg movements per hour (h)", "miles", "kilograms (kg)", "inches", "times", "minutes (min)", "percent (%)", "meters (m)", "meters per second (m/s)",
+  "drinks per day", "cigarettes", "kilograms per meter squared (kg/m2)", "drinks", "seconds (s)", "hours (h)", "years", "days", "kilocalorie per week", "blocks per day",
+  "gallons per day", "cups", "cans", "", "grams (g)", "grams per centimeters squared (g/cm2)", "centimeters squared (cm2)", "millimeters (mm)", "milligrams per day", "falls",
+  "fractures", "microvolts squared per hertz (uv2/hz)", "periodic limb movements (plms)", "millimeters of mercury (mmHg)", "events", ""] # Add your own valid units to this array
   @variables.select{|v| v.type == 'numeric' or v.type == 'integer'}.each do |variable|
     define_method("test_units: "+variable.path) do
       message = "\"#{variable.units}\"".colorize( :red ) + " invalid units.\n" +

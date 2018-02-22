@@ -1,0 +1,12 @@
+{
+  "id": "oximdur",
+  "display_name": "Hours of usable oximetry",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "Oxygen Saturation",
+    "sao2"
+  ],
+  "commonly_used": true
+}

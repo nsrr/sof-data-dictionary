@@ -1,0 +1,12 @@
+{
+  "id": "queeg2",
+  "display_name": "EEG signal quality",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "electroencephalography",
+    "electroencephalogram",
+    "duration"
+  ]
+}

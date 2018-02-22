@@ -1,0 +1,11 @@
+{
+  "id": "qucan",
+  "display_name": "Quality of cannula",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "nasal pressure",
+    "pressure transducer"
+  ]
+}

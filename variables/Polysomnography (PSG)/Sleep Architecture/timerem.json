@@ -1,0 +1,8 @@
+{
+  "id": "timerem",
+  "display_name": "Time in rapid eye movement sleep (REM), rounded to the nearest minute",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "calculation": "minremp"
+}

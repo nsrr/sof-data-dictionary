@@ -1,7 +1,0 @@
-{
-  "id": "lowsaor",
-  "display_name": "Minimum oxygen saturation (REM)",
-  "description": "Lowest oxygen saturation during REM sleep",
-  "type": "numeric",
-  "units": "percentage of oxygen saturation"
-}

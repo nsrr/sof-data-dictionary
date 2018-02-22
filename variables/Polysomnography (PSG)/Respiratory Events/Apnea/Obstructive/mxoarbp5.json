@@ -1,0 +1,12 @@
+{
+  "id": "mxoarbp5",
+  "display_name": "Maximum obstructive apnea length (Rapid eye movement sleep (REM), Supine, >=5% oxygen desaturation)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "back",
+    "longest",
+    "duration"
+  ]
+}

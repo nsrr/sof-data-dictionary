@@ -1,0 +1,7 @@
+{
+  "id": "medalert",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Medical Alert",
+  "description": "Medical Alert noted during scoring.",
+  "type": "choices",
+  "domain": "noyes01"
+}

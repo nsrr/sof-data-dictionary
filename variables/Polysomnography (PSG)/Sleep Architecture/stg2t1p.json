@@ -1,0 +1,14 @@
+{
+  "id": "stg2t1p",
+  "display_name": "Number of stage 2 to stage 1 shifts during sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid"
+  ]
+}

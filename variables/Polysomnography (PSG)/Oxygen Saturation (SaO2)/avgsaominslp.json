@@ -1,0 +1,15 @@
+{
+  "id": "avgsaominslp",
+  "display_name": "Average Oxygen Saturation (SaO2) minimum (Sleep time)",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "non rapid",
+    "rem",
+    "rapid eye movement"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "legldur",
+  "display_name": "Hours of usable LegL (left leg)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "electromyogram",
+    "electromyography",
+    "duration"
+  ]
+}

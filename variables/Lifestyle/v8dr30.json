@@ -3,5 +3,8 @@
   "display_name": "During the last 30 days, have you had at least one drink of any kind of alcoholic beverage? (Including beer, wine, or mixed drinks such as martinis or manhattans.)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "liquor"
+  ]
 }

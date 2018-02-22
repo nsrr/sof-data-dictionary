@@ -1,0 +1,12 @@
+{
+  "id": "ecgou",
+  "display_name": "Bad ECG or computer did not pickup correctly",
+  "description": "",
+  "type": "numeric",
+  "units": "",
+  "labels": [
+    "ekg",
+    "electrocardiogram",
+    "electrocardiography"
+  ]
+}

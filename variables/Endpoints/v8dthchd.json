@@ -1,6 +1,6 @@
 {
   "id": "v8dthchd",
-  "display_name": "Ischemic heart disease death",
+  "display_name": "Ischemic heart disease (IHD) death",
   "description": "",
   "type": "choices",
   "domain": "endpoints"

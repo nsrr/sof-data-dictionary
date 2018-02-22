@@ -1,0 +1,15 @@
+{
+  "id": "timest1",
+  "display_name": "Time in Stage 1, rounded to the nearest minute",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "calculation": "minstg1p",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid"
+  ]
+}

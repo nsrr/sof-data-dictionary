@@ -1,0 +1,12 @@
+{
+  "id": "quchin",
+  "display_name": "Quality of chin",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "electromyogram",
+    "electromyography",
+    "duration"
+  ]
+}

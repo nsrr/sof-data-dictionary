@@ -1,0 +1,18 @@
+{
+  "id": "lmdelta",
+  "display_name": "Total number of limb movements (delta sleep)",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "delta",
+    "slow wave",
+    "sws",
+    "deep",
+    "plm"
+  ]
+}

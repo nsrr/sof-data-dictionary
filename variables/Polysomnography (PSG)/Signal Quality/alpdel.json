@@ -1,0 +1,7 @@
+{
+  "id": "alpdel",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Alpha Intrusion ",
+  "description": "Scorer observed alpha intrusion on sleep during study.",
+  "type": "choices",
+  "domain": "yesnon"
+}

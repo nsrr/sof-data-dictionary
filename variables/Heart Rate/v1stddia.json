@@ -1,7 +1,0 @@
-{
-  "id": "v1stddia",
-  "display_name": "Diastolic blood pressure standing up",
-  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
-  "type": "numeric",
-  "units": "millimeters of mercury"
-}

@@ -1,0 +1,11 @@
+{
+  "id": "avoarba",
+  "display_name": "Average obstructive apnea length with arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "back",
+    "duration"
+  ]
+}

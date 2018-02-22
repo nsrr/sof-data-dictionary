@@ -1,0 +1,14 @@
+{
+  "id": "ahrtdurbp",
+  "display_name": "Number of minutes of Apnea and Hypopnea (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "duration",
+    "obstructive",
+    "central",
+    "oa",
+    "ca"
+  ]
+}

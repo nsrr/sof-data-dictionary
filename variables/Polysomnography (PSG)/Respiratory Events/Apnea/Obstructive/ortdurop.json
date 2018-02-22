@@ -1,0 +1,15 @@
+{
+  "id": "ortdurop",
+  "display_name": "Total obstructive apnea length (Rapid eye movement sleep (REM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "other",
+    "left",
+    "right",
+    "upright",
+    "prone",
+    "oa"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "avoanba2",
+  "display_name": "Average obstructive apnea length with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "back",
+    "duration"
+  ]
+}

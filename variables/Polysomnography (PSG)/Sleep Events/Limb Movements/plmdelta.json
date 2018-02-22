@@ -1,0 +1,17 @@
+{
+  "id": "plmdelta",
+  "display_name": "Total number of Periodic Limb Movements (PLMs) (delta sleep)",
+  "description": "",
+  "type": "numeric",
+  "units": "periodic limb movements (plms)",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "delta",
+    "slow wave",
+    "sws",
+    "deep"
+  ]
+}

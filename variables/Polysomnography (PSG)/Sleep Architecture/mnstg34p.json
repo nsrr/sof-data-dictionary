@@ -1,0 +1,17 @@
+{
+  "id": "mnstg34p",
+  "display_name": "Time in stage 3-4 sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "delta",
+    "slow wave",
+    "sws",
+    "deep"
+  ]
+}

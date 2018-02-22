@@ -1,0 +1,11 @@
+{
+  "id": "quchest",
+  "display_name": "Quality of chest effort",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "thorax",
+    "thoracic"
+  ]
+}

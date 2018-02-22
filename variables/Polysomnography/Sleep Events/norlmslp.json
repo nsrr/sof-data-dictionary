@@ -1,7 +1,0 @@
-{
-  "id": "norlmslp",
-  "display_name": "Number of right limb movements per hour of sleep",
-  "description": "Number of right limb movements per hour of sleep",
-  "type": "numeric",
-  "units": "limb movements per hour"
-}

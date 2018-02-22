@@ -1,0 +1,19 @@
+{
+  "id": "nremepop",
+  "display_name": "Sleep Time (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "duration",
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright"
+  ]
+}

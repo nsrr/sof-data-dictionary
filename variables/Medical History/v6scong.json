@@ -1,6 +1,6 @@
 {
   "id": "v6scong",
-  "display_name": "Has a doctor or other health care provider ever told you that you have congestive heart failure, enlarged heart?",
+  "display_name": "Has a doctor or other health care provider ever told you that you have congestive heart failure (CHF), enlarged heart?",
   "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "choices",
   "domain": "noyesmin"
