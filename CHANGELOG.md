@@ -2,10 +2,10 @@
 - Minor updates to domains
 - Update variable display names and units
 - The CSV datasets generated from the SAS export is located here:
- - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.4.1.beta1\`
-    - `sof-visit-8-dataset-0.4.1.beta1.csv`
-    - `sof-visit-8-eeg-band-summary-dataset-0.4.1.beta1.csv`
-    - `sof-visit-8-eeg-spectral-summary-dataset-0.4.1.beta1.csv`
+ - `\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\0.4.1\`
+    - `sof-visit-8-dataset-0.4.1.csv`
+    - `sof-visit-8-eeg-band-summary-dataset-0.4.1.csv`
+    - `sof-visit-8-eeg-spectral-summary-dataset-0.4.1.csv`
 - **Gem Changes**
   - Updated to spout 0.12.1
 
