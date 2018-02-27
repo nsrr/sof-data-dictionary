@@ -1,6 +1,8 @@
 ## 0.4.2
 
 - Add abbreviations to folder names
+- Remove duplicate domain
+- Update many variable unit abbreviations
 
 ## 0.4.1 (February 26, 2018)
 
