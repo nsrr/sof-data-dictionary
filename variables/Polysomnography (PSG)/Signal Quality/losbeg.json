@@ -1,0 +1,7 @@
+{
+  "id": "losbeg",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Data Lost at beginning of study due to unscorable signals.",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna"
+}

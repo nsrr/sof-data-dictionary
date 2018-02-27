@@ -1,0 +1,10 @@
+{
+  "id": "oardrba",
+  "display_name": "Obstructive apnea per hour with arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "back"
+  ]
+}

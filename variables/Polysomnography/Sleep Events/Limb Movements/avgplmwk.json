@@ -1,7 +1,0 @@
-{
-  "id": "avgplmwk",
-  "display_name": "Number of Periodic Limb Movements (PLMs) per hour of awake",
-  "description": "",
-  "type": "numeric",
-  "units": "limb movements per hour (h)"
-}

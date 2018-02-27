@@ -1,0 +1,8 @@
+{
+  "id": "cai4pa",
+  "display_name": "Central Apnea Index (CAI) >=4% oxygen desaturation or arousal",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "calculation": "60 * ( carba4 + caroa4 + canba4 + canoa4 ) / slpprdp"
+}

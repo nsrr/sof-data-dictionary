@@ -1,0 +1,15 @@
+{
+  "id": "maxresou",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Long respiratory events verified",
+  "description": "If a respiratory event greater than 150 seconds (s) in duration was observed, scorer has verified that this value is real.",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "apnea",
+    "hypopnea",
+    "obstructive",
+    "central",
+    "oa",
+    "ca"
+  ]
+}

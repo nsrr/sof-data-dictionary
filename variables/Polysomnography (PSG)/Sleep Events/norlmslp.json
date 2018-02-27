@@ -1,0 +1,19 @@
+{
+  "id": "norlmslp",
+  "display_name": "Number of right limb movements per hour of sleep",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements per hour",
+  "labels": [
+    "nrem",
+    "non-rem",
+    "non rem",
+    "non-rapid eye movement",
+    "delta",
+    "slow wave",
+    "sws",
+    "deep",
+    "rem",
+    "rapid eye movement"
+  ]
+}

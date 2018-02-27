@@ -3,7 +3,7 @@
   "display_name": "Beta power density in sleep",
   "description": "",
   "type": "numeric",
-  "units": "microvolts squared per hertz (uv2/hz)",
+  "units": "microvolts squared per hertz (uV2/Hz)",
   "labels": [
     "non-rem",
     "non rem"

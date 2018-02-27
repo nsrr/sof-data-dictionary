@@ -1,0 +1,7 @@
+{
+  "id": "aropr",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Problems with arousals",
+  "description": "Scorer noted that there was a problem scoring arousals.",
+  "type": "choices",
+  "domain": "noyesna"
+}

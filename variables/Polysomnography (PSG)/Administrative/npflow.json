@@ -1,0 +1,10 @@
+{
+  "id": "npflow",
+  "display_name": "Flow limitation",
+  "description": "1=flow limitation observed",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "upper airway resistance"
+  ]
+}

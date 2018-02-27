@@ -1,0 +1,7 @@
+{
+  "id": "losdur",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Data Lost during study",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna"
+}

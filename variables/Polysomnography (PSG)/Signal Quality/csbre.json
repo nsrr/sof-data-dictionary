@@ -1,0 +1,11 @@
+{
+  "id": "csbre",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Periodic breathing (10 min)",
+  "description": "Scorer observed periodic breathing for a period of at least 10 minutes during study.",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "cheyne stokes",
+    "csr"
+  ]
+}

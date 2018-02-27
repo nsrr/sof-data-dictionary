@@ -1,0 +1,7 @@
+{
+  "id": "oxyund70",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Medical Alert - Oxygen Saturation (SaO2) < 70",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna"
+}

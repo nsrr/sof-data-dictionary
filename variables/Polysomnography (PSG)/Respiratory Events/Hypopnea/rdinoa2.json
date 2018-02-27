@@ -1,0 +1,16 @@
+{
+  "id": "rdinoa2",
+  "display_name": "Hypopnea per hour with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "other",
+    "left",
+    "right",
+    "prone",
+    "upright"
+  ]
+}

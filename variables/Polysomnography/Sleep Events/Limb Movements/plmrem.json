@@ -1,7 +1,0 @@
-{
-  "id": "plmrem",
-  "display_name": "Total number of Periodic Limb Movements (PLMs) (Rapid eye movement sleep (REM))",
-  "description": "",
-  "type": "numeric",
-  "units": "periodic limb movements (plms)"
-}

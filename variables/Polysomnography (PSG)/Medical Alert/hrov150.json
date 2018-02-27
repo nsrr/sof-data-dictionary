@@ -1,0 +1,10 @@
+{
+  "id": "hrov150",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Medical Alert - Heart Rate (HR) > 150",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "bpm"
+  ]
+}
