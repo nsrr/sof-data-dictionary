@@ -1,5 +1,7 @@
 ## 0.4.2
 
+- Add abbreviations to folder names
+
 ## 0.4.1 (February 26, 2018)
 
 - Minor updates to domains
