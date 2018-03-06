@@ -1,6 +1,6 @@
 {
   "id": "hmxbroh",
-  "display_name": "Maximum heart rate (HR) (Rapid eye movement sleep (REM), non-supine, >=3% oxygen desaturation)",
+  "display_name": "Maximum heart rate (HR) (Rapid eye movement sleep (REM), non-supine, >= 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

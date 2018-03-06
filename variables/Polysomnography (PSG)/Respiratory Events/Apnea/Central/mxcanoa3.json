@@ -1,6 +1,6 @@
 {
   "id": "mxcanoa3",
-  "display_name": "Maximum central apnea length with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), non-supine)",
+  "display_name": "Maximum central apnea length with >= 3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), non-supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

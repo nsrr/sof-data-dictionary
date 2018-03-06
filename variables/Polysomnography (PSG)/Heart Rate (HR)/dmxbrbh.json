@@ -1,6 +1,6 @@
 {
   "id": "dmxbrbh",
-  "display_name": "Maximum heart rate (HR) with arousal (Rapid eye movement sleep (REM), supine, >=3% oxygen desaturation)",
+  "display_name": "Maximum heart rate (HR) with arousal (Rapid eye movement sleep (REM), supine, >= 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

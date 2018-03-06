@@ -1,6 +1,6 @@
 {
   "id": "avoaroa4",
-  "display_name": "Average obstructive apnea length with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), non-supine)",
+  "display_name": "Average obstructive apnea length with >= 4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), non-supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

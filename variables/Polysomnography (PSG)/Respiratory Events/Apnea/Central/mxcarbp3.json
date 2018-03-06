@@ -1,6 +1,6 @@
 {
   "id": "mxcarbp3",
-  "display_name": "Maximum central apnea length (Rapid eye movement sleep (REM), supine, >=3% oxygen desaturation)",
+  "display_name": "Maximum central apnea length (Rapid eye movement sleep (REM), supine, >= 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

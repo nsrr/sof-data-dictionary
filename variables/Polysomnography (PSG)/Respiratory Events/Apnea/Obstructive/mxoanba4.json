@@ -1,6 +1,6 @@
 {
   "id": "mxoanba4",
-  "display_name": "Maximum obstructive apnea length with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), supine)",
+  "display_name": "Maximum obstructive apnea length with >= 4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

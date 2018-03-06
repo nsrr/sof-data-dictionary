@@ -1,6 +1,6 @@
 {
   "id": "mxhnba5",
-  "display_name": "Maximum hypopnea length with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), supine)",
+  "display_name": "Maximum hypopnea length with >= 5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

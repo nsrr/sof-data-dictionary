@@ -1,6 +1,6 @@
 {
   "id": "rdi5p",
-  "display_name": "Overall Respiratory Disturbance Index (RDI) at >=5% oxygen desaturation",
+  "display_name": "Overall Respiratory Disturbance Index (RDI) at >= 5% oxygen desaturation",
   "description": "[(total number of apneas and hypopneas associated with >= 5% oxygen desaturation) / (hours of sleep)]",
   "type": "numeric",
   "units": "events per hour",

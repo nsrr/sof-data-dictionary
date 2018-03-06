@@ -1,6 +1,6 @@
 {
   "id": "mnhrba4",
-  "display_name": "Minimum hypopnea length with >=4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), supine)",
+  "display_name": "Minimum hypopnea length with >= 4% oxygen desaturation or arousal (Rapid eye movement sleep (REM), supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

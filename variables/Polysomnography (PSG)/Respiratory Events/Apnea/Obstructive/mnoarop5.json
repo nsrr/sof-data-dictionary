@@ -1,6 +1,6 @@
 {
   "id": "mnoarop5",
-  "display_name": "Minimum obstructive apnea length (Rapid eye movement sleep (REM), non-supine, >=5% oxygen desaturation)",
+  "display_name": "Minimum obstructive apnea length (Rapid eye movement sleep (REM), non-supine, >= 5% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

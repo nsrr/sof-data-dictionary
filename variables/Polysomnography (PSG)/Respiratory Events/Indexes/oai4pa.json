@@ -1,6 +1,6 @@
 {
   "id": "oai4pa",
-  "display_name": "Obstructive Apnea Index (OAI) >=4% oxygen desaturation or arousal",
+  "display_name": "Obstructive Apnea Index (OAI) >= 4% oxygen desaturation or arousal",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

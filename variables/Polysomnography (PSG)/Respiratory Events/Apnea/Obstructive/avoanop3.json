@@ -1,6 +1,6 @@
 {
   "id": "avoanop3",
-  "display_name": "Average obstructive apnea length (Non-rapid eye movement sleep (NREM), non-supine, >=3% oxygen desaturation)",
+  "display_name": "Average obstructive apnea length (Non-rapid eye movement sleep (NREM), non-supine, >= 3% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",

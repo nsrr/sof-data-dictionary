@@ -1,6 +1,6 @@
 {
   "id": "cardnoa4",
-  "display_name": "Central apnea per hour with >=4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), non-supine)",
+  "display_name": "Central apnea per hour with >= 4% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), non-supine)",
   "description": "",
   "type": "numeric",
   "units": "events per hour",
