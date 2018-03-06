@@ -1,6 +1,6 @@
 {
   "id": "plmcastg1",
-  "display_name": "Total number of Periodic Limb Movement (PLM) clusters with arousal (stage 1 sleep)",
+  "display_name": "Total number of periodic limb movement (PLM) clusters with arousal (stage 1 sleep)",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements",

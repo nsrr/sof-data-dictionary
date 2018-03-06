@@ -1,6 +1,6 @@
 {
   "id": "nrem_19_hz",
-  "display_name": "Non-rapid eye movement sleep (NREM) power density at 19.0 Hertz",
+  "display_name": "Non-rapid eye movement sleep (NREM) power density at 19.0 hertz",
   "description": "",
   "type": "numeric",
   "units": "microvolts squared per hertz (uV2/Hz)",

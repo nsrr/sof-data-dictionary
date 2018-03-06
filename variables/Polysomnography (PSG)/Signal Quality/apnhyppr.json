@@ -6,8 +6,6 @@
   "domain": "noyes01",
   "labels": [
     "obstructive",
-    "central",
-    "oa",
-    "ca"
+    "central"
   ]
 }

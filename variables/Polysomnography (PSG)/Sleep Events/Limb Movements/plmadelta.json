@@ -1,6 +1,6 @@
 {
   "id": "plmadelta",
-  "display_name": "Total number of Periodic Limb Movements (PLMs) with arousal (delta Sleep)",
+  "display_name": "Total number of periodic limb movements (PLMs) with arousal (delta sleep)",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements",
@@ -9,7 +9,6 @@
     "non-rem",
     "non rem",
     "non-rapid eye movement",
-    "delta",
     "slow wave",
     "sws",
     "deep"

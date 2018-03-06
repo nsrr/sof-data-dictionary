@@ -1,14 +1,12 @@
 {
   "id": "mxhnbp",
-  "display_name": "Maximum hypopnea length (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "display_name": "Maximum hypopnea length (Non-rapid eye movement sleep (NREM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
     "non-rem",
     "non rem",
-    "back",
-    "longest",
-    "duration"
+    "back"
   ]
 }

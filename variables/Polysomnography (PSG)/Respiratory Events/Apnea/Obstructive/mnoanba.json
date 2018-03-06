@@ -1,14 +1,12 @@
 {
   "id": "mnoanba",
-  "display_name": "Minimum obstructive apnea length with arousals (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "display_name": "Minimum obstructive apnea length with arousals (Non-rapid eye movement sleep (NREM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
     "non-rem",
     "non rem",
-    "back",
-    "shortest",
-    "duration"
+    "back"
   ]
 }

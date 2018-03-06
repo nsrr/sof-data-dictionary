@@ -1,12 +1,10 @@
 {
   "id": "mnhrba",
-  "display_name": "Minimum hypopnea length with arousals (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Minimum hypopnea length with arousals (Rapid eye movement sleep (REM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
-    "back",
-    "shortest",
-    "duration"
+    "back"
   ]
 }

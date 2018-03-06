@@ -1,6 +1,6 @@
 {
   "id": "canba5",
-  "display_name": "Number of central apnea with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Number of central apnea with >=5% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), supine)",
   "description": "",
   "type": "numeric",
   "units": "events",

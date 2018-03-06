@@ -1,6 +1,6 @@
 {
   "id": "amnbrbh",
-  "display_name": "Minimum Heart Rate (HR) with arousal (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Minimum heart rate (HR) with arousal (Rapid eye movement sleep (REM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

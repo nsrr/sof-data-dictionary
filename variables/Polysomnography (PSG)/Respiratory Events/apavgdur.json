@@ -6,9 +6,6 @@
   "units": "seconds (s)",
   "labels": [
     "obstructive",
-    "central",
-    "oa",
-    "ca",
-    "length"
+    "central"
   ]
 }

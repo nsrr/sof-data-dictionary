@@ -1,6 +1,6 @@
 {
   "id": "plmastg1",
-  "display_name": "Total number of Periodic Limb Movements (PLMs) with arousal (stage 1 sleep)",
+  "display_name": "Total number of periodic limb movements (PLMs) with arousal (stage 1 sleep)",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements",

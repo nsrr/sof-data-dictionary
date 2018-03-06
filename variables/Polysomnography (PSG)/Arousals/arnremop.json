@@ -1,6 +1,6 @@
 {
   "id": "arnremop",
-  "display_name": "Number of Arousals (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "display_name": "Number of arousals (Non-rapid eye movement sleep (NREM), non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "arousals",

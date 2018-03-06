@@ -1,6 +1,6 @@
 {
   "id": "canoa",
-  "display_name": "Number of central apnea with arousals (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "display_name": "Number of central apnea with arousals (Non-rapid eye movement sleep (NREM), non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events",

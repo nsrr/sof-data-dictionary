@@ -1,6 +1,6 @@
 {
   "id": "signal",
-  "display_name": "EEG Signal",
+  "display_name": "EEG signal",
   "description": "",
   "type": "choices",
   "domain": "signal",

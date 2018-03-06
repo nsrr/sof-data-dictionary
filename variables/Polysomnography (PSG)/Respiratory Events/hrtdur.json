@@ -1,15 +1,11 @@
 {
   "id": "hrtdur",
-  "display_name": "Number of minutes of Apnea and Hypopnea (Rapid eye movement sleep (REM))",
+  "display_name": "Number of minutes of apnea and hypopnea (Rapid eye movement sleep (REM))",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [
-    "duration",
-    "length",
     "obstructive",
-    "central",
-    "ca",
-    "oa"
+    "central"
   ]
 }

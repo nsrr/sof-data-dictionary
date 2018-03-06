@@ -1,11 +1,10 @@
 {
   "id": "avcarbp",
-  "display_name": "Average central apnea length (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Average central apnea length (Rapid eye movement sleep (REM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
-    "back",
-    "duration"
+    "back"
   ]
 }

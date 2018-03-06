@@ -1,6 +1,6 @@
 {
   "id": "rem_16_5_hz",
-  "display_name": "Rapid eye movement sleep (REM) power density at 16.5 Hertz",
+  "display_name": "Rapid eye movement sleep (REM) power density at 16.5 hertz",
   "description": "",
   "type": "numeric",
   "units": "microvolts squared per hertz (uV2/Hz)"

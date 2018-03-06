@@ -1,6 +1,6 @@
 {
   "id": "plmdel",
-  "display_name": "50 percent of Periodic Limb Movements (PLMs) deleted due to occurrence after respiratory event?",
+  "display_name": "50 percent of periodic limb movements (PLMs) deleted due to occurrence after respiratory event?",
   "description": "",
   "type": "choices",
   "domain": "noyesna",
@@ -8,8 +8,6 @@
     "apnea",
     "hypopnea",
     "obstructive",
-    "central",
-    "oa",
-    "ca"
+    "central"
   ]
 }

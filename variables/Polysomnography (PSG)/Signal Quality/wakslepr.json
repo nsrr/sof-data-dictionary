@@ -1,6 +1,6 @@
 {
   "id": "wakslepr",
-  "display_name": "Polysomnography (PSG) Quality Assessment: Wake/Sleep Scoring unreliable",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Wake/Sleep scoring unreliable",
   "description": "Scorer noted that there was a problem differentiating stage wake from stage sleep.",
   "type": "choices",
   "domain": "noyesna",

@@ -1,15 +1,12 @@
 {
   "id": "ahtdurop",
-  "display_name": "Number of minutes of Apnea and Hypopnea (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "display_name": "Number of minutes of apnea and hypopnea (Non-rapid eye movement sleep (NREM), non-supine)",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [
-    "duration",
     "obstructive",
     "central",
-    "oa",
-    "ca",
     "other",
     "left",
     "right",

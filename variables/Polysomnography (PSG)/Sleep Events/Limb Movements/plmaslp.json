@@ -1,6 +1,6 @@
 {
   "id": "plmaslp",
-  "display_name": "Total number of Periodic Limb Movements (PLMs) with arousal (in all sleep)",
+  "display_name": "Total number of periodic limb movements (PLMs) with arousal (in all sleep)",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements",

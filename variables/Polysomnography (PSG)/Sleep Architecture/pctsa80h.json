@@ -1,6 +1,6 @@
 {
   "id": "pctsa80h",
-  "display_name": "Percent of sleep time Oxygen Saturation (SaO2) is below 80%",
+  "display_name": "Percent of sleep time oxygen saturation (SaO2) is below 80%",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

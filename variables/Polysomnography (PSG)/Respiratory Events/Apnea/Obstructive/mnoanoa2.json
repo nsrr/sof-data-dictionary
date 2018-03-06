@@ -1,18 +1,16 @@
 {
   "id": "mnoanoa2",
-  "display_name": "Minimum obstructive apnea length with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Non-supine)",
+  "display_name": "Minimum obstructive apnea length with >=2% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), non-supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
     "non-rem",
     "non rem",
-    "shortest",
     "other",
     "left",
     "right",
     "upright",
-    "prone",
-    "duration"
+    "prone"
   ]
 }

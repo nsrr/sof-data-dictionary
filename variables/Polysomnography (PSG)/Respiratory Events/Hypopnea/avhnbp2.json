@@ -1,13 +1,12 @@
 {
   "id": "avhnbp2",
-  "display_name": "Average hypopnea length (Non-rapid eye movement sleep (NREM), Supine, >=2% oxygen desaturation)",
+  "display_name": "Average hypopnea length (Non-rapid eye movement sleep (NREM), supine, >=2% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
     "non-rem",
     "non rem",
-    "back",
-    "duration"
+    "back"
   ]
 }

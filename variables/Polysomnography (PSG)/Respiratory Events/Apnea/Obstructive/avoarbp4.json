@@ -1,11 +1,10 @@
 {
   "id": "avoarbp4",
-  "display_name": "Average obstructive apnea length (Rapid eye movement sleep (REM), Supine, >=4% oxygen desaturation)",
+  "display_name": "Average obstructive apnea length (Rapid eye movement sleep (REM), supine, >=4% oxygen desaturation)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
-    "back",
-    "duration"
+    "back"
   ]
 }

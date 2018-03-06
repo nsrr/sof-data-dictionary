@@ -1,6 +1,6 @@
 {
   "id": "timest1",
-  "display_name": "Time in Stage 1, rounded to the nearest minute",
+  "display_name": "Time in stage 1, rounded to the nearest minute",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

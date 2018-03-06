@@ -1,6 +1,6 @@
 {
   "id": "hnrbp",
-  "display_name": "Number of hypopnea (Non-rapid eye movement sleep (NREM), Supine, all oxygen desaturations)",
+  "display_name": "Number of hypopnea (Non-rapid eye movement sleep (NREM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events",

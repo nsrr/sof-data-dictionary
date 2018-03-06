@@ -1,6 +1,6 @@
 {
   "id": "smnbroh",
-  "display_name": "Minimum Heart Rate (HR) (Rapid eye movement sleep (REM), Non-supine, all oxygen desaturations)",
+  "display_name": "Minimum heart rate (HR) (Rapid eye movement sleep (REM), non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

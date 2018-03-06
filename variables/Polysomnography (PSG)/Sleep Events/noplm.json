@@ -1,6 +1,6 @@
 {
   "id": "noplm",
-  "display_name": "Number of Periodic Limb Movements (PLMs) during sleep",
+  "display_name": "Number of periodic limb movements (PLMs) during sleep",
   "description": "",
   "type": "numeric",
   "units": "limb movements",

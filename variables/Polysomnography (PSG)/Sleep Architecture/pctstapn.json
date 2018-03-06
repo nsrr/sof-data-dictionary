@@ -1,6 +1,6 @@
 {
   "id": "pctstapn",
-  "display_name": "Percent of sleep time in Apnea",
+  "display_name": "Percent of sleep time in apnea",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",
@@ -12,8 +12,6 @@
     "non rapid",
     "obstructive",
     "central",
-    "oa",
-    "ca",
     "rem",
     "rapid eye movement"
   ]

@@ -1,6 +1,6 @@
 {
   "id": "visit",
-  "display_name": "Visit Number",
+  "display_name": "Visit number",
   "description": "The Study of Osteoporotic Fractures (SOF) Visit where the data were collected/derived.",
   "type": "choices",
   "domain": "visit"

@@ -1,6 +1,6 @@
 {
   "id": "avgplm",
-  "display_name": "Number of Periodic Limb Movements (PLMs) per hour of sleep",
+  "display_name": "Number of periodic limb movements (PLMs) per hour of sleep",
   "description": "",
   "type": "numeric",
   "units": "limb movements per hour",

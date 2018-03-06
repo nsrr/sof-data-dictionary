@@ -1,6 +1,6 @@
 {
   "id": "hrembp",
-  "display_name": "Number of hypopnea (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Number of hypopnea (Rapid eye movement sleep (REM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events",

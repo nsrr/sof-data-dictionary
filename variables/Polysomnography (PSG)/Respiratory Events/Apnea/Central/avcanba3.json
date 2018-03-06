@@ -1,13 +1,12 @@
 {
   "id": "avcanba3",
-  "display_name": "Average central apnea length with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Average central apnea length with >=3% oxygen desaturation or arousal (Non-rapid eye movement sleep (NREM), supine)",
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
   "labels": [
     "non-rem",
     "non rem",
-    "back",
-    "duration"
+    "back"
   ]
 }

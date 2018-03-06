@@ -1,6 +1,6 @@
 {
   "id": "plmcrem",
-  "display_name": "Total number of Periodic Limb Movement (PLM) clusters (Rapid eye movement sleep (REM))",
+  "display_name": "Total number of periodic limb movement (PLM) clusters (Rapid eye movement sleep (REM))",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements"

@@ -1,6 +1,6 @@
 {
   "id": "crtdurbp",
-  "display_name": "Number of minutes of Central Apnea (Rapid eye movement sleep (REM), Non-supine)",
+  "display_name": "Number of minutes of central apnea (Rapid eye movement sleep (REM), non-supine)",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

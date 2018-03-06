@@ -1,6 +1,6 @@
 {
   "id": "plmcslp",
-  "display_name": "Total number of Periodic Limb Movement (PLM) clusters (in all sleep)",
+  "display_name": "Total number of periodic limb movement (PLM) clusters (in all sleep)",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements",

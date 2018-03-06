@@ -1,6 +1,6 @@
 {
   "id": "timest34",
-  "display_name": "Time in Stage 3/4, rounded to the nearest minute",
+  "display_name": "Time in stage 3/4, rounded to the nearest minute",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

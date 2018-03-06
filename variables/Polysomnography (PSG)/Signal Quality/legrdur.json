@@ -6,7 +6,6 @@
   "units": "hours (h)",
   "labels": [
     "electromyogram",
-    "electromyography",
-    "duration"
+    "electromyography"
   ]
 }

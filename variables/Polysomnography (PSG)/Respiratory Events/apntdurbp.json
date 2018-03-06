@@ -1,15 +1,12 @@
 {
   "id": "apntdurbp",
-  "display_name": "Number of minutes of Apnea (Non-rapid eye movement sleep (NREM), Supine)",
+  "display_name": "Number of minutes of apnea (Non-rapid eye movement sleep (NREM), supine)",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [
-    "duration",
     "obstructive",
     "central",
-    "oa",
-    "ca",
     "back"
   ]
 }

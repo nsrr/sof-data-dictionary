@@ -1,6 +1,6 @@
 {
   "id": "plma",
-  "display_name": "Total number of Periodic Limb Movements (PLMs) with arousal",
+  "display_name": "Total number of periodic limb movements (PLMs) with arousal",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements"

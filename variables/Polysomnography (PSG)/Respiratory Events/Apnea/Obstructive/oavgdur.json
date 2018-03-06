@@ -4,8 +4,5 @@
   "description": "",
   "type": "numeric",
   "units": "seconds (s)",
-  "labels": [
-    "duration "
-  ],
   "commonly_used": true
 }

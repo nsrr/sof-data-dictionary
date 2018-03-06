@@ -3,6 +3,7 @@
 - Add abbreviations to folder names
 - Remove duplicate domain
 - Update many variable unit abbreviations
+- Update variable display names to remove unnecessary capitilizations
 
 ## 0.4.1 (February 26, 2018)
 

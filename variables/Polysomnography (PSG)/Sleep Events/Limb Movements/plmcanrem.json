@@ -1,6 +1,6 @@
 {
   "id": "plmcanrem",
-  "display_name": "Total number of Periodic Limb Movement (PLM) clusters with arousal (Non-rapid eye movement sleep (NREM))",
+  "display_name": "Total number of periodic limb movement (PLM) clusters with arousal (Non-rapid eye movement sleep (NREM))",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements",

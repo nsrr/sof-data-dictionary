@@ -6,7 +6,6 @@
   "domain": "signalofsleeptime",
   "labels": [
     "electromyogram",
-    "electromyography",
-    "duration"
+    "electromyography"
   ]
 }

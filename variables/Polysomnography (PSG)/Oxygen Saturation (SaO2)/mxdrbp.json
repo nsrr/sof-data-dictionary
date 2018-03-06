@@ -1,6 +1,6 @@
 {
   "id": "mxdrbp",
-  "display_name": "Maximum oxygen desaturation (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Maximum oxygen desaturation (Rapid eye movement sleep (REM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "percent (%)",

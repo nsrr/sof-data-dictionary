@@ -1,6 +1,6 @@
 {
   "id": "losdur",
-  "display_name": "Polysomnography (PSG) Quality Assessment: Data Lost during study",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Data lost during study",
   "description": "",
   "type": "choices",
   "domain": "noyesna"

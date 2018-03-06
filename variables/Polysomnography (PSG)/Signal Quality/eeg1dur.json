@@ -6,7 +6,6 @@
   "units": "hours (h)",
   "labels": [
     "electroencephalography",
-    "electroencephalogram",
-    "duration"
+    "electroencephalogram"
   ]
 }

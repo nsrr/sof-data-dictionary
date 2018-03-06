@@ -1,6 +1,6 @@
 {
   "id": "slpeffp",
-  "display_name": "Polysomnography (PSG) Report: Sleep Efficiency",
+  "display_name": "Polysomnography (PSG) Report: Sleep efficiency",
   "description": "",
   "type": "numeric",
   "units": "percent (%)"

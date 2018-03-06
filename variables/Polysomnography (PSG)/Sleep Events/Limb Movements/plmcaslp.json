@@ -1,6 +1,6 @@
 {
   "id": "plmcaslp",
-  "display_name": "Total number of Periodic Limb Movement (PLM) clusters with arousal (in all sleep)",
+  "display_name": "Total number of periodic limb movement (PLM) clusters with arousal (in all sleep)",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements",

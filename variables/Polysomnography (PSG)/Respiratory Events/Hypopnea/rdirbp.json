@@ -1,6 +1,6 @@
 {
   "id": "rdirbp",
-  "display_name": "Hypopnea per hour (Rapid eye movement sleep (REM), Supine, all oxygen desaturations)",
+  "display_name": "Hypopnea per hour (Rapid eye movement sleep (REM), supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "events per hour",

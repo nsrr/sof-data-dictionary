@@ -1,6 +1,6 @@
 {
   "id": "plmctot",
-  "display_name": "Total number of Periodic Limb Movement (PLM) clusters",
+  "display_name": "Total number of periodic limb movement (PLM) clusters",
   "description": "",
   "type": "numeric",
   "units": "periodic limb movements"

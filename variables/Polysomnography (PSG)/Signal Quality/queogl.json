@@ -5,7 +5,6 @@
   "type": "choices",
   "domain": "signalofsleeptime",
   "labels": [
-    "electrooculography",
-    "duration"
+    "electrooculography"
   ]
 }

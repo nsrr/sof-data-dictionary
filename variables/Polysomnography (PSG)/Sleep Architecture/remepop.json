@@ -1,6 +1,6 @@
 {
   "id": "remepop",
-  "display_name": "Sleep Time (Rapid eye movement sleep (REM), Non-supine)",
+  "display_name": "Sleep Time (Rapid eye movement sleep (REM), non-supine)",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)",

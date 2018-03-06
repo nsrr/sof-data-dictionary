@@ -1,6 +1,6 @@
 {
   "id": "stg2stg3pr",
-  "display_name": "Polysomnography (PSG) Quality Assessment: Stage 2/Stage 3-4 Scoring unreliable",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Stage 2/Stage 3-4 scoring unreliable",
   "description": "Scorer noted that there was a problem differentiating stage 2 and stage 3/4 sleep.",
   "type": "choices",
   "domain": "noyesna",

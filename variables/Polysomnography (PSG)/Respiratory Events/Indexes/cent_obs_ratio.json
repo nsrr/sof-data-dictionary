@@ -4,10 +4,5 @@
   "description": "",
   "type": "numeric",
   "units":"",
-  "calculation": "(carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop)",
-  "labels": [
-    "icsd",
-    "ca",
-    "oa"
-  ]
+  "calculation": "(carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop)"
 }

@@ -1,6 +1,6 @@
 {
   "id": "oarba2",
-  "display_name": "Number of obstructive apnea with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), Supine)",
+  "display_name": "Number of obstructive apnea with >=2% oxygen desaturation or arousal (Rapid eye movement sleep (REM), supine)",
   "description": "",
   "type": "numeric",
   "units": "events",

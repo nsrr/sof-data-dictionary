@@ -6,10 +6,7 @@
   "units": "seconds (s)",
   "labels": [
     "obstructive",
-    "central",
-    "oa",
-    "ca",
-    "duration"
+    "central"
   ],
   "commonly_used": true
 }

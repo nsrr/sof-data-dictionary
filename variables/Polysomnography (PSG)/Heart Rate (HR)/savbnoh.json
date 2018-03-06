@@ -1,6 +1,6 @@
 {
   "id": "savbnoh",
-  "display_name": "Average Heart Rate (HR) (Non-rapid eye movement sleep (NREM), Non-supine, all oxygen desaturations)",
+  "display_name": "Average heart rate (HR) (Non-rapid eye movement sleep (NREM), non-supine, all oxygen desaturations)",
   "description": "",
   "type": "numeric",
   "units": "beats per minute (bpm)",

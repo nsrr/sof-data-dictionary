@@ -8,8 +8,6 @@
     "apnea",
     "hypopnea",
     "obstructive",
-    "central",
-    "oa",
-    "ca"
+    "central"
   ]
 }
