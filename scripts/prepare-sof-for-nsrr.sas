@@ -1,10 +1,26 @@
+*******************************************************************************;
+* Program           : prepare-sof-for-nsrr.sas
+* Project           : National Sleep Research Resource (sleepdata.org)
+* Author            : Michelle Reid (MLR)
+* Date Created      : 20180515
+* Purpose           : Prepare Study of Osteoporotic Fractures data
+*                       for deposition on sleepdata.org.
+* Revision History  :
+*   Date      Author    Revision
+*   20180515  mr251     Clean up SAS program
+*******************************************************************************;
+
+*******************************************************************************;
+* Establish SOF options and libraries
+*******************************************************************************;
 
 *set SOF libraries and options;
-libname sof "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
-libname obf "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_ids";
-libname sao2 "\\rfa01\bwh-sleepepi-sof\nsrr-prep\_sofonline\to-deidentify";
-options nofmterr fmtsearch=(sof);
-%let version = 0.4.0;
+  libname sof "\\rfawin\bwh-sleepepi-sof\nsrr-prep\_sofonline\extracts";
+  libname obf "\\rfawin\bwh-sleepepi-sof\nsrr-prep\_ids";
+  libname sao2 "\\rfawin\bwh-sleepepi-sof\nsrr-prep\_sofonline\to-deidentify";
+  options nofmterr fmtsearch=(sof);
+
+  %let version = 0.5.0;
 
 *create combined race datasets;
 data sao2;
@@ -32,171 +48,171 @@ data sao2;
 run;
 
 data v9aavital;
-	set sof.v9aavital;
+  set sof.v9aavital;
 
-	keep id v9sitsys v9sitdia;
+  keep id v9sitsys v9sitdia;
 run;
 
 data v8aavital;
-	set sof.v8aavital;
+  set sof.v8aavital;
 
-	keep id v8ppls;
+  keep id v8ppls;
 run;
 
 data v8aamedhx;
-	set sof.v8aamedhx;
+  set sof.v8aamedhx;
 
-	keep id v8ecancr v8estrk v8eheart v8econg v8eohrt v8ehyper v8ediab v8ecopd v8edepr;
+  keep id v8ecancr v8estrk v8eheart v8econg v8eohrt v8ehyper v8ediab v8ecopd v8edepr;
 run;
 
 data v8aalifestyle;
-	set sof.v8aalifestyle;
+  set sof.v8aalifestyle;
 
-	keep id v8dr30 v8drwk30;
+  keep id v8dr30 v8drwk30;
 run;
 
 data v8aademogr;
-	set sof.v8aademogr;
+  set sof.v8aademogr;
 
-	keep id v8age;
+  keep id v8age;
 run;
 
 data v8aaanthro;
-	set sof.v8aaanthro;
+  set sof.v8aaanthro;
 
-	keep id v8wght v8hght v8bmi;
+  keep id v8wght v8hght v8bmi;
 run;
 
 data v8aaendpt;
-	set sof.v8aaendpt;
+  set sof.v8aaendpt;
 
-	keep id v8folall;
+  keep id v8folall;
 run;
 
 data aa;
-	merge v8aamedhx v9aavital v8aaanthro v8aademogr v8aalifestyle v8aavital v8aaendpt;
-	by id;
+  merge v8aamedhx v9aavital v8aaanthro v8aademogr v8aalifestyle v8aavital v8aaendpt;
+  by id;
 
   race = 2;
 
-	if V8FOLALL ne .N;
+  if V8FOLALL ne .N;
 run;
 
 data v4anthro;
-	set sof.v4anthro;
+  set sof.v4anthro;
 
-	keep id v4wais v4hipg v4wsthip;
+  keep id v4wais v4hipg v4wsthip;
 run;
 
 data v1lifestyle;
-	set sof.v1lifestyle;
+  set sof.v1lifestyle;
 
-	keep id v1drwka v1drink;
+  keep id v1drwka v1drink;
 run;
 
 data v5medhx;
-	set sof.v5medhx;
+  set sof.v5medhx;
 
-	keep id v5scancr;
+  keep id v5scancr;
 run;
 
 data v6medhx;
-	set sof.v6medhx;
+  set sof.v6medhx;
 
-	keep id v6sstrk v6sheart v6sangin v6scong v6sohrt v6shyper v6sdiab v6scopd v6sdepr;
+  keep id v6sstrk v6sheart v6sangin v6scong v6sohrt v6shyper v6sdiab v6scopd v6sdepr;
 run;
 
 data v4medhx;
-	set sof.v4medhx;
+  set sof.v4medhx;
 
-	keep id v4ekg v4hrtdtx v4seiz;
+  keep id v4ekg v4hrtdtx v4seiz;
 run;
 
 data v2medhx;
-	set sof.v2medhx;
+  set sof.v2medhx;
 
-	keep id v2enghrt v2echf;
+  keep id v2enghrt v2echf;
 run;
 
 data v1medhx;
-	set sof.v1medhx;
+  set sof.v1medhx;
 
-	keep id v1hyten v1diabcl;
+  keep id v1hyten v1diabcl;
 run;
 
 data v9medhx;
-	set sof.v9medhx;
+  set sof.v9medhx;
 
-	keep id v9eangio v9epervd;
+  keep id v9eangio v9epervd;
 run;
 
 data v1vital;
-	set sof.v1vital;
+  set sof.v1vital;
 
-	keep id v1lbppls v1sbppls v1lisys v1stdsys v1lidias v1stddia;
+  keep id v1lbppls v1sbppls v1lisys v1stdsys v1lidias v1stddia;
 run;
 
 data v9vital;
-	set sof.v9vital;
+  set sof.v9vital;
 
-	keep id v9sitsys v9sitdia;
+  keep id v9sitsys v9sitdia;
 run;
 
 data v8anthro;
-	set sof.v8anthro;
+  set sof.v8anthro;
 
-	keep id v8wght v8hght v8bmi;
+  keep id v8wght v8hght v8bmi;
 run;
 
 data v8demogr;
-	set sof.v8demogr;
+  set sof.v8demogr;
 
-	keep id v8age;
+  keep id v8age;
 run;
 
 data v8endpt;
-	set sof.v8endpt;
+  set sof.v8endpt;
 
-	keep id v8brstca v8dthchd v8dthstk v8dthsud v8dthash v8folall;
+  keep id v8brstca v8dthchd v8dthstk v8dthsud v8dthash v8folall;
 run;
 
 data v8lifestyle;
-	set sof.v8lifestyle;
+  set sof.v8lifestyle;
 
-	keep id v8dr30 v8drwk30 v8smok;
+  keep id v8dr30 v8drwk30 v8smok;
 run;
 
 data v8medhx;
-	set sof.v8medhx;
+  set sof.v8medhx;
 
-	keep id v8ecancr v8ecc v8estrk v8eheart v8econg v8eohrt v8ehyper v8ediab v8ecopd v8edepr;
+  keep id v8ecancr v8ecc v8estrk v8eheart v8econg v8eohrt v8ehyper v8ediab v8ecopd v8edepr;
 run;
 
 data v8vital;
-	set sof.v8vital;
+  set sof.v8vital;
 
-	keep id v8ppls;
+  keep id v8ppls;
 run;
 
 data v8psg;
-	set sof.v8psg;
+  set sof.v8psg;
 
-	rename pdrid=id;
+  rename pdrid=id;
 run;
 
 proc sort
-	data=v8psg;
+  data=v8psg;
 
-	by id;
+  by id;
 run;
 
 data cc;
-	merge v4anthro v8medhx v8lifestyle v8endpt v1lifestyle v5medhx v6medhx v4medhx v2medhx v1medhx v9medhx v1vital v9vital v8anthro v8demogr v8psg v8vital;
-	by id;
+  merge v4anthro v8medhx v8lifestyle v8endpt v1lifestyle v5medhx v6medhx v4medhx v2medhx v1medhx v9medhx v1vital v9vital v8anthro v8demogr v8psg v8vital;
+  by id;
 
   race = 1;
 
-	if V8FOLALL ne .N;
+  if V8FOLALL ne .N;
 run;
 
 proc sort data=sao2;
@@ -206,9 +222,9 @@ run;
 data sof_all_wo_nmiss;
   length id obf_pptid 8.;
   merge cc aa sao2 obf.obfid;
-	by id;
+  by id;
 
-	visit = 8;
+  visit = 8;
 
   *create gender variable;
   gender = 1;
@@ -221,7 +237,7 @@ data sof_all_wo_nmiss;
   if v8age > 89 then v8age = 90;
   else if v8age < 0 then v8age = .;
 
-	attrib _all_ label="";
+  attrib _all_ label="";
   format _all_;
 
   *only keep subjects that had a V8 PSG;
@@ -263,8 +279,8 @@ run;
 
 *export dataset;
 proc export
-	data = sof_all_wo_nmiss
-	outfile="\\rfa01\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&version..csv"
-	dbms = csv
-	replace;
+  data = sof_all_wo_nmiss
+  outfile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&version..csv"
+  dbms = csv
+  replace;
 run;
