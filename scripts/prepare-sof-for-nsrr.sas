@@ -237,6 +237,9 @@ data sof_all_wo_nmiss;
   if v8age > 89 then v8age = 90;
   else if v8age < 0 then v8age = .;
 
+  *recode id variable;
+  sofid = id;
+
   attrib _all_ label="";
   format _all_;
 
@@ -275,7 +278,7 @@ data sof_all_wo_nmiss;
   cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
   cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
-  drop scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes pdb5slp prdb5slp nordb2 nordb3 nodb4slp nordb4 nodb5slp nordb5 nordball maxdbslp avgdbslp nobrslp nobrap nobrc nobro nobrh notca notcc notco notch minmaxhrou chinrdur quchinr;
+  drop id obf_pptid scorerid stdatep scoredt StdyDt ScorDt ScorID CDLabel Comm EnterDt dateadd datechange notes pdb5slp prdb5slp nordb2 nordb3 nodb4slp nordb4 nodb5slp nordb5 nordball maxdbslp avgdbslp nobrslp nobrap nobrc nobro nobrh notca notcc notco notch minmaxhrou chinrdur quchinr;
 
 run;
 
