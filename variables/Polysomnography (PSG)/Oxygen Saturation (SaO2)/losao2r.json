@@ -1,8 +1,0 @@
-{
-  "id": "losao2r",
-  "display_name": "Minimum oxygen saturation (SaO2) in rapid eye movement sleep (REM) ",
-  "description": "",
-  "type": "numeric",
-  "units": "percent (%)",
-  "calculation": "mnsao2rh"
-}
