@@ -3,6 +3,7 @@
 - Clean up .sas import script
 - Make time variables output as hh:mm:ss format
 - Remove certain duplicate sleep architecture variables
+- Remove references to 'pdrid' with 'sofid' variable for primary identifier
 
 ## 0.4.2 (March 8, 2018)
 

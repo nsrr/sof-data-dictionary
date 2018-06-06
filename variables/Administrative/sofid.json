@@ -1,6 +1,7 @@
 {
   "id": "sofid",
   "display_name": "Study of Osteoporotic Fractures (SOF) Public Data Release ID",
-  "description": "",
-  "type": "identifier"
+  "description": "The identifier used to link SOF datasets and polysomnography files.",
+  "type": "identifier",
+  "commonly_used": true
 }

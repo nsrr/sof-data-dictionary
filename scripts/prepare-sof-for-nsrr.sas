@@ -278,7 +278,7 @@ data sof_all_wo_nmiss;
   cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
   cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
-  drop id
+  drop  id
         obf_pptid
         scorerid stdatep
         scoredt
@@ -314,18 +314,19 @@ data sof_all_wo_nmiss;
         minmaxhrou
         chinrdur
         quchinr
-        losao2nr /*duplicate of mnsao2nh*/
-        losao2r /*duplicate of mnsao2rh*/
-        sao2nrem /*duplicate of avsao2nh*/
-        sao2rem /*duplicate of avsap2rh*/
-        timerem /*duplicate of minremp*/
-        timeremp /*duplicate of tmremp*/
-        times34p /*duplicate of tmstg34p*/
-        timest1 /*dupliate of minstg1p*/
-        timest1p /*duplicate of tmstg1p*/
-        timest2 /*duplicate of minstg2p*/
-        timest2p /*duplicate of tmstg2p*/
-        timest34 /*duplicate of mnstg34p*/;
+        losao2nr  /* duplicate of mnsao2nh */
+        losao2r   /* duplicate of mnsao2rh */
+        sao2nrem  /* duplicate of avsao2nh */
+        sao2rem   /* duplicate of avsap2rh */
+        timerem   /* duplicate of minremp */
+        timeremp  /* duplicate of tmremp */
+        times34p  /* duplicate of tmstg34p */
+        timest1   /* duplicate of minstg1p */
+        timest1p  /* duplicate of tmstg1p */
+        timest2   /* duplicate of minstg2p */
+        timest2p  /* duplicate of tmstg2p */
+        timest34  /* duplicate of mnstg34p */
+        ;
 
 run;
 
