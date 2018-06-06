@@ -243,7 +243,7 @@ data sof_all_wo_nmiss;
   attrib _all_ label="";
   format _all_;
 
-  format sclonp stendp ststartp scslpon stloutp stonsetp time8.;
+  format sclonp stendp ststartp scslpon scloutp stloutp stonsetp time8.;
 
   *only keep subjects that had a V8 PSG;
   if stdydt > .;
