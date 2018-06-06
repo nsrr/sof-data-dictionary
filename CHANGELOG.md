@@ -1,5 +1,9 @@
 ## 0.5.0
 
+- Clean up .sas import script
+- Make time variables output as hh:mm:ss format
+- Remove certain duplicate sleep architecture variables
+
 ## 0.4.2 (March 8, 2018)
 
 - Add abbreviations to folder names
