@@ -330,10 +330,12 @@ data sof_all_wo_nmiss;
 
 run;
 
-*export dataset;
-proc export
-  data = sof_all_wo_nmiss
-  outfile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&version..csv"
-  dbms = csv
-  replace;
-run;
+*******************************************************************************;
+* export CSV dataset ;
+*******************************************************************************;
+  proc export
+    data = sof_all_wo_nmiss
+    outfile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&version..csv"
+    dbms = csv
+    replace;
+  run;
