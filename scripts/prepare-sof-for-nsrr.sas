@@ -20,7 +20,7 @@
   libname sao2 "\\rfawin\bwh-sleepepi-sof\nsrr-prep\_sofonline\to-deidentify";
   options nofmterr fmtsearch=(sof);
 
-  %let version = 0.5.0.beta2;
+  %let version = 0.5.0.rc;
 
 *create combined race datasets;
 data sao2;

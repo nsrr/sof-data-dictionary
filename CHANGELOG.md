@@ -4,6 +4,8 @@
 - Make time variables output as hh:mm:ss format
 - Remove certain duplicate sleep architecture variables
 - Remove references to 'pdrid' with 'sofid' variable for primary identifier
+- The CSV datasets generated from the SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\0.5.0.rc\`
 
 ## 0.4.2 (March 8, 2018)
 
