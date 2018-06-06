@@ -326,6 +326,7 @@ data sof_all_wo_nmiss;
         timest2   /* duplicate of minstg2p */
         timest2p  /* duplicate of tmstg2p */
         timest34  /* duplicate of mnstg34p */
+        slp_rdi   /* duplicate of slpprdp */
         ;
 
 run;
