@@ -1,3 +1,5 @@
+## 0.6.0
+
 ## 0.5.0 (June 7, 2018)
 
 - Clean up .sas import script
