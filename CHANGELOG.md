@@ -1,5 +1,6 @@
 ## 0.6.0
 
+- Remove EEG spectral summary variables
 - **Gem Changes**
   - Updated to Ruby 2.6.1
   - Updated to spout 1.0.0
