@@ -1,4 +1,4 @@
-## 0.6.1
+## 0.6.1 (September 22, 2020)
 
 - Remove extraneous labels causing certain variables to not display correctly
 
