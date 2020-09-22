@@ -1,5 +1,7 @@
 ## 0.6.1
 
+- Remove extraneous labels causing certain variables to not display correctly
+
 ## 0.6.0 (November 18, 2019)
 
 - Remove EEG spectral summary variables
