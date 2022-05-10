@@ -2,6 +2,5 @@
   "id": "rdi",
   "display_name": "Respiratory Disturbance Index (RDI)",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

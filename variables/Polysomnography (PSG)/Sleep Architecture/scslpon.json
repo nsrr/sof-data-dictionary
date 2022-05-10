@@ -2,6 +2,5 @@
   "id": "scslpon",
   "display_name": "Scorer sleep onset time",
   "description": "24-hour clock time written as integer (e.g. 0-2359).",
-  "type": "integer",
-  "units": ""
+  "type": "integer"
 }

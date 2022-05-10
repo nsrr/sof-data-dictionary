@@ -3,7 +3,6 @@
   "display_name": "Average desaturation associated with respiratory events (hand-scored and with sleep time onset)",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "sao2"
   ]

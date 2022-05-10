@@ -20,7 +20,7 @@
   libname sao2 "\\rfawin\bwh-sleepepi-sof\nsrr-prep\_sofonline\to-deidentify";
   options nofmterr fmtsearch=(sof);
 
-  %let version = 0.6.0;
+  %let version = 0.7.0.pre;
 
 *create combined race datasets;
 data sao2;
@@ -194,6 +194,11 @@ data v8vital;
   keep id v8ppls;
 run;
 
+data v8sleep;
+	set sof.v8sleep;
+	keep id V8LBPSYS V8LBPDIA;
+run;
+
 data v8psg;
   set sof.v8psg;
 
@@ -207,7 +212,7 @@ proc sort
 run;
 
 data cc;
-  merge v4anthro v8medhx v8lifestyle v8endpt v1lifestyle v5medhx v6medhx v4medhx v2medhx v1medhx v9medhx v1vital v9vital v8anthro v8demogr v8psg v8vital;
+  merge v4anthro v8medhx v8lifestyle v8endpt v1lifestyle v5medhx v6medhx v4medhx v2medhx v1medhx v9medhx v1vital v9vital v8anthro v8demogr v8psg v8vital v8sleep;
   by id;
 
   race = 1;
@@ -331,6 +336,178 @@ data sof_all_wo_nmiss;
 
 run;
 
+*******************************************************************************;
+* create harmonized datasets ;
+*******************************************************************************;
+
+data sof_harmonized;
+set sof_all_wo_nmiss;
+
+*demographics
+*age;
+*use v8age;
+  format nsrr_age 8.2;
+  if v8age gt 89 then nsrr_age=90;
+  else if v8age le 89 then nsrr_age = v8age;
+
+*age_gt89;
+*use v8age;
+  format nsrr_age_gt89 $10.; 
+  if v8age gt 89 then nsrr_age_gt89='yes';
+  else if v8age le 89 then nsrr_age_gt89='no';
+
+*sex;
+*use gender;
+  format nsrr_sex $10.;
+  if gender = 1 then nsrr_sex = 'female';
+  else if gender = 0 then nsrr_sex = 'male';
+  else if gender = . then nsrr_sex = 'not reported';
+
+*race;
+*use race;
+    format nsrr_race $100.;
+	if race = '1' then nsrr_race = 'white';
+    else if race = '2' then nsrr_race = 'black or african american';
+    else if race = '.' then nsrr_race = 'not reported';
+
+*ethnicity;
+*not outputting ethnicity variable;
+
+*anthropometry
+*bmi;
+*use v8bmi;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = v8bmi;
+
+*clinical data/vital signs
+*bp_systolic;
+*use v8lbpsys;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = v8lbpsys;
+
+*bp_diastolic;
+*use v8lbpdia;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = v8lbpdia;
+  
+*lifestyle and behavioral health
+*current_smoker;
+*use v8smok;
+  format nsrr_current_smoker $100.;
+  if v8smok = '0' then nsrr_current_smoker = 'no';
+  else if v8smok = '1' then nsrr_current_smoker = 'yes';
+  else if v8smok = . then nsrr_current_smoker = 'not reported';
+
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use ahi_a0h3;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = ahi_a0h3;
+
+*nsrr_ahi_hp3r_aasm15;
+*use ahi_a0h3a;
+  format nsrr_ahi_hp3r_aasm15 8.2;
+  nsrr_ahi_hp3r_aasm15 = ahi_a0h3a;
+ 
+*nsrr_ahi_hp4u_aasm15;
+*use ahi_a0h4;
+  format nsrr_ahi_hp4u_aasm15 8.2;
+  nsrr_ahi_hp4u_aasm15 = ahi_a0h4;
+  
+*nsrr_ahi_hp4r;
+*use ahi_a0h4a;
+  format nsrr_ahi_hp4r 8.2;
+  nsrr_ahi_hp4r = ahi_a0h4a;
+ 
+*nsrr_ttldursp_f1;
+*use slpprdp;
+  format nsrr_ttldursp_f1 8.2;
+  nsrr_ttldursp_f1 = slpprdp;
+  
+*nsrr_phrnumar_f1;
+*use ai_all;
+  format nsrr_phrnumar_f1 8.2;
+  nsrr_phrnumar_f1 = ai_all;  
+
+*nsrr_flag_spsw;
+*use slewake;
+  format nsrr_flag_spsw $100.;
+    if slewake = 1 then nsrr_flag_spsw = 'sleep/wake only';
+    else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
+    else if slewake = 8 then nsrr_flag_spsw = 'unknown';
+  else if slewake = . then nsrr_flag_spsw = 'unknown';  
+  
+  
+  keep 
+    nsrrid
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_current_smoker
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp3r_aasm15
+	nsrr_ahi_hp4u_aasm15
+	nsrr_ahi_hp4r
+	nsrr_ttldursp_f1
+	nsrr_phrnumar_f1
+	nsrr_flag_spsw
+    ;
+run;
+
+*******************************************************************************;
+* checking harmonized datasets ;
+*******************************************************************************;
+/* Checking for extreme values for continuous variables */
+proc means data=mesa_harmonized;
+VAR   nsrr_age
+	  nsrr_bmi
+	  nsrr_bp_systolic
+	  nsrr_bp_diastolic
+	  nsrr_ahi_hp3u
+	  nsrr_ahi_hp3r_aasm15
+	  nsrr_ahi_hp4u_aasm15
+	  nsrr_ahi_hp4r
+	  nsrr_ttldursp_f1
+	  nsrr_phrnumar_f1
+      ;
+run;
+
+/* Checking categorical variables */
+proc freq data=mesa_harmonized;
+table   nsrr_age_gt89
+    	nsrr_sex
+    	nsrr_race
+		nsrr_flag_spsw
+		nsrr_current_smoker;
+run;
+
+
+
+*******************************************************************************;
+* make all variable names lowercase ;
+*******************************************************************************;
+  options mprint;
+  %macro lowcase(dsn);
+       %let dsid=%sysfunc(open(&dsn));
+       %let num=%sysfunc(attrn(&dsid,nvars));
+       %put &num;
+       data &dsn;
+             set &dsn(rename=(
+          %do i = 1 %to &num;
+          %let var&i=%sysfunc(varname(&dsid,&i));    /*function of varname returns the name of a SAS data set variable*/
+          &&var&i=%sysfunc(lowcase(&&var&i))         /*rename all variables*/
+          %end;));
+          %let close=%sysfunc(close(&dsid));
+    run;
+  %mend lowcase;
+
+  %lowcase(sof_all_wo_nmiss);
+  %lowcase(sof_harmonized);
+  
 *******************************************************************************;
 * export CSV dataset ;
 *******************************************************************************;

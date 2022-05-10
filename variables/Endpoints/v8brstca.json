@@ -2,6 +2,5 @@
   "id": "v8brstca",
   "display_name": "Indicators of occurrence of breast cancer",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }
