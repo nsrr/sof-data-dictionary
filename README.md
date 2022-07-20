@@ -1,7 +1,7 @@
 SOF Data Dictionary
 ====================
 
-[![Build Status](https://travis-ci.com/nsrr/sof-data-dictionary.svg?branch=master)](https://travis-ci.com/nsrr/sof-data-dictionary)
+[![Build Status](https://app.travis-ci.com/nsrr/sof-data-dictionary.svg?branch=master)](https://app.travis-ci.com/nsrr/sof-data-dictionary)
 
 ### Exports
 
