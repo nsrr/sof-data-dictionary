@@ -1,3 +1,10 @@
+## 0.7.0
+
+- Add initial set of harmonized variables (nsrr_*)
+- Add BP variables from V8 sleep visit
+- **Gem Changes**
+  - Updated to Ruby 3.0.2
+
 ## 0.6.1 (September 22, 2020)
 
 - Remove extraneous labels causing certain variables to not display correctly

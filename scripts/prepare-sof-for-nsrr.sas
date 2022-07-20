@@ -195,8 +195,8 @@ data v8vital;
 run;
 
 data v8sleep;
-	set sof.v8sleep;
-	keep id V8LBPSYS V8LBPDIA;
+  set sof.v8sleep;
+  keep id V8LBPSYS V8LBPDIA;
 run;
 
 data v8psg;
@@ -332,6 +332,8 @@ data sof_all_wo_nmiss;
         timest2p  /* duplicate of tmstg2p */
         timest34  /* duplicate of mnstg34p */
         slp_rdi   /* duplicate of slpprdp */
+        artifact /* studies contain little artifact, variable not useful */
+        ecgou /* all the same value, never indicated on qs form */
         ;
 
 run;
@@ -342,6 +344,8 @@ run;
 
 data sof_harmonized;
 set sof_all_wo_nmiss;
+
+  nsrrid = sofid;
 
 *demographics
 *age;
@@ -366,7 +370,7 @@ set sof_all_wo_nmiss;
 *race;
 *use race;
     format nsrr_race $100.;
-	if race = '1' then nsrr_race = 'white';
+  if race = '1' then nsrr_race = 'white';
     else if race = '2' then nsrr_race = 'black or african american';
     else if race = '.' then nsrr_race = 'not reported';
 
@@ -448,13 +452,13 @@ set sof_all_wo_nmiss;
     nsrr_bp_systolic
     nsrr_bp_diastolic
     nsrr_current_smoker
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp3r_aasm15
-	nsrr_ahi_hp4u_aasm15
-	nsrr_ahi_hp4r
-	nsrr_ttldursp_f1
-	nsrr_phrnumar_f1
-	nsrr_flag_spsw
+  nsrr_ahi_hp3u
+  nsrr_ahi_hp3r_aasm15
+  nsrr_ahi_hp4u_aasm15
+  nsrr_ahi_hp4r
+  nsrr_ttldursp_f1
+  nsrr_phrnumar_f1
+  nsrr_flag_spsw
     ;
 run;
 
@@ -464,25 +468,25 @@ run;
 /* Checking for extreme values for continuous variables */
 proc means data=mesa_harmonized;
 VAR   nsrr_age
-	  nsrr_bmi
-	  nsrr_bp_systolic
-	  nsrr_bp_diastolic
-	  nsrr_ahi_hp3u
-	  nsrr_ahi_hp3r_aasm15
-	  nsrr_ahi_hp4u_aasm15
-	  nsrr_ahi_hp4r
-	  nsrr_ttldursp_f1
-	  nsrr_phrnumar_f1
+    nsrr_bmi
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
+    nsrr_ahi_hp3u
+    nsrr_ahi_hp3r_aasm15
+    nsrr_ahi_hp4u_aasm15
+    nsrr_ahi_hp4r
+    nsrr_ttldursp_f1
+    nsrr_phrnumar_f1
       ;
 run;
 
 /* Checking categorical variables */
 proc freq data=mesa_harmonized;
 table   nsrr_age_gt89
-    	nsrr_sex
-    	nsrr_race
-		nsrr_flag_spsw
-		nsrr_current_smoker;
+      nsrr_sex
+      nsrr_race
+    nsrr_flag_spsw
+    nsrr_current_smoker;
 run;
 
 
@@ -514,6 +518,13 @@ run;
   proc export
     data = sof_all_wo_nmiss
     outfile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-dataset-&version..csv"
+    dbms = csv
+    replace;
+  run;
+
+  proc export
+    data = sof_harmonized
+    outfile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-harmonized-dataset-&version..csv"
     dbms = csv
     replace;
   run;

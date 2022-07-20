@@ -1,0 +1,7 @@
+{
+  "id": "v8lbpsys",
+  "display_name": "Systolic blood pressure (SBP) sitting down (V8)",
+  "description": "",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)"
+}

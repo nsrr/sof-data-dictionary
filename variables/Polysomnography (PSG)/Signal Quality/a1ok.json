@@ -2,5 +2,6 @@
   "id": "a1ok",
   "display_name": "A1 signal ok",
   "description": "",
-  "type": "numeric"
+  "type": "choices",
+  "domain": "noyes"
 }

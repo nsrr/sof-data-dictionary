@@ -1,6 +1,6 @@
 {
   "id": "v9sitdia",
-  "display_name": "Diastolic blood pressure (DBP) sitting down",
+  "display_name": "Diastolic blood pressure (DBP) sitting down (Visit 9)",
   "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
   "type": "numeric",
   "units": "millimeters of mercury (mmHg)"
