@@ -205,8 +205,7 @@ data v8psg;
   rename pdrid=id;
 run;
 
-proc sort
-  data=v8psg;
+proc sort data=v8psg;
 
   by id;
 run;
@@ -224,9 +223,32 @@ proc sort data=sao2;
   by id;
 run;
 
+*import cyclic alternating pattern variables;
+proc import datafile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\cyclic-alternating-pattern\SOFEvaluation_19-Jul-2019.xlsx"
+  out=sof_cap_in
+  dbms=xlsx
+  replace;
+  sheet="CAP";
+run;
+
+data sof_cap;
+  set sof_cap_in;
+run;
+
+proc sort data=sof_cap nodupkey;
+  by id;
+run;
+
+*combine sub-datasets;
 data sof_all_wo_nmiss;
   length id obf_pptid 8.;
-  merge cc aa sao2 obf.obfid;
+  merge 
+    cc 
+    aa 
+    sao2 
+    sof_cap 
+    obf.obfid
+    ;
   by id;
 
   visit = 8;
@@ -263,6 +285,8 @@ data sof_all_wo_nmiss;
   if v8bmi <= 10 then v8bmi = .;
   if v8hght <= 10 then v8hght = .;
   if v8wght <= 10 then v8wght = .;
+  if v8lbpsys <= 10 then v8lbpsys = .;
+  if v8lbpdia <= 10 then v8lbpdia = .;
 
   *create new AHI variables for ICSD3;
   ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
@@ -285,7 +309,8 @@ data sof_all_wo_nmiss;
 
   drop  id
         obf_pptid
-        scorerid stdatep
+        scorerid 
+        stdatep
         scoredt
         StdyDt
         ScorDt
@@ -452,13 +477,13 @@ set sof_all_wo_nmiss;
     nsrr_bp_systolic
     nsrr_bp_diastolic
     nsrr_current_smoker
-  nsrr_ahi_hp3u
-  nsrr_ahi_hp3r_aasm15
-  nsrr_ahi_hp4u_aasm15
-  nsrr_ahi_hp4r
-  nsrr_ttldursp_f1
-  nsrr_phrnumar_f1
-  nsrr_flag_spsw
+    nsrr_ahi_hp3u
+    nsrr_ahi_hp3r_aasm15
+    nsrr_ahi_hp4u_aasm15
+    nsrr_ahi_hp4r
+    nsrr_ttldursp_f1
+    nsrr_phrnumar_f1
+    nsrr_flag_spsw
     ;
 run;
 
@@ -488,7 +513,6 @@ table   nsrr_age_gt89
     nsrr_flag_spsw
     nsrr_current_smoker;
 run;
-
 
 
 *******************************************************************************;

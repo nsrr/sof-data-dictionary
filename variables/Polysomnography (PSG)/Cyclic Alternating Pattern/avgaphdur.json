@@ -1,0 +1,10 @@
+{
+  "id": "avgaphdur",
+  "display_name": "Average duration of A-phases",
+  "description": "Variable created as part of  [Hartmann et al. 2020 (PMID: 32022886)](https://pubmed.ncbi.nlm.nih.gov/32022886/).",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "non-rem"
+  ]
+}

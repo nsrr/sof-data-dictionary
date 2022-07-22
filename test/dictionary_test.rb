@@ -19,7 +19,7 @@ class DictionaryTest < Minitest::Test
   "drinks per day", "cigarettes", "kilograms per meter squared (kg/m2)", "drinks", "seconds (s)", "hours (h)", "years", "days", "kilocalorie per week", "blocks per day",
   "gallons per day", "cups", "cans", "", "grams (g)", "grams per centimeters squared", "centimeters squared (cm2)", "millimeters (mm)", "milligrams per day", "falls",
   "fractures", "microvolts squared per hertz (uV2/Hz)", "periodic limb movements", "millimeters of mercury (mmHg)", "events", "kilograms per square meter", 
-  "minutes", "millimeters of mercury", ""] # Add your own valid units to this array
+  "minutes", "millimeters of mercury", "seconds", "", nil] # Add your own valid units to this array
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
       message = "\"#{variable.units}\"".red + " invalid units.\n" +

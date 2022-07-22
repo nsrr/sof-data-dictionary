@@ -1,0 +1,9 @@
+{
+  "id": "raphsl",
+  "display_name": "Total duration of A-phases/total duration of NREM sleep",
+  "description": "Variable created as part of  [Hartmann et al. 2020 (PMID: 32022886)](https://pubmed.ncbi.nlm.nih.gov/32022886/).",
+  "type": "numeric",
+  "labels": [
+    "non-rem"
+  ]
+}
