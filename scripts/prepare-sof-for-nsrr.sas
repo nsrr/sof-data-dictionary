@@ -210,6 +210,14 @@ proc sort data=v8psg;
   by id;
 run;
 
+/*
+
+proc means data=v8psg;
+  var pctstapn pctsthyp pcstah3d pcstahda pslp_ca0 pslp_oa0 pslp_ap0 pslp_ap3 pslp_hp0 pslp_hp3 pslp_hp3a pslp_ap0hp3 pslp_ap0hp3a;
+run;
+
+*/
+
 data cc;
   merge v4anthro v8medhx v8lifestyle v8endpt v1lifestyle v5medhx v6medhx v4medhx v2medhx v1medhx v9medhx v1vital v9vital v8anthro v8demogr v8psg v8vital v8sleep;
   by id;
@@ -307,6 +315,88 @@ data sof_all_wo_nmiss;
   cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
   cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
+ *compute % sleep time in respiratory event types;
+  *time in central apneas;
+  pslp_ca0 = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in obstructive apneas;
+  pslp_oa0 = 
+    100 * (
+    ((((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas (central + obstructive);
+  pslp_ap0 = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas (central + obstructive) with >=3% desaturation;
+  pslp_ap3 = 
+    100 * (
+    ((((CARBP3 * AVCARBP3) + (CAROP3 * AVCAROP3) + (CANBP3 * AVCANBP3) + (CANOP3 * AVCANOP3))/ 60) + (((OARBP3 * AVOARBP3) + (OAROP3 * AVOAROP3) + (OANBP3 * AVOANBP3) + (OANOP3 * AVOANOP3)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all hypopneas;
+  pslp_hp0 = 
+    100 * (
+    (((HREMBP*AVHRBP) + (HROP*AVHROP) + (HNRBP*AVHNBP) + (HNROP*AVHNOP)) / 60)
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all hypopneas with >=3% desaturation;
+  pslp_hp3 = 
+    100 * (
+    (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60)
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all hypopneas with >=3% desaturation or arousal;
+  pslp_hp3a = 
+    100 * (
+    (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60)
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas + hypopneas w/ >=3% desaturation;
+  pslp_ap0hp3 = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas + hypopneas w/ >=3% desaturation or arousal;
+  pslp_ap0hp3a = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
   drop  id
         obf_pptid
         scorerid 
@@ -359,6 +449,11 @@ data sof_all_wo_nmiss;
         slp_rdi   /* duplicate of slpprdp */
         artifact /* studies contain little artifact, variable not useful */
         ecgou /* all the same value, never indicated on qs form */
+        pcstah3d /* use pslp_* variables for % sleep time in respiratory events */
+        pcstahar /* use pslp_* variables for % sleep time in respiratory events */
+        pcstahda /* use pslp_* variables for % sleep time in respiratory events */
+        pctstapn /* use pslp_* variables for % sleep time in respiratory events */
+        pctsthyp /* use pslp_* variables for % sleep time in respiratory events */
         ;
 
 run;

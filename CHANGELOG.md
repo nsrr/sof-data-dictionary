@@ -2,6 +2,11 @@
 
 - Add initial set of harmonized variables (nsrr_*)
 - Add BP variables from V8 sleep visit
+- Add cyclic alternating pattern (Hartmann/Baumert) variables
+- Remove certain % sleep time in respiratory event variables
+- Add new (pslp_*) variables for % sleep time in respiratory events
+- The CSV datasets generated from the SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\0.7.0.pre\`
 - **Gem Changes**
   - Updated to Ruby 3.0.2
 
