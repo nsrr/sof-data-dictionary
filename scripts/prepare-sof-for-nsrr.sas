@@ -463,9 +463,11 @@ run;
 *******************************************************************************;
 
 data sof_harmonized;
-set sof_all_wo_nmiss;
+  length nsrrid visit 8.;
+  set sof_all_wo_nmiss;
 
   nsrrid = sofid;
+  visit = 8;
 
 *demographics
 *age;
@@ -564,6 +566,7 @@ set sof_all_wo_nmiss;
   
   keep 
     nsrrid
+    visit
     nsrr_age
     nsrr_age_gt89
     nsrr_sex
