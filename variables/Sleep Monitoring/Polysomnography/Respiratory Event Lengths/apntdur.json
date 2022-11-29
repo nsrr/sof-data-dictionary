@@ -1,0 +1,10 @@
+{
+  "id": "apntdur",
+  "display_name": "Total duration of apnea in NREM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "avgdurap_sn_f1t2"
+  ]
+}

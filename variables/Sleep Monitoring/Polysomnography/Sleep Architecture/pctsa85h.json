@@ -1,0 +1,11 @@
+{
+  "id": "pctsa85h",
+  "display_name": "Percent total sleep duration with below 85% oxygen saturation from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctlt85",
+    "pctdursp_salt85_f1t2"
+  ]
+}

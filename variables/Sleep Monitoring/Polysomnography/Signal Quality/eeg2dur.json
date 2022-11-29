@@ -1,0 +1,14 @@
+{
+  "id": "eeg2dur",
+  "display_name": "Hours of usable EEG2 signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "electroencephalography",
+    "electroencephalogram"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

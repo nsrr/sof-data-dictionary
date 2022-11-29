@@ -1,0 +1,10 @@
+{
+  "id": "norlmslp",
+  "display_name": "Number of right limb movements per hour of sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements per hour",
+  "labels": [
+    "phrnumrl_su_f1t2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ortdurop",
+  "display_name": "Total duration of obstructive apnea in REM sleep in non-supine position from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "ttlduroa_srpo_f1t2"
+  ]
+}

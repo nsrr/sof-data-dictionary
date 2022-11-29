@@ -1,0 +1,14 @@
+{
+  "id": "abnoreeg",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Abnormal EEG",
+  "description": "Scorer observed abnormal EEG during study.",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "electroencephalography",
+    "electroencephalogram"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

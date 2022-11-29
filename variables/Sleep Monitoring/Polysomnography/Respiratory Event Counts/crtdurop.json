@@ -1,0 +1,10 @@
+{
+  "id": "crtdurop",
+  "display_name": "Total duration of central apnea in REM sleep in non-supine position from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurca_srpo_f1t2"
+  ]
+}

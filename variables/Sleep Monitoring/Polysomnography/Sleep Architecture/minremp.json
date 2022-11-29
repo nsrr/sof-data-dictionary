@@ -1,0 +1,10 @@
+{
+  "id": "minremp",
+  "display_name": "Total Sleep Duration (REM): the interval between sleep onset time and lights on/out-bed time while the participant is in REM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_sr_f1t2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ahremop",
+  "display_name": "Arousal Index (REM, Non-supine): Number of arousals per hour of REM sleep in non-supine position from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "phrnumar_srpo_f1t2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "lmaslp",
+  "display_name": "Total number of limb movements with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_suso_f1t2"
+  ]
+}

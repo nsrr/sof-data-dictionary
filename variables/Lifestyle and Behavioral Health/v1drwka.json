@@ -1,0 +1,13 @@
+{
+  "id": "v1drwka",
+  "display_name": "Drinks per week adjusted for atypical drinking",
+  "description": "This variable was collected at visit 1, a different timepoint than the 'Visit 8' sleep variables",
+  "type": "numeric",
+  "units": "drinks per week",
+  "labels": [
+    "alcohol",
+    "liquor",
+    "beer",
+    "wine"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pslp_ap3",
+  "display_name": "Percentage of total sleep duration with apneas with >= 3% oxygen desaturation threshold and with or without arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_ap3u_f1t2"
+  ]
+}

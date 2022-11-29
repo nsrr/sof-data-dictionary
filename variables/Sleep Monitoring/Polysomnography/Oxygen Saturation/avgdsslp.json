@@ -1,0 +1,10 @@
+{
+  "id": "avgdsslp",
+  "display_name": "Average oxygen desaturation from type II polysomnography",
+  "description": "entire recording",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "avglvlds_sc_f1t2"
+  ]
+}

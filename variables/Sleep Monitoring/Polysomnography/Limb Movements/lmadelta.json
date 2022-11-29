@@ -1,0 +1,10 @@
+{
+  "id": "lmadelta",
+  "display_name": "Total number of limb movements in stage 3/4 sleep with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_s3so_f1t2"
+  ]
+}

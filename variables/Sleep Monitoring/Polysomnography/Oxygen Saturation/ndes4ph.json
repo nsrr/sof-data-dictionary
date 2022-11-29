@@ -1,0 +1,10 @@
+{
+  "id": "ndes4ph",
+  "display_name": "Total number of oxygen saturation with desat >= 4% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumsa_dsge4_f1t2"
+  ]
+}

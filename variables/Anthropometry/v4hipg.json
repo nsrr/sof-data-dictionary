@@ -1,7 +1,7 @@
 {
   "id": "v4hipg",
   "display_name": "Hip",
-  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
+  "description": "This variable was collected at visit 4, a different timepoint than the 'Visit 8' sleep variables",
   "type": "numeric",
   "units": "centimeters (cm)",
   "labels": [

@@ -1,0 +1,9 @@
+{
+  "id": "a2ok",
+  "display_name": "A2 signal ok",
+  "description": "",
+  "type": "numeric",
+  "forms": [
+    "qs_annotated"
+  ]
+}

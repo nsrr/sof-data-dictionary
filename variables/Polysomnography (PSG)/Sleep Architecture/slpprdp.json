@@ -1,8 +1,0 @@
-{
-  "id": "slpprdp",
-  "display_name": "Total sleep time",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes (min)",
-  "commonly_used": true
-}

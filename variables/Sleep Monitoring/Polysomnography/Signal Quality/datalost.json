@@ -1,0 +1,10 @@
+{
+  "id": "datalost",
+  "display_name": "Was any data lost?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "forms": [
+    "qs_annotated"
+  ]
+}

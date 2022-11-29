@@ -1,0 +1,14 @@
+{
+  "id": "apnhyppr",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Apnea/Hypopnea scoring problems",
+  "description": "Due to signal problems, scorer was unable to reliably distinguish between apnea and hypopnea events.  The distinction between apnea and hypopnea was determined to be unreliable.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "obstructive",
+    "central"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

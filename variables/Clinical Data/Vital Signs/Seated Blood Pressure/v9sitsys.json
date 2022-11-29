@@ -1,0 +1,7 @@
+{
+  "id": "v9sitsys",
+  "display_name": "Systolic blood pressure (SBP) sitting down",
+  "description": "This variable was collected at visit 9, a different timepoint than the 'Visit 8' sleep variables",
+  "type": "numeric",
+  "units": "millimeters of mercury (mmHg)"
+}

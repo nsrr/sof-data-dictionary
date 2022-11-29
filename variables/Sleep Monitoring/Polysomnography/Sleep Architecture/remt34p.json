@@ -1,0 +1,10 @@
+{
+  "id": "remt34p",
+  "display_name": "Total number of shift (sleep stages shift) from REM sleep to stage 3/4 sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "ttlnumsf_srs3_f1t2"
+  ]
+}

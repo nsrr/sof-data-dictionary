@@ -1,7 +1,0 @@
-{
-  "id": "plmtot",
-  "display_name": "Total number of periodic limb movements (PLMs)",
-  "description": "",
-  "type": "numeric",
-  "units": "periodic limb movements"
-}

@@ -1,0 +1,14 @@
+{
+  "id": "qulegr",
+  "display_name": "Quality of LegR (right leg)",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "electromyogram",
+    "electromyography"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

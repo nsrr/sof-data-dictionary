@@ -1,0 +1,11 @@
+{
+  "id": "oavgdur",
+  "display_name": "Average duration of obstructive apnea from type II polysomnography",
+  "description": "entire recording",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgduroa_sc_f1t2"
+  ],
+  "commonly_used": true
+}

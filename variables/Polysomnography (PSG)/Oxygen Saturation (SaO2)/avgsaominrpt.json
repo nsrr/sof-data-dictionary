@@ -1,7 +1,0 @@
-{
-  "id": "avgsaominrpt",
-  "display_name": "Average oxygen saturation (SaO2) minimum (Report time)",
-  "description": "entire recording",
-  "type": "numeric",
-  "units": "percent (%)"
-}

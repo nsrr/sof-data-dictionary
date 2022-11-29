@@ -1,0 +1,10 @@
+{
+  "id": "aptdur",
+  "display_name": "Total duration of all central and obstructive apneas from type II polysomnography",
+  "description": "entire recording",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurap_ap0u_f1t2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mnoanop",
+  "display_name": "Minimum duration of obstructive apnea in NREM sleep in non-supine position: Obstructive apneas with no oxygen desaturation threshold used and with or without arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "minduroa_snpo_oa0u_f1t2"
+  ]
+}

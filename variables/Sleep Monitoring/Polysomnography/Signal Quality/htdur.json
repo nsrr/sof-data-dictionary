@@ -1,0 +1,15 @@
+{
+  "id": "htdur",
+  "display_name": "Hours of usable ECG based on total recording time (TRT)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "ekg",
+    "electrocardiogram",
+    "electrocardiography"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

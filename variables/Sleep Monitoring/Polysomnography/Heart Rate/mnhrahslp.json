@@ -1,0 +1,10 @@
+{
+  "id": "mnhrahslp",
+  "display_name": "Minimum heart rate: Apneas with no oxygen desaturation threshold used and with or without arousal+ hypopneas with > 30% flow reduction and with no oxygen desaturation used and with or without arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "minlvlhr_ap0uhp3x0u_f1t2"
+  ]
+}

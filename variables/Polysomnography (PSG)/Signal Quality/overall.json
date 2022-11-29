@@ -1,8 +1,0 @@
-{
-  "id": "overall",
-  "display_name": "Overall study grade",
-  "description": "",
-  "type": "choices",
-  "domain": "studygrade",
-  "commonly_used": true
-}

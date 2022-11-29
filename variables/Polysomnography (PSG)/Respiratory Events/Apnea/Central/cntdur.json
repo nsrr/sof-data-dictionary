@@ -1,7 +1,0 @@
-{
-  "id": "cntdur",
-  "display_name": "Number of minutes of central apnea (Non-rapid eye movement sleep (NREM))",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes (min)"
-}

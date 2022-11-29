@@ -1,0 +1,13 @@
+{
+  "id": "eogrdur",
+  "display_name": "Hours of usable EOGR signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "electrooculography"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

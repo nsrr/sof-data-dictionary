@@ -1,0 +1,10 @@
+{
+  "id": "ndes2ph",
+  "display_name": "Total number of oxygen saturation with desat >= 2% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "events",
+  "labels": [
+    "ttlnumsa_dsge2_f1t2"
+  ]
+}

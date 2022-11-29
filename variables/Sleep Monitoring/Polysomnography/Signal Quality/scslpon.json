@@ -1,0 +1,12 @@
+{
+  "id": "scslpon",
+  "display_name": "Sleep onset time (scorer) from type II polysomnography",
+  "description": "24-hour clock time written as integer (e.g. 0-2359).",
+  "type": "integer",
+  "labels": [
+    "begtimsp_f1t2"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

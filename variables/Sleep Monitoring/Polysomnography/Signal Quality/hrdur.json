@@ -1,0 +1,13 @@
+{
+  "id": "hrdur",
+  "display_name": "Hours of usable heart rate (HR) signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "bpm"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

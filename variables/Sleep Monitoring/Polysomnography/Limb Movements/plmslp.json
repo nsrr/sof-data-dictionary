@@ -1,0 +1,10 @@
+{
+  "id": "plmslp",
+  "display_name": "Total number of periodic limb movements in sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "periodic limb movements",
+  "labels": [
+    "ttlnumpl_su_f1t2"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "abnoreye",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Abnormal Eye movements",
+  "description": "Scorer observed abnormal eye movements during study.",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "electrooculography",
+    "electrooculogram"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "npplms",
+  "display_name": "If yes to flow limitation, were periodic limb movements (PLMs) associated?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna",
+  "forms": [
+    "qs_annotated"
+  ]
+}

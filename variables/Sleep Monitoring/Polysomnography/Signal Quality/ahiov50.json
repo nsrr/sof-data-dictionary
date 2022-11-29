@@ -1,0 +1,15 @@
+{
+  "id": "ahiov50",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Medical Alert - Apnea-Hypopnea Index (AHI) > 50",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "rdi",
+    "central",
+    "obstructive"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

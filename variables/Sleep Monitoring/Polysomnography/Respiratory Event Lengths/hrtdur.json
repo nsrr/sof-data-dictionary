@@ -1,0 +1,10 @@
+{
+  "id": "hrtdur",
+  "display_name": "Total Duration of Apneas and Hypopneas (REM): Apneas with no oxygen desaturation threshold used and hypopneas with > 30% flow reduction and no oxygen desaturation threshold used during REM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldurah_sr_ap0uhp3x0u_f1t2"
+  ]
+}

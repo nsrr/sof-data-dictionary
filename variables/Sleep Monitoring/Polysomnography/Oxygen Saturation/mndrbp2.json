@@ -1,0 +1,10 @@
+{
+  "id": "mndrbp2",
+  "display_name": "Minimum oxygen saturation in REM sleep in supine position with oxygen desaturation >= 2% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_srpb_ap2uhp3x2u_f1t2"
+  ]
+}

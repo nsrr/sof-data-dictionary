@@ -1,0 +1,10 @@
+{
+  "id": "havgdur",
+  "display_name": "Average duration of hypopnea with > 30% flow reduction and > 0% oxygen desaturation and with or without arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurhp_sc_hp3x0u_f1t2"
+  ]
+}

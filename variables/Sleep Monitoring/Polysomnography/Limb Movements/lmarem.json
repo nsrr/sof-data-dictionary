@@ -1,0 +1,10 @@
+{
+  "id": "lmarem",
+  "display_name": "Total number of limb movements in REM sleep with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_srso_f1t2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "plmastg2",
+  "display_name": "Total number of periodic limb movements in stage 2 sleep with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "periodic limb movements",
+  "labels": [
+    "ttlnumpl_s2so_f1t2"
+  ]
+}

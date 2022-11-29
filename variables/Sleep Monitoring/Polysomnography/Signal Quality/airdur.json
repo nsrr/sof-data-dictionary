@@ -1,0 +1,13 @@
+{
+  "id": "airdur",
+  "display_name": "Hours of usable airflow signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "thermistor"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "plmcstg2",
+  "display_name": "Total number of periodic limb movement clusters in stage 2 sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "periodic limb movements",
+  "labels": [
+    "ttlnumpc_s2_f1t2"
+  ]
+}

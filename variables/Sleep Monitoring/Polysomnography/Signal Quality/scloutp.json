@@ -1,0 +1,9 @@
+{
+  "id": "scloutp",
+  "display_name": "Lights out - start of study set by scorer",
+  "description": "",
+  "type": "time",
+  "forms": [
+    "qs_annotated"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "v1hyten",
   "display_name": "Hypertension status",
-  "description": "Defined by systolic blood pressure > 160, diastolic blood pressure > 90, or use of thiazides. This variable was collected at a different timepoint than the 'Visit 8' sleep variables.",
+  "description": "Defined by systolic blood pressure > 160, diastolic blood pressure > 90, or use of thiazides. This variable was collected at visit 1, a different timepoint than the 'Visit 8' sleep variables.",
   "type": "choices",
   "domain": "hytenstatus",
   "labels": [

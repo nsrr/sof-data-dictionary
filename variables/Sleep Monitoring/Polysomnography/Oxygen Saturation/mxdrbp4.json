@@ -1,0 +1,10 @@
+{
+  "id": "mxdrbp4",
+  "display_name": "Maximum oxygen saturation in REM sleep in supine position with oxygen desaturation >= 4% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "maxlvlsa_srpb_ap4uhp3x4u_f1t2"
+  ]
+}

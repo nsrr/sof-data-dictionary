@@ -1,0 +1,10 @@
+{
+  "id": "mnoaroa5",
+  "display_name": "Minimum duration of obstructive apnea in REM sleep in non-supine position: Obstructive apneas with >= 5% oxygen desaturation or with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "minduroa_srpo_oa5r_f1t2"
+  ]
+}

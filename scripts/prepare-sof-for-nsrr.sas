@@ -195,8 +195,8 @@ data v8vital;
 run;
 
 data v8sleep;
-	set sof.v8sleep;
-	keep id V8LBPSYS V8LBPDIA;
+  set sof.v8sleep;
+  keep id V8LBPSYS V8LBPDIA;
 run;
 
 data v8psg;
@@ -205,11 +205,18 @@ data v8psg;
   rename pdrid=id;
 run;
 
-proc sort
-  data=v8psg;
+proc sort data=v8psg;
 
   by id;
 run;
+
+/*
+
+proc means data=v8psg;
+  var pctstapn pctsthyp pcstah3d pcstahda pslp_ca0 pslp_oa0 pslp_ap0 pslp_ap3 pslp_hp0 pslp_hp3 pslp_hp3a pslp_ap0hp3 pslp_ap0hp3a;
+run;
+
+*/
 
 data cc;
   merge v4anthro v8medhx v8lifestyle v8endpt v1lifestyle v5medhx v6medhx v4medhx v2medhx v1medhx v9medhx v1vital v9vital v8anthro v8demogr v8psg v8vital v8sleep;
@@ -224,9 +231,32 @@ proc sort data=sao2;
   by id;
 run;
 
+*import cyclic alternating pattern variables;
+proc import datafile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\cyclic-alternating-pattern\SOFEvaluation_19-Jul-2019.xlsx"
+  out=sof_cap_in
+  dbms=xlsx
+  replace;
+  sheet="CAP";
+run;
+
+data sof_cap;
+  set sof_cap_in;
+run;
+
+proc sort data=sof_cap nodupkey;
+  by id;
+run;
+
+*combine sub-datasets;
 data sof_all_wo_nmiss;
   length id obf_pptid 8.;
-  merge cc aa sao2 obf.obfid;
+  merge 
+    cc 
+    aa 
+    sao2 
+    sof_cap 
+    obf.obfid
+    ;
   by id;
 
   visit = 8;
@@ -263,6 +293,8 @@ data sof_all_wo_nmiss;
   if v8bmi <= 10 then v8bmi = .;
   if v8hght <= 10 then v8hght = .;
   if v8wght <= 10 then v8wght = .;
+  if v8lbpsys <= 10 then v8lbpsys = .;
+  if v8lbpdia <= 10 then v8lbpdia = .;
 
   *create new AHI variables for ICSD3;
   ahi_a0h3 = 60 * (hrembp3 + hrop3 + hnrbp3 + hnrop3 + carbp + carop + canbp + canop + oarbp + oarop + oanbp + oanop ) / slpprdp;
@@ -283,9 +315,92 @@ data sof_all_wo_nmiss;
   cent_obs_ratio = (carbp + carop + canbp + canop) / (oarbp + oarop + oanbp + oanop);
   cent_obs_ratioa = (carba + caroa + canba + canoa) / (oarba + oaroa + oanba + oanoa);
 
+ *compute % sleep time in respiratory event types;
+  *time in central apneas;
+  pslp_ca0 = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in obstructive apneas;
+  pslp_oa0 = 
+    100 * (
+    ((((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas (central + obstructive);
+  pslp_ap0 = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas (central + obstructive) with >=3% desaturation;
+  pslp_ap3 = 
+    100 * (
+    ((((CARBP3 * AVCARBP3) + (CAROP3 * AVCAROP3) + (CANBP3 * AVCANBP3) + (CANOP3 * AVCANOP3))/ 60) + (((OARBP3 * AVOARBP3) + (OAROP3 * AVOAROP3) + (OANBP3 * AVOANBP3) + (OANOP3 * AVOANOP3)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all hypopneas;
+  pslp_hp0 = 
+    100 * (
+    (((HREMBP*AVHRBP) + (HROP*AVHROP) + (HNRBP*AVHNBP) + (HNROP*AVHNOP)) / 60)
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all hypopneas with >=3% desaturation;
+  pslp_hp3 = 
+    100 * (
+    (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60)
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all hypopneas with >=3% desaturation or arousal;
+  pslp_hp3a = 
+    100 * (
+    (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60)
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas + hypopneas w/ >=3% desaturation;
+  pslp_ap0hp3 = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBP3*AVHRBP3) + (HROP3*AVHROP3) + (HNRBP3*AVHNBP3) + (HNROP3*AVHNOP3)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
+  *time in all apneas + hypopneas w/ >=3% desaturation or arousal;
+  pslp_ap0hp3a = 
+    100 * (
+    ((((CARBP * AVCARBP) + (CAROP * AVCAROP) + (CANBP * AVCANBP) + (CANOP * AVCANOP)) / 60) + (((OARBP * AVOARBP) + (OAROP * AVOAROP) + (OANBP * AVOANBP) + (OANOP * AVOANOP)) / 60) + (((HREMBA3*AVHRBA3) + (HROA3*AVHROA3) + (HNRBA3*AVHNBA3) + (HNROA3*AVHNOA3)) / 60))
+    /
+    (SLPPRDP)
+    )
+    ;
+
   drop  id
         obf_pptid
-        scorerid stdatep
+        scorerid 
+        stdatep
         scoredt
         StdyDt
         ScorDt
@@ -332,6 +447,13 @@ data sof_all_wo_nmiss;
         timest2p  /* duplicate of tmstg2p */
         timest34  /* duplicate of mnstg34p */
         slp_rdi   /* duplicate of slpprdp */
+        artifact /* studies contain little artifact, variable not useful */
+        ecgou /* all the same value, never indicated on qs form */
+        pcstah3d /* use pslp_ap0hp3 variables for % sleep time in respiratory events */
+        /*pcstahar  use pslp_* variables for % sleep time in respiratory events */
+        pcstahda /* use pslp_ap0hp3a variables for % sleep time in respiratory events */
+        pctstapn /* use pslp_ap0 variables for % sleep time in respiratory events */
+        pctsthyp /* use pslp_hp0 variables for % sleep time in respiratory events */
 		slptime /*duplicate of slpprdp*/
 		avgsaominr /*unclear metadata, more reliable variable available*/
 		avgsaominrpt /*unclear metadata, more reliable variable available*/
@@ -349,9 +471,11 @@ run;
 *******************************************************************************;
 
 data sof_harmonized;
-set sof_all_wo_nmiss;
+  length nsrrid visit 8.;
+  set sof_all_wo_nmiss;
 
-nsrrid=sofid;
+  nsrrid = sofid;
+  visit = 8;
 
 *demographics
 *age;
@@ -376,7 +500,7 @@ nsrrid=sofid;
 *race;
 *use race;
     format nsrr_race $100.;
-	if race = '1' then nsrr_race = 'white';
+  if race = '1' then nsrr_race = 'white';
     else if race = '2' then nsrr_race = 'black or african american';
     else if race = '.' then nsrr_race = 'not reported';
 
@@ -446,7 +570,7 @@ nsrrid=sofid;
     else if slewake = 0 then nsrr_flag_spsw = 'full scoring';
     else if slewake = 8 then nsrr_flag_spsw = 'unknown';
   else if slewake = . then nsrr_flag_spsw = 'unknown';  
-
+  
 *nsrr_ttleffsp_f1;
 *use slp_eff;
   format nsrr_ttleffsp_f1 8.2;
@@ -551,12 +675,11 @@ run;
 /* Checking categorical variables */
 proc freq data=mesa_harmonized;
 table   nsrr_age_gt89
-    	nsrr_sex
-    	nsrr_race
-		nsrr_flag_spsw
-		nsrr_current_smoker;
+      nsrr_sex
+      nsrr_race
+    nsrr_flag_spsw
+    nsrr_current_smoker;
 run;
-
 
 
 *******************************************************************************;
@@ -589,10 +712,10 @@ run;
     dbms = csv
     replace;
   run;
-  
+
   proc export
     data = sof_harmonized
-    outfile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-harmonized-&version..csv"
+    outfile="\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\&version.\sof-visit-8-harmonized-dataset-&version..csv"
     dbms = csv
     replace;
   run;

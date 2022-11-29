@@ -1,0 +1,16 @@
+{
+  "id": "plmdel",
+  "display_name": "50 percent of periodic limb movements (PLMs) deleted due to occurrence after respiratory event?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna",
+  "labels": [
+    "apnea",
+    "hypopnea",
+    "obstructive",
+    "central"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

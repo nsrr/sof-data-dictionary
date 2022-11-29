@@ -1,0 +1,9 @@
+{
+  "id": "stendp",
+  "display_name": "Clock time when the recording (study) ends from type II polysomnography",
+  "description": "Study end time (last epoch recorded or last epoch cropped)",
+  "type": "time",
+  "labels": [
+    "endtimrd_f1t2"
+  ]
+}

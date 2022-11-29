@@ -1,0 +1,10 @@
+{
+  "id": "v8smok",
+  "display_name": "Do you currently smoke cigarettes?",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "smoking"
+  ]
+}

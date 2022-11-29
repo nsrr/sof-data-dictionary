@@ -1,0 +1,10 @@
+{
+  "id": "lmstg1",
+  "display_name": "Total number of limb movements in stage 1 sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_s2_f1t2"
+  ]
+}

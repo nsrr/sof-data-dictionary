@@ -1,0 +1,12 @@
+{
+  "id": "v1drink",
+  "display_name": "In the past 12 months, have you had at least one drink of any kind of alcoholic beverage?",
+  "description": "This variable was collected at visit 1, a different timepoint than the 'Visit 8' sleep variables",
+  "type": "choices",
+  "domain": "noyesrna",
+  "labels": [
+    "liquor",
+    "beer",
+    "wine"
+  ]
+}

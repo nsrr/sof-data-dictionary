@@ -1,0 +1,10 @@
+{
+  "id": "stg2t1p",
+  "display_name": "Total number of shift (sleep stages shift) from stage 2 to stage 1 sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "stage shifts",
+  "labels": [
+    "ttlnumsf_s2s1_f1t2"
+  ]
+}

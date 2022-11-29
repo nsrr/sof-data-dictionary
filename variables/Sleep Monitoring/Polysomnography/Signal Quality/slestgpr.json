@@ -1,0 +1,10 @@
+{
+  "id": "slestgpr",
+  "display_name": "Problems with sleep staging",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesna",
+  "forms": [
+    "qs_annotated"
+  ]
+}

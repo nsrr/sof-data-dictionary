@@ -1,7 +1,7 @@
 {
   "id": "v9eangio",
   "display_name": "Blockage of the coronary arteries requiring angioplasty or stenting procedure?",
-  "description": "This variable was collected at a different timepoint than the 'Visit 8' sleep variables",
+  "description": "This variable was collected at visit 9, a different timepoint than the 'Visit 8' sleep variables",
   "type": "choices",
   "domain": "noyesmin",
   "labels": [

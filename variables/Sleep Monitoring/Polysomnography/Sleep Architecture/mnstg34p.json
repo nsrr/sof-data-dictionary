@@ -1,0 +1,10 @@
+{
+  "id": "mnstg34p",
+  "display_name": "Total duration of stage 3-4 sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "ttldursp_s3_f1t2"
+  ]
+}

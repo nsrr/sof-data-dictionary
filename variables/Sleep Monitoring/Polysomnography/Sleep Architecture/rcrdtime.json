@@ -1,0 +1,10 @@
+{
+  "id": "rcrdtime",
+  "display_name": "Total recording period from type II polysomnography",
+  "description": "Total recording time (TRT)",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "ttlprdrd_f1t2"
+  ]
+}

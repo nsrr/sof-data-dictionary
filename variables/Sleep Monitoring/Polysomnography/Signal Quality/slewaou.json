@@ -1,0 +1,19 @@
+{
+  "id": "slewaou",
+  "display_name": "Scored sleep/wake only?",
+  "description": "",
+  "type": "choices",
+  "domain": "slpwkscoring",
+  "labels": [
+    "non-rem",
+    "non rem",
+    "nrem",
+    "non-rapid eye movement",
+    "non rapid",
+    "rem",
+    "rapid eye movement"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

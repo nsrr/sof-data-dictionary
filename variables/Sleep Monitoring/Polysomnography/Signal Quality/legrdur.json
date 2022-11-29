@@ -1,0 +1,14 @@
+{
+  "id": "legrdur",
+  "display_name": "Hours of usable LegR (right leg)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "electromyogram",
+    "electromyography"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

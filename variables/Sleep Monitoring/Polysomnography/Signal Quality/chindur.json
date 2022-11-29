@@ -1,0 +1,14 @@
+{
+  "id": "chindur",
+  "display_name": "Hours of usable chin signal",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "electromyogram",
+    "electromyography"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

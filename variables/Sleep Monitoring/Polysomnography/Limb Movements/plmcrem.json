@@ -1,0 +1,10 @@
+{
+  "id": "plmcrem",
+  "display_name": "Total number of periodic limb movement clusters in REM sleep from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "periodic limb movements",
+  "labels": [
+    "ttlnumpc_sr_f1t2"
+  ]
+}

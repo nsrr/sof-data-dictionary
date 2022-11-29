@@ -1,0 +1,13 @@
+{
+  "id": "queogr",
+  "display_name": "Quality of EOG R",
+  "description": "",
+  "type": "choices",
+  "domain": "signalofsleeptime",
+  "labels": [
+    "electrooculography"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

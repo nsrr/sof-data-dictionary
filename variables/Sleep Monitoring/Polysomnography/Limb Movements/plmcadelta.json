@@ -1,0 +1,10 @@
+{
+  "id": "plmcadelta",
+  "display_name": "Total number of periodic limb movement clusters in stage 3/4 sleep with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "periodic limb movements",
+  "labels": [
+    "ttlnumpc_s3so_f1t2"
+  ]
+}

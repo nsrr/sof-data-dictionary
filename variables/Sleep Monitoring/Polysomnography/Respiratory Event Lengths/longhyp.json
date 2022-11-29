@@ -1,0 +1,11 @@
+{
+  "id": "longhyp",
+  "display_name": "Maximum duration of hypopnea associated with > 30% flow reduction and > 0% oxygen desaturation and with or without arousal from type II polysomnography",
+  "description": "entire recording",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "maxdurhp_sc_hp3x0u_f1t2"
+  ],
+  "commonly_used": true
+}

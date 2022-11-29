@@ -1,0 +1,10 @@
+{
+  "id": "tmstg1p",
+  "display_name": "Percentage of total sleep duration in stage 1 from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "pctdursp_s1_f1t2"
+  ]
+}

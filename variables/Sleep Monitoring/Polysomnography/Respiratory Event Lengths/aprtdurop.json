@@ -1,0 +1,10 @@
+{
+  "id": "aprtdurop",
+  "display_name": "Total duration of apnea in REM sleep in non-supine position from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "avgdurap_srpo_f1t2"
+  ]
+}

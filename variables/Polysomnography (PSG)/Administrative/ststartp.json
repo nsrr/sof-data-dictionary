@@ -1,6 +1,0 @@
-{
-  "id": "ststartp",
-  "display_name": "Study start time (equal to epoch 1 - recorder turned on)",
-  "description": "",
-  "type": "time"
-}

@@ -1,0 +1,14 @@
+{
+  "id": "aroign",
+  "display_name": "Polysomnography (PSG) Quality Assessment: Arousals Ignored",
+  "description": "Due to problems with EEG signals, arousals were ignored in scoring.",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "electroencephalography",
+    "electroencephalogram"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}

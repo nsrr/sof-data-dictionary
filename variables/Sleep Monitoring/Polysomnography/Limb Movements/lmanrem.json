@@ -1,0 +1,10 @@
+{
+  "id": "lmanrem",
+  "display_name": "Total number of limb movements in NREM sleep with arousal from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "limb movements",
+  "labels": [
+    "ttlnumlm_snso_f1t2"
+  ]
+}

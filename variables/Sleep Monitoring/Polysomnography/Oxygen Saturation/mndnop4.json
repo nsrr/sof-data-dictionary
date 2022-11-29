@@ -1,0 +1,10 @@
+{
+  "id": "mndnop4",
+  "display_name": "Minimum oxygen saturation in NREM sleep in non-supine position with oxygen desaturation >= 4% from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "minlvlsa_snpo_ap4uhp3x4u_f1t2"
+  ]
+}

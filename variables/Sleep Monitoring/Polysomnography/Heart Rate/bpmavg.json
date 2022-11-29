@@ -1,0 +1,10 @@
+{
+  "id": "bpmavg",
+  "display_name": "Average level of heart rate during the entire recording from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute (bpm)",
+  "labels": [
+    "avglvlhr_sc_f1t2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cavgdur",
+  "display_name": "Average duration of central apnea from type II polysomnography",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds (s)",
+  "labels": [
+    "avgdurca_sc_f1t2"
+  ]
+}

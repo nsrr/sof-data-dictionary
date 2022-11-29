@@ -1,0 +1,14 @@
+{
+  "id": "candur",
+  "display_name": "Hours of usable cannula based on total recording time (TRT)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours (h)",
+  "labels": [
+    "nasal pressure",
+    "pressure transducer"
+  ],
+  "forms": [
+    "qs_annotated"
+  ]
+}
