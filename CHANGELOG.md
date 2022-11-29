@@ -1,3 +1,10 @@
+## 0.8.0
+
+- Add harmonized sleep architecture variables
+- Revise metadata for many variables
+- The CSV datasets generated from the SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\0.8.0\`
+
 ## 0.7.0 (July 27, 2022)
 
 - Add initial set of harmonized variables (nsrr_*)
