@@ -450,7 +450,7 @@ data sof_all_wo_nmiss;
         artifact /* studies contain little artifact, variable not useful */
         ecgou /* all the same value, never indicated on qs form */
         pcstah3d /* use pslp_ap0hp3 variables for % sleep time in respiratory events */
-        /*pcstahar  use pslp_* variables for % sleep time in respiratory events */
+        pcstahar  /*use pslp_* variables for % sleep time in respiratory events */
         pcstahda /* use pslp_ap0hp3a variables for % sleep time in respiratory events */
         pctstapn /* use pslp_ap0 variables for % sleep time in respiratory events */
         pctsthyp /* use pslp_hp0 variables for % sleep time in respiratory events */
@@ -618,6 +618,7 @@ data sof_harmonized;
   
   keep 
     nsrrid
+	visit
     nsrr_age
     nsrr_age_gt89
     nsrr_sex
