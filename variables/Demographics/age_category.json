@@ -1,7 +1,7 @@
 {
   "id": "age_category",
   "display_name": "Age (categorical)",
-  "description": "",
+  "description": "Age categorized into: 74 and under, 75 to 84, or 85 and older. Source: :v8age: at Visit 8",
   "type": "choices",
   "domain": "age"
 }
