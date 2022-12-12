@@ -1,4 +1,4 @@
-## 0.8.0
+## 0.8.0 (December 12, 2022)
 
 - Add harmonized sleep architecture variables
 - Revise metadata for many variables
