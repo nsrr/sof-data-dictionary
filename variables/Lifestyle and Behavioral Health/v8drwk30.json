@@ -3,7 +3,7 @@
   "display_name": "Which one of these statements comes closest to describing how often you drank any alcoholic beverages in the last 30 days?",
   "description": "",
   "type": "numeric",
-  "units": "drinks",
+  "units": "number of servings per month",
   "labels": [
     "liquor",
     "beer",
