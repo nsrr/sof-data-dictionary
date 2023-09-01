@@ -3,7 +3,7 @@
   "display_name": "Number of periodic limb movements per hour of awake from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "limb movements per hour",
+  "units": "number of events per hour",
   "labels": [
     "phrnumpl_sw_f1t2"
   ]

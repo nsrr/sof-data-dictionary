@@ -3,7 +3,7 @@
   "display_name": "Total number of limb movements in stage 3/4 sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumlm_s3_f1t2"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Total number of limb movements in stage 2 sleep with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumlm_s2so_f1t2"
   ]

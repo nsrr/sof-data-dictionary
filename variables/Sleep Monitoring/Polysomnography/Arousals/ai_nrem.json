@@ -3,7 +3,7 @@
   "display_name": "Arousal Index (NREM): Number of arousals per hour of NREM sleep from type II polysomnography",
   "description": "Total arousals in non-rapid eye movement sleep (NREM) per hours of non-rapid eye movement sleep (NREM)",
   "type": "numeric",
-  "units": "events per hour",
+  "units": "number of events per hour",
   "calculation": "60 * ( arnrembp + arnremop ) / ( slpprdp - minremp )",
   "labels": [
     "phrnumar_sn_f1t2"
