@@ -3,7 +3,7 @@
   "display_name": "Hours of usable LegL (left leg)",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "labels": [
     "electromyogram",
     "electromyography"

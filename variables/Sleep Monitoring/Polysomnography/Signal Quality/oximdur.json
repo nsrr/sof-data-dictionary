@@ -3,7 +3,7 @@
   "display_name": "Hours of usable oximetry",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "labels": [
     "Oxygen Saturation",
     "sao2"

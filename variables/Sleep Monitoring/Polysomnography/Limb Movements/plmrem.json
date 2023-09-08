@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movements in REM sleep from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "periodic limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpl_sr_f1t2"
   ]

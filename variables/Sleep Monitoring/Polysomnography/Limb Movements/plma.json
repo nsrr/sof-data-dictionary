@@ -3,7 +3,7 @@
   "display_name": "Total number of periodic limb movements with arousal from type II polysomnography",
   "description": "",
   "type": "numeric",
-  "units": "periodic limb movements",
+  "units": "number of events",
   "labels": [
     "ttlnumpl_suso_f1t2"
   ]

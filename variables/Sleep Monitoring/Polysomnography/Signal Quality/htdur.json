@@ -3,7 +3,7 @@
   "display_name": "Hours of usable ECG based on total recording time (TRT)",
   "description": "",
   "type": "numeric",
-  "units": "hours (h)",
+  "units": "hours (hr)",
   "labels": [
     "ekg",
     "electrocardiogram",
