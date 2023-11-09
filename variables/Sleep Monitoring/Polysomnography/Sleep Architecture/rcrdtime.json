@@ -3,7 +3,7 @@
   "display_name": "Total recording period from type II polysomnography",
   "description": "Total recording time (TRT)",
   "type": "numeric",
-  "units": "hours (hr)",
+  "units": "minutes (min)",
   "labels": [
     "ttlprdrd_f1t2"
   ]

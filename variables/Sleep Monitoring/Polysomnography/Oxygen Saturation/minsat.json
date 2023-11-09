@@ -6,7 +6,7 @@
   "units": "percent (%)",
   "calculation": "min(losao2r,losao2nr)",
   "labels": [
-    "minlvlsa_f1t2"
+    "minlvlsa_sp_f1t2"
   ],
   "commonly_used": true
 }

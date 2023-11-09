@@ -5,7 +5,7 @@
   "type": "numeric",
   "units": "kilograms per meters squared (kg/m2)",
   "labels": [
-    "bmi_baseline_1"
+    "bmi"
   ],
   "commonly_used": true
 }

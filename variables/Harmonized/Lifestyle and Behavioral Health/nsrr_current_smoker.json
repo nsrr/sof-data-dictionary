@@ -5,7 +5,8 @@
   "type": "choices",
   "domain": "nsrr_current_smoker",
   "labels": [
-    "smoking"
+    "smoking",
+    "current_smoker"
   ],
   "commonly_used": true
 }

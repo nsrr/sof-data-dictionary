@@ -1,3 +1,10 @@
+## 0.9.0
+
+- Add more harmonized AHI and oxygen saturation variables
+- Revise unit use for many variables
+- The CSV datasets generated from the SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\0.9.0\`
+  
 ## 0.8.0 (December 12, 2022)
 
 - Add harmonized sleep architecture variables

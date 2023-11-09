@@ -3,6 +3,7 @@
   "display_name": "Lights on - end of study set by scorer",
   "description": "",
   "type": "time",
+  "units": "hh:mm:ss",
   "forms": [
     "qs_annotated"
   ]

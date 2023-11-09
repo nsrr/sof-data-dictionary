@@ -1,5 +1,5 @@
 {
-  "id": "nsrr_ttlprdbd_f1",
+  "id": "nsrr_tib_f1",
   "display_name": "Total period of bed (i.e., time in bed) from polysomnography",
   "description": "Harmonized by the NSRR team. Source: :timebedp: at Visit 8",
   "type": "numeric",

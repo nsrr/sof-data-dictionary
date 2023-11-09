@@ -3,6 +3,7 @@
   "display_name": "Clock time when the recording (study) starts from type II polysomnography",
   "description": "Study start time (equal to epoch 1 - recorder turned on)",
   "type": "time",
+  "units": "hh:mm:ss",
   "labels": [
     "begtimrd_f1t2"
   ]

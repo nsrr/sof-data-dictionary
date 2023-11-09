@@ -6,7 +6,8 @@
   "units": "minutes (min)",
   "labels": [
     "ttldursp_f1t2",
-    "slptime"
+    "slptime",
+    "tst"
   ],
   "commonly_used": true
 }

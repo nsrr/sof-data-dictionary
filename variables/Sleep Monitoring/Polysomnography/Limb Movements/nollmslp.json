@@ -5,6 +5,6 @@
   "type": "numeric",
   "units": "number of events per hour",
   "labels": [
-    "phrnumll_su_f1t2"
+    "phrnumll_sp_f1t2"
   ]
 }

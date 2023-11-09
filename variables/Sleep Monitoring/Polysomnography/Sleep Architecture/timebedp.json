@@ -5,7 +5,8 @@
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [
-    "ttlprdbd_f1t2"
+    "ttlprdbd_f1t2",
+    "tib"
   ],
   "forms": [
     "qs_annotated"
