@@ -483,6 +483,9 @@ data sof_all_wo_nmiss;
 		lowsaoslp /* duplicate of minsat */
 		rdi		/*unclear metadata, more reliable variable available*/
 		slpeffp /* duplicate of slp_eff */
+		lmtot /*unclear metadata, use lmslp instead */
+		plmctot /*unclear metadata, use plmcslp instead*/
+		plmtot /*unclear metadata, use plmslp instead*/
         ;
 
 run;

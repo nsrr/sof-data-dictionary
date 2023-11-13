@@ -2,6 +2,7 @@
 
 - Add more harmonized AHI and oxygen saturation variables
 - Revise unit use for many variables
+- Remove lmtot, plmctot and plmtot 
 - The CSV datasets generated from the SAS export are located here:
   - `\\rfawin\bwh-sleepepi-sof\nsrr-prep\_releases\0.9.0\`
   
